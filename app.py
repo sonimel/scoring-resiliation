@@ -50,7 +50,7 @@ for col in cat_cols:
     client[col] = st.sidebar.selectbox(col, cats[col]) 
 
 #Etape 20
-SEUIL_RISQUE = 0.55 
+SEUIL_RISQUE = 0.50
 SEUIL_MODERE = 0.40 
   
 if st.button('🔮 Prédire', type='primary', use_container_width=True):
