@@ -1,6 +1,6 @@
 {
   "modele": "Random Forest",
-  "auc_test": 0.795,
+  "auc_test": 0.853,
   "num_cols": [
     "Âge",
     "Salaire Annuel (€)",
@@ -21,27 +21,27 @@
     "Âge": {
       "min": 18.0,
       "max": 79.0,
-      "median": 42.0
+      "median": 50.0
     },
     "Salaire Annuel (€)": {
-      "min": 5000.0,
-      "max": 82200.0,
-      "median": 28100.0
+      "min": 14000.0,
+      "max": 90433.0,
+      "median": 36117.0
     },
     "Prime Annuelle (€)": {
-      "min": 244.0,
-      "max": 3116.0,
-      "median": 769.5
+      "min": 150.0,
+      "max": 3056.0,
+      "median": 693.0
     },
     "Ancienneté (mois)": {
       "min": 1.0,
-      "max": 179.0,
-      "median": 98.0
+      "max": 359.0,
+      "median": 128.0
     },
     "Coeff. Bonus-Malus": {
       "min": 0.5,
-      "max": 1.54,
-      "median": 0.86
+      "max": 3.24,
+      "median": 0.8
     },
     "Nb Sinistres (3 ans)": {
       "min": 0.0,
@@ -50,13 +50,13 @@
     },
     "Montant Sinistres (€)": {
       "min": 0.0,
-      "max": 18678.0,
+      "max": 13068.0,
       "median": 0.0
     },
     "Score Risque (0-100)": {
       "min": 0.0,
-      "max": 98.0,
-      "median": 32.0
+      "max": 100.0,
+      "median": 13.0
     }
   },
   "cat_values": {
@@ -69,23 +69,27 @@
     "Catégorie Prof.": [
       "Cadre",
       "Employé",
-      "Indépendant",
+      "Entrepreneur",
+      "Fonctionnaire",
       "Ouvrier",
+      "Profession libérale",
       "Retraité",
-      "Sans emploi",
-      "Étudiant"
+      "Technicien"
     ],
     "Usage Véhicule": [
-      "Privé",
-      "Professionnel",
-      "Trajet travail"
+      "Domicile-Travail",
+      "Loisirs",
+      "Mixte",
+      "Professionnel"
     ],
     "Dernier Sinistre": [
-      "1-2 ans",
-      "2-3 ans",
-      "6-12 mois",
-      "< 6 mois",
-      "Aucun"
+      "Accident",
+      "Aucun",
+      "Bris de glace",
+      "Catastrophe naturelle",
+      "Dégât des eaux",
+      "Incendie",
+      "Vol"
     ]
   }
 }

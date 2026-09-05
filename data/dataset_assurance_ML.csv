@@ -1,501 +1,501 @@
 ﻿N° Police,Nom,Prénom,Sexe,Âge,Catégorie Prof.,Salaire Annuel (€),Ville,Code Postal,Type Contrat,Statut Contrat,Date Souscription,Date Échéance,Ancienneté (mois),Prime Annuelle (€),Franchise (€),Nb Garanties,Type Véhicule,Usage Véhicule,Puissance Fiscale (CV),Valeur Véhicule (€),Coeff. Bonus-Malus,Nb Sinistres (3 ans),Montant Sinistres (€),Dernier Sinistre,Score Risque (0-100),Résiliation
-POL-2026-00001,Lambert,Fatou,F,32,Cadre,46800,Paris,75015,Bronze,Actif,20/11/2013,20/11/2026,153,558,600,3,Berline,Privé,8,21300,0.96,2,10017,1-2 ans,38,0
-POL-2026-00002,Lefebvre,Samuel,H,54,Employé,28500,Paris,75018,Gold,Résilié,24/12/2012,24/12/2026,164,1024,300,8,Citadine,Trajet travail,5,14900,0.93,2,16071,2-3 ans,51,1
-POL-2026-00003,Simon,Léa,F,42,Indépendant,32200,Toulouse,31004,Platine,Actif,06/09/2012,06/09/2026,167,1783,150,11,SUV,Trajet travail,7,46500,0.75,1,1964,1-2 ans,8,0
-POL-2026-00004,David,Amina,F,38,Employé,30700,Paris,75001,Bronze,Actif,12/01/2022,12/01/2027,55,394,600,2,SUV,Trajet travail,9,33400,0.5,0,0,Aucun,0,0
-POL-2026-00005,Martinez,Michel,H,41,Employé,29600,Paris,75011,Platine,Actif,28/07/2024,28/07/2027,25,3116,100,9,Sportive,Professionnel,17,38500,1.0,0,0,Aucun,43,0
-POL-2026-00006,Laurent,Élodie,F,45,Ouvrier,24100,Toulouse,31006,Silver,Actif,26/08/2023,26/08/2026,36,1197,600,5,Sportive,Trajet travail,12,21700,1.22,1,4615,< 6 mois,74,0
-POL-2026-00007,Kamga,Amina,F,50,Indépendant,36300,Lyon,69008,Silver,Actif,30/08/2024,30/08/2026,24,948,600,5,SUV,Trajet travail,9,30800,1.07,0,0,Aucun,58,0
-POL-2026-00008,Mercier,Aïcha,F,29,Étudiant,10100,Bordeaux,33004,Gold,Actif,25/05/2012,25/05/2027,171,956,300,6,SUV,Professionnel,10,30300,0.5,0,0,Aucun,10,0
-POL-2026-00009,Mbarga,Samuel,H,28,Employé,24900,Nice,6007,Gold,Actif,14/05/2013,14/05/2027,159,637,400,8,SUV,Privé,7,32000,0.56,0,0,Aucun,0,0
-POL-2026-00010,Rousseau,Éric,H,56,Employé,28400,Paris,75007,Gold,Actif,05/06/2014,05/06/2027,146,972,400,8,Berline,Privé,8,46000,0.61,0,0,Aucun,0,0
-POL-2026-00011,Bertrand,Julien,H,37,Sans emploi,7100,Nice,6007,Silver,Actif,18/09/2015,18/09/2026,131,557,400,4,SUV,Privé,8,46300,0.51,0,0,Aucun,0,0
-POL-2026-00012,Simon,Céline,F,24,Employé,36200,Nice,6014,Silver,Actif,29/06/2021,29/06/2027,62,1128,400,5,Citadine,Professionnel,5,15800,0.91,2,845,6-12 mois,79,0
-POL-2026-00013,Muller,Julie,F,48,Employé,20900,Nantes,44011,Bronze,Actif,30/06/2019,30/06/2027,86,661,1000,2,SUV,Privé,10,21400,0.91,1,3196,1-2 ans,50,0
-POL-2026-00014,David,Émilie,F,48,Employé,33900,Bordeaux,33009,Bronze,Actif,21/01/2014,21/01/2027,151,424,600,3,Sportive,Trajet travail,10,37600,0.51,2,2464,2-3 ans,16,0
-POL-2026-00015,Laurent,Éric,H,22,Ouvrier,11800,Bordeaux,33002,Silver,Résilié,24/06/2014,24/06/2027,146,1170,400,4,Citadine,Privé,4,11600,1.08,1,3385,6-12 mois,55,1
-POL-2026-00016,Traoré,Hugo,H,45,Retraité,23600,Bordeaux,33011,Bronze,Actif,15/11/2018,15/11/2026,93,487,800,3,Utilitaire,Privé,6,13700,0.97,0,0,Aucun,33,0
-POL-2026-00017,Mercier,Claire,F,52,Indépendant,53400,Bordeaux,33003,Bronze,Actif,26/02/2014,26/02/2027,150,838,1000,3,Sportive,Trajet travail,19,53600,0.69,0,0,Aucun,27,0
-POL-2026-00018,Dubois,David,H,47,Indépendant,43400,Paris,75006,Bronze,Actif,26/05/2021,26/05/2027,63,329,1000,2,Citadine,Privé,4,13600,0.79,0,0,Aucun,12,0
-POL-2026-00019,Mercier,Marie,F,50,Employé,30500,Nice,6008,Bronze,Actif,17/05/2020,17/05/2027,75,327,600,2,Berline,Professionnel,9,15000,0.5,0,0,Aucun,0,0
-POL-2026-00020,André,Nathalie,F,24,Cadre,41400,Toulouse,31002,Silver,Actif,25/01/2014,25/01/2027,151,1225,500,5,Utilitaire,Privé,5,27400,0.83,0,0,Aucun,43,0
-POL-2026-00021,Mbarga,Sophie,F,46,Cadre,53900,Lille,59007,Silver,Actif,22/12/2020,22/12/2026,68,1727,600,5,Sportive,Professionnel,14,46600,0.83,0,0,Aucun,29,0
-POL-2026-00022,Guerin,Pierre,H,38,Employé,26200,Lyon,69005,Silver,Actif,26/05/2015,26/05/2027,135,588,400,5,Citadine,Privé,5,6600,0.89,1,1341,6-12 mois,27,0
-POL-2026-00023,Moreau,Amina,F,36,Employé,22600,Paris,75016,Bronze,Actif,31/10/2019,31/10/2026,82,581,800,3,Citadine,Professionnel,5,11800,0.95,1,1476,6-12 mois,62,0
-POL-2026-00024,Durand,Fatou,F,53,Cadre,52100,Toulouse,31017,Silver,Actif,20/02/2022,20/02/2027,54,831,500,5,SUV,Trajet travail,7,33100,0.86,1,342,2-3 ans,41,0
-POL-2026-00025,Martinez,Fatou,F,61,Employé,32200,Toulouse,31000,Silver,Actif,22/04/2023,22/04/2027,40,606,600,5,Citadine,Privé,6,16900,0.72,0,0,Aucun,15,0
-POL-2026-00026,Dubois,Pierre,H,65,Ouvrier,22900,Marseille,13012,Gold,Actif,07/07/2017,07/07/2027,109,709,400,8,Citadine,Privé,4,10700,0.83,0,0,Aucun,16,0
-POL-2026-00027,David,Pierre,H,59,Indépendant,34900,Lyon,69012,Silver,Actif,07/06/2019,07/06/2027,86,801,600,4,Citadine,Privé,6,16000,1.01,0,0,Aucun,57,0
-POL-2026-00028,Petit,Julien,H,41,Employé,19800,Paris,75007,Silver,Actif,20/01/2021,20/01/2027,67,594,400,5,Citadine,Trajet travail,5,12800,0.83,1,1119,2-3 ans,34,0
-POL-2026-00029,Martin,Laurent,H,47,Cadre,58300,Toulouse,31009,Silver,Actif,23/06/2015,23/06/2027,134,700,500,4,Berline,Trajet travail,8,13900,0.9,0,0,Aucun,41,0
-POL-2026-00030,Traoré,Émilie,F,52,Retraité,26000,Lyon,69015,Platine,Actif,21/07/2026,21/07/2027,1,1226,150,10,SUV,Privé,8,18300,0.77,1,1211,2-3 ans,38,0
-POL-2026-00031,Robert,Sarah,F,44,Indépendant,40700,Nice,6007,Gold,Actif,15/03/2025,15/03/2027,17,1161,300,7,SUV,Privé,10,44400,0.69,0,0,Aucun,12,0
-POL-2026-00032,Martin,Isabelle,F,44,Retraité,27100,Paris,75001,Silver,Actif,22/03/2012,22/03/2027,173,1129,600,4,SUV,Trajet travail,11,45600,0.95,0,0,Aucun,28,0
-POL-2026-00033,Traoré,Samuel,H,53,Cadre,56400,Lyon,69007,Silver,Actif,10/09/2016,10/09/2026,119,681,500,5,Berline,Trajet travail,9,24600,0.68,0,0,Aucun,23,0
-POL-2026-00034,Moreau,Thomas,H,41,Retraité,24000,Lyon,69005,Bronze,Suspendu,06/05/2018,06/05/2027,99,545,800,3,Citadine,Trajet travail,6,20300,0.93,1,578,2-3 ans,53,0
-POL-2026-00035,Perrin,Pierre,H,33,Employé,28900,Toulouse,31007,Platine,Actif,21/05/2026,21/05/2027,3,1252,0,10,Citadine,Trajet travail,4,17400,0.88,2,1985,2-3 ans,33,0
-POL-2026-00036,Bernard,Samuel,H,37,Cadre,50200,Marseille,13004,Bronze,Actif,29/08/2017,29/08/2026,108,481,1000,3,Citadine,Trajet travail,5,15200,0.79,0,0,Aucun,26,0
-POL-2026-00037,Durand,Mamadou,H,50,Employé,26100,Bordeaux,33002,Bronze,Actif,27/02/2020,27/02/2027,78,457,1000,2,Citadine,Professionnel,5,8700,0.74,2,5689,< 6 mois,39,0
-POL-2026-00038,Richard,Jean,H,42,Cadre,77800,Nice,6019,Platine,Actif,08/08/2017,08/08/2026,108,1267,150,10,Citadine,Privé,6,22000,0.73,0,0,Aucun,8,0
-POL-2026-00039,Blanc,Antoine,H,46,Cadre,48400,Lyon,69002,Gold,Actif,21/12/2025,21/12/2026,8,436,200,6,Citadine,Privé,6,14500,0.5,0,0,Aucun,3,0
-POL-2026-00040,Legrand,Fatou,F,51,Employé,25400,Bordeaux,33014,Bronze,Actif,23/05/2018,23/05/2027,99,463,600,2,Citadine,Privé,6,10500,0.9,2,2884,2-3 ans,36,0
-POL-2026-00041,André,Samuel,H,37,Indépendant,41100,Paris,75014,Bronze,Actif,15/12/2017,15/12/2026,104,601,600,2,SUV,Trajet travail,7,23700,0.91,0,0,Aucun,28,0
-POL-2026-00042,Laurent,Amina,F,52,Cadre,58000,Lyon,69012,Bronze,Actif,05/04/2022,05/04/2027,52,764,600,3,Berline,Privé,7,24100,1.0,0,0,Aucun,34,0
-POL-2026-00043,Robert,Laura,F,47,Employé,20300,Marseille,13018,Silver,Actif,21/10/2025,21/10/2026,10,928,400,5,Sportive,Professionnel,17,25100,0.71,0,0,Aucun,20,0
-POL-2026-00044,François,Alexandre,H,26,Employé,33000,Paris,75000,Bronze,Actif,22/02/2012,22/02/2027,174,1118,600,3,SUV,Trajet travail,10,38300,1.31,0,0,Aucun,62,0
-POL-2026-00045,Laurent,Anne,F,61,Cadre,56400,Bordeaux,33006,Platine,Actif,08/01/2016,08/01/2027,127,1213,150,9,Berline,Trajet travail,7,15800,0.7,1,3967,< 6 mois,13,0
-POL-2026-00046,Martinez,Isabelle,F,35,Cadre,38000,Bordeaux,33003,Platine,Actif,29/04/2017,29/04/2027,112,842,0,11,Citadine,Trajet travail,4,13700,0.67,0,0,Aucun,24,0
-POL-2026-00047,Rousseau,Nicolas,H,20,Cadre,60400,Lille,59011,Silver,Actif,06/02/2015,06/02/2027,138,827,500,4,Berline,Privé,6,18300,0.7,0,0,Aucun,29,0
-POL-2026-00048,Nguyen,Olivier,H,28,Employé,30200,Toulouse,31012,Silver,Actif,18/07/2016,18/07/2027,121,380,500,4,Citadine,Trajet travail,6,10900,0.51,0,0,Aucun,12,0
-POL-2026-00049,Mercier,Manon,F,29,Indépendant,25300,Bordeaux,33017,Bronze,Actif,01/08/2024,01/08/2027,25,750,800,2,Berline,Privé,7,16900,1.22,0,0,Aucun,59,0
-POL-2026-00050,Martin,Michel,H,43,Étudiant,12700,Marseille,13007,Bronze,Actif,26/10/2019,26/10/2026,82,816,1000,2,Berline,Trajet travail,7,20800,1.14,0,0,Aucun,47,0
-POL-2026-00051,Michel,Éric,H,38,Cadre,59000,Paris,75004,Gold,Actif,12/04/2013,12/04/2027,160,2002,200,7,Berline,Professionnel,9,42600,0.99,1,1382,2-3 ans,64,0
-POL-2026-00052,Nguyen,Alexandre,H,38,Ouvrier,23700,Paris,75018,Bronze,Actif,10/04/2022,10/04/2027,52,406,1000,2,Citadine,Trajet travail,4,19500,0.66,0,0,Aucun,8,0
-POL-2026-00053,Lambert,Aïcha,F,50,Retraité,30800,Bordeaux,33013,Bronze,Actif,27/01/2012,27/01/2027,175,1218,1000,3,SUV,Professionnel,10,34000,1.22,0,0,Aucun,60,0
-POL-2026-00054,Legrand,Inès,F,46,Sans emploi,7500,Nice,6015,Bronze,Actif,14/08/2025,14/08/2026,12,416,600,2,Utilitaire,Privé,6,17800,0.75,0,0,Aucun,27,0
-POL-2026-00055,Girard,Sophie,F,46,Ouvrier,24600,Paris,75008,Bronze,Actif,05/08/2021,05/08/2026,60,686,1000,2,SUV,Trajet travail,11,40300,0.77,1,834,6-12 mois,19,0
-POL-2026-00056,Durand,Inès,F,47,Retraité,19600,Toulouse,31008,Silver,Actif,13/05/2021,13/05/2027,63,1095,500,5,Berline,Trajet travail,9,32700,1.14,0,0,Aucun,58,0
-POL-2026-00057,Kamga,Antoine,H,50,Étudiant,10600,Lille,59007,Gold,Actif,13/05/2017,13/05/2027,111,1121,400,6,Berline,Trajet travail,8,16500,0.96,2,14819,6-12 mois,56,0
-POL-2026-00058,Roussel,Céline,F,18,Retraité,21900,Nantes,44014,Gold,Actif,27/12/2023,27/12/2026,32,1852,200,7,Citadine,Privé,4,11700,1.41,0,0,Aucun,98,0
-POL-2026-00059,Ndiaye,Antoine,H,37,Cadre,51400,Toulouse,31004,Silver,Actif,12/02/2023,12/02/2027,42,721,400,4,SUV,Privé,8,15900,0.91,0,0,Aucun,41,0
-POL-2026-00060,Mbarga,Thomas,H,18,Employé,20100,Bordeaux,33019,Gold,Actif,12/09/2016,12/09/2026,119,1656,300,7,Berline,Trajet travail,6,32600,0.84,1,1108,2-3 ans,56,0
-POL-2026-00061,Michel,Céline,F,42,Employé,29100,Bordeaux,33003,Silver,Actif,29/05/2022,29/05/2027,51,559,600,5,Citadine,Privé,6,24700,0.71,0,0,Aucun,16,0
-POL-2026-00062,Lefebvre,Karim,H,42,Cadre,51700,Nantes,44009,Gold,Actif,23/06/2013,23/06/2027,158,484,200,6,Citadine,Trajet travail,4,12300,0.5,0,0,Aucun,0,0
-POL-2026-00063,Laurent,Nathalie,F,56,Cadre,40900,Paris,75006,Silver,Suspendu,08/08/2013,08/08/2026,156,776,600,4,Sportive,Trajet travail,14,21400,0.74,1,472,2-3 ans,41,1
-POL-2026-00064,Traoré,Anne,F,57,Cadre,39600,Nice,6012,Bronze,Résilié,05/01/2022,05/01/2027,55,985,1000,2,Berline,Professionnel,7,27200,1.05,1,4118,2-3 ans,47,1
-POL-2026-00065,Bonnet,Céline,F,45,Ouvrier,27600,Paris,75013,Platine,Actif,28/03/2018,28/03/2027,101,1516,100,11,Berline,Privé,8,16000,0.97,1,429,2-3 ans,33,0
-POL-2026-00066,Girard,Claire,F,35,Ouvrier,9700,Nantes,44018,Bronze,Actif,12/08/2021,12/08/2026,60,748,1000,3,Berline,Professionnel,9,17400,0.87,0,0,Aucun,40,0
-POL-2026-00067,Fotso,Élodie,F,48,Retraité,23900,Paris,75015,Bronze,Actif,17/06/2021,17/06/2027,62,434,1000,2,Berline,Privé,8,27400,0.6,1,3092,6-12 mois,28,0
-POL-2026-00068,Martinez,Olivier,H,35,Employé,24400,Paris,75004,Bronze,Actif,16/08/2016,16/08/2026,120,693,600,2,Berline,Trajet travail,9,24100,0.92,0,0,Aucun,33,0
-POL-2026-00069,Kamga,Thomas,H,42,Employé,36300,Paris,75004,Silver,Actif,18/03/2022,18/03/2027,53,745,600,5,Citadine,Trajet travail,5,10100,1.07,1,612,2-3 ans,63,0
-POL-2026-00070,Ndiaye,Jean,H,55,Retraité,21300,Marseille,13017,Silver,Actif,08/05/2024,08/05/2027,27,636,600,4,Berline,Privé,7,17500,0.89,0,0,Aucun,16,0
-POL-2026-00071,Thomas,Karim,H,35,Retraité,24600,Lyon,69009,Silver,Actif,19/09/2022,19/09/2026,47,945,400,5,SUV,Privé,7,31400,0.9,0,0,Aucun,29,0
-POL-2026-00072,Roux,Nicolas,H,52,Sans emploi,6800,Paris,75001,Gold,Actif,15/09/2012,15/09/2026,167,555,300,6,Citadine,Privé,4,10400,0.63,1,731,6-12 mois,0,0
-POL-2026-00073,Muller,Céline,F,51,Retraité,23800,Marseille,13016,Bronze,Actif,13/09/2022,13/09/2026,47,722,800,3,SUV,Trajet travail,9,20300,1.0,0,0,Aucun,47,0
-POL-2026-00074,Perrin,Éric,H,30,Retraité,24500,Marseille,13012,Silver,Actif,14/02/2021,14/02/2027,66,353,600,5,Citadine,Trajet travail,4,10700,0.5,0,0,Aucun,0,0
-POL-2026-00075,Durand,David,H,55,Cadre,50600,Lille,59000,Bronze,Actif,08/03/2017,08/03/2027,113,632,1000,3,SUV,Privé,8,33800,0.88,1,2567,6-12 mois,27,0
-POL-2026-00076,David,Paul,H,51,Cadre,66300,Nantes,44015,Gold,Actif,26/01/2025,26/01/2027,19,1718,300,8,SUV,Privé,9,28200,1.38,0,0,Aucun,78,0
-POL-2026-00077,Bonnet,Samuel,H,43,Employé,22300,Bordeaux,33012,Bronze,Actif,06/07/2022,06/07/2027,49,355,600,3,SUV,Trajet travail,9,18300,0.51,0,0,Aucun,9,0
-POL-2026-00078,Nicolas,Isabelle,F,32,Ouvrier,24600,Paris,75012,Bronze,Actif,14/12/2023,14/12/2026,32,617,600,2,Berline,Privé,9,31100,0.82,0,0,Aucun,25,0
-POL-2026-00079,Richard,Laura,F,31,Étudiant,10400,Lyon,69017,Silver,Suspendu,06/10/2012,06/10/2026,166,1123,400,5,Sportive,Trajet travail,19,17300,0.88,0,0,Aucun,32,0
-POL-2026-00080,Martinez,Fatou,F,35,Cadre,58300,Nice,6009,Silver,Actif,21/09/2012,21/09/2026,167,814,500,5,Berline,Professionnel,8,18800,0.76,2,1499,1-2 ans,43,0
-POL-2026-00081,Garcia,Élodie,F,49,Ouvrier,35200,Paris,75009,Gold,Actif,18/04/2015,18/04/2027,136,1354,400,6,SUV,Trajet travail,7,24100,1.05,1,864,< 6 mois,48,0
-POL-2026-00082,Simon,Ibrahim,H,30,Employé,21900,Marseille,13012,Silver,Résilié,30/11/2022,30/11/2026,45,1338,400,4,SUV,Professionnel,9,31600,0.99,0,0,Aucun,37,1
-POL-2026-00083,Dupont,Inès,F,48,Employé,20600,Nice,6003,Gold,Actif,07/05/2017,07/05/2027,111,896,400,7,Citadine,Trajet travail,6,14600,0.86,1,1245,6-12 mois,40,0
-POL-2026-00084,Fournier,Laurent,H,26,Employé,19900,Nice,6003,Silver,Actif,09/09/2016,09/09/2026,119,795,500,5,Citadine,Trajet travail,5,17800,1.07,1,689,< 6 mois,57,0
-POL-2026-00085,Garnier,Nicolas,H,39,Employé,31900,Marseille,13016,Bronze,Actif,24/08/2013,24/08/2026,156,532,600,3,Berline,Privé,7,17100,0.86,0,0,Aucun,33,0
-POL-2026-00086,David,Hugo,H,43,Étudiant,10100,Bordeaux,33004,Bronze,Résilié,30/04/2024,30/04/2027,28,919,600,2,Citadine,Privé,5,14700,1.54,0,0,Aucun,89,1
-POL-2026-00087,Perrin,Fatou,F,74,Cadre,62000,Marseille,13010,Bronze,Actif,13/08/2015,13/08/2026,132,505,600,3,Berline,Trajet travail,7,23600,0.77,0,0,Aucun,10,0
-POL-2026-00088,Thomas,Ibrahim,H,24,Retraité,14800,Lille,59005,Bronze,Résilié,13/09/2023,13/09/2026,35,875,1000,3,Berline,Privé,8,12100,0.95,2,2987,2-3 ans,71,1
-POL-2026-00089,Mbarga,Karim,H,61,Indépendant,48400,Paris,75004,Silver,Actif,15/02/2018,15/02/2027,102,660,400,5,Berline,Professionnel,6,42800,0.5,0,0,Aucun,3,0
-POL-2026-00090,Bernard,Michel,H,44,Employé,21000,Paris,75011,Silver,Suspendu,27/06/2013,27/06/2027,158,482,600,5,Citadine,Trajet travail,5,7300,0.72,0,0,Aucun,10,0
-POL-2026-00091,Muller,Éric,H,47,Employé,36100,Bordeaux,33016,Silver,Actif,07/08/2025,07/08/2026,12,1604,500,4,SUV,Professionnel,8,34700,1.08,1,2459,2-3 ans,60,0
-POL-2026-00092,Bertrand,Laura,F,44,Retraité,36300,Paris,75008,Silver,Actif,20/05/2024,20/05/2027,27,556,400,4,Berline,Privé,8,25200,0.54,0,0,Aucun,0,0
-POL-2026-00093,Vincent,Hugo,H,48,Employé,31400,Bordeaux,33002,Silver,Actif,11/06/2014,11/06/2027,146,571,400,5,SUV,Trajet travail,11,33000,0.5,0,0,Aucun,3,0
-POL-2026-00094,Martin,Alexandre,H,40,Étudiant,10200,Lyon,69004,Silver,Actif,07/04/2026,07/04/2027,4,604,500,4,Citadine,Trajet travail,5,10100,0.86,0,0,Aucun,19,0
-POL-2026-00095,Blanc,Thomas,H,61,Employé,27900,Nantes,44003,Bronze,Actif,17/05/2016,17/05/2027,123,718,800,2,Berline,Privé,7,29400,1.08,0,0,Aucun,37,0
-POL-2026-00096,Durand,Sophie,F,36,Indépendant,22100,Nantes,44017,Bronze,Actif,27/02/2019,27/02/2027,90,436,1000,2,Citadine,Trajet travail,6,7000,0.87,0,0,Aucun,26,0
-POL-2026-00097,Faure,Hugo,H,57,Retraité,21000,Marseille,13006,Silver,Actif,08/05/2021,08/05/2027,63,778,500,4,SUV,Trajet travail,10,29300,0.72,0,0,Aucun,30,0
-POL-2026-00098,Guerin,Yann,H,34,Employé,20400,Lille,59007,Silver,Actif,13/09/2013,13/09/2026,155,459,400,4,Citadine,Professionnel,5,9900,0.5,0,0,Aucun,10,0
-POL-2026-00099,Nguyen,Jean,H,41,Employé,19200,Lyon,69001,Bronze,Actif,07/12/2013,07/12/2026,152,841,600,3,Sportive,Trajet travail,10,35500,0.95,0,0,Aucun,20,0
-POL-2026-00100,Blanc,Laura,F,28,Sans emploi,9200,Marseille,13008,Bronze,Actif,14/09/2021,14/09/2026,59,490,800,2,Citadine,Privé,4,13900,1.04,1,1022,2-3 ans,63,0
-POL-2026-00101,Garcia,Sarah,F,48,Employé,30800,Paris,75018,Silver,Actif,07/07/2026,07/07/2027,1,508,500,4,Berline,Trajet travail,6,32100,0.5,0,0,Aucun,12,0
-POL-2026-00102,Muller,Sarah,F,61,Cadre,61800,Nantes,44008,Silver,Actif,07/09/2024,07/09/2026,23,682,600,4,Citadine,Trajet travail,4,10600,1.03,0,0,Aucun,35,0
-POL-2026-00103,Perrin,Mamadou,H,41,Cadre,48700,Nantes,44013,Bronze,Actif,26/12/2024,26/12/2026,20,682,1000,3,Berline,Privé,8,28900,1.02,0,0,Aucun,23,0
-POL-2026-00104,David,Isabelle,F,39,Employé,26800,Nice,6003,Silver,Résilié,28/12/2011,28/12/2026,176,1106,500,5,Berline,Privé,8,22400,1.1,1,204,6-12 mois,52,1
-POL-2026-00105,Richard,Émilie,F,28,Retraité,25300,Nantes,44002,Gold,Actif,27/09/2017,27/09/2026,107,1320,300,7,Berline,Privé,9,16100,1.02,0,0,Aucun,50,0
-POL-2026-00106,Diallo,Isabelle,F,39,Retraité,21700,Nice,6014,Bronze,Actif,09/06/2016,09/06/2027,122,529,1000,2,Citadine,Privé,5,11000,1.0,3,3369,6-12 mois,75,0
-POL-2026-00107,Durand,Nicolas,H,21,Cadre,53100,Paris,75001,Gold,Actif,23/02/2023,23/02/2027,42,1578,200,6,Citadine,Trajet travail,6,10800,1.03,0,0,Aucun,49,0
-POL-2026-00108,Martinez,Mamadou,H,30,Retraité,20000,Nice,6008,Bronze,Actif,19/11/2013,19/11/2026,153,575,800,3,Citadine,Privé,5,9400,1.07,1,4299,1-2 ans,65,0
-POL-2026-00109,Laurent,Mamadou,H,45,Employé,26600,Toulouse,31006,Silver,Suspendu,10/10/2015,10/10/2026,130,811,400,4,Sportive,Trajet travail,13,52300,0.5,0,0,Aucun,0,0
-POL-2026-00110,Petit,Marie,F,59,Employé,22000,Marseille,13000,Silver,Actif,20/05/2015,20/05/2027,135,489,500,4,Berline,Privé,8,23900,0.5,0,0,Aucun,0,0
-POL-2026-00111,Roussel,Olivier,H,79,Ouvrier,18200,Toulouse,31010,Bronze,Actif,31/08/2019,31/08/2026,84,244,1000,3,Citadine,Trajet travail,5,6900,0.56,0,0,Aucun,0,0
-POL-2026-00112,Petit,Nicolas,H,34,Sans emploi,6400,Lyon,69019,Gold,Actif,22/03/2016,22/03/2027,125,1396,200,7,Sportive,Privé,12,25200,0.84,0,0,Aucun,34,0
-POL-2026-00113,Rousseau,Paul,H,61,Employé,31300,Lyon,69001,Silver,Actif,29/06/2018,29/06/2027,98,859,400,4,Citadine,Professionnel,5,13900,0.87,0,0,Aucun,45,0
-POL-2026-00114,Blanc,Camille,F,45,Employé,20800,Paris,75016,Platine,Actif,21/11/2020,21/11/2026,69,1402,0,9,Berline,Privé,8,16500,0.9,0,0,Aucun,40,0
-POL-2026-00115,Dubois,Paul,H,40,Cadre,51600,Paris,75010,Bronze,Actif,11/09/2017,11/09/2026,107,769,600,2,SUV,Trajet travail,8,33300,1.1,1,4188,2-3 ans,44,0
-POL-2026-00116,Leroy,Sarah,F,48,Retraité,23100,Marseille,13014,Gold,Actif,17/09/2021,17/09/2026,59,1333,200,8,Utilitaire,Privé,7,23700,1.08,0,0,Aucun,54,0
-POL-2026-00117,Nicolas,Inès,F,43,Employé,15100,Nantes,44001,Platine,Actif,14/05/2012,14/05/2027,171,1183,150,11,SUV,Privé,11,19200,0.65,1,1063,< 6 mois,20,0
-POL-2026-00118,Dupont,Léa,F,43,Cadre,42300,Bordeaux,33017,Silver,Actif,29/11/2015,29/11/2026,129,713,600,4,Berline,Trajet travail,7,13400,0.89,1,4253,1-2 ans,24,0
-POL-2026-00119,Richard,Samuel,H,37,Indépendant,40800,Toulouse,31000,Bronze,Actif,11/07/2015,11/07/2027,133,933,800,3,Sportive,Trajet travail,12,80900,0.67,1,301,6-12 mois,2,0
-POL-2026-00120,Ndiaye,Sarah,F,24,Cadre,52300,Marseille,13018,Silver,Actif,20/11/2015,20/11/2026,129,1115,600,4,Citadine,Professionnel,5,13600,0.86,0,0,Aucun,53,0
-POL-2026-00121,Lefebvre,Marie,F,22,Employé,18400,Marseille,13013,Silver,Résilié,23/11/2019,23/11/2026,81,1981,600,4,Sportive,Privé,18,38900,0.98,2,4101,1-2 ans,65,1
-POL-2026-00122,Martin,Sophie,F,50,Employé,30400,Paris,75006,Platine,Actif,14/05/2012,14/05/2027,171,713,150,10,Utilitaire,Privé,5,13000,0.5,0,0,Aucun,0,0
-POL-2026-00123,Traoré,Julien,H,38,Cadre,63200,Nantes,44000,Silver,Actif,28/06/2023,28/06/2027,38,1102,600,4,Utilitaire,Trajet travail,8,15100,1.39,2,755,< 6 mois,88,0
-POL-2026-00124,Martin,Nicolas,H,34,Cadre,59300,Paris,75012,Bronze,Actif,16/02/2018,16/02/2027,102,496,600,3,Citadine,Trajet travail,5,7900,0.99,0,0,Aucun,41,0
-POL-2026-00125,Bonnet,Hugo,H,42,Retraité,21800,Lille,59001,Bronze,Actif,21/07/2025,21/07/2027,13,367,800,2,Citadine,Privé,6,16300,0.71,1,856,2-3 ans,25,0
-POL-2026-00126,Ndiaye,Hugo,H,52,Ouvrier,23000,Lille,59012,Silver,Actif,28/03/2022,28/03/2027,53,1180,500,5,SUV,Trajet travail,10,22900,1.23,0,0,Aucun,47,0
-POL-2026-00127,François,Louis,H,44,Indépendant,33500,Toulouse,31015,Platine,Actif,06/01/2018,06/01/2027,103,1631,100,9,Berline,Trajet travail,9,32300,0.76,0,0,Aucun,34,0
-POL-2026-00128,Martinez,Olivier,H,33,Sans emploi,7500,Nantes,44005,Bronze,Résilié,21/04/2019,21/04/2027,88,631,1000,2,Berline,Trajet travail,9,19100,0.9,1,561,1-2 ans,47,1
-POL-2026-00129,Vincent,Laurent,H,58,Cadre,58900,Lyon,69004,Gold,Actif,31/07/2012,31/07/2027,169,606,200,8,Utilitaire,Privé,5,12500,0.68,0,0,Aucun,8,0
-POL-2026-00130,Petit,Chloé,F,63,Cadre,65200,Nantes,44004,Platine,Actif,19/06/2017,19/06/2027,110,1734,150,9,Berline,Privé,8,19000,1.14,0,0,Aucun,48,0
-POL-2026-00131,François,Antoine,H,48,Étudiant,9600,Lille,59004,Bronze,Actif,04/06/2020,04/06/2027,74,363,1000,3,Citadine,Privé,4,4800,0.8,1,2422,2-3 ans,34,0
-POL-2026-00132,Kamga,Manon,F,55,Employé,35100,Lille,59002,Bronze,Résilié,14/03/2020,14/03/2027,77,554,600,3,Berline,Trajet travail,7,21100,0.83,1,788,6-12 mois,25,1
-POL-2026-00133,Robert,Céline,F,58,Indépendant,42200,Bordeaux,33004,Silver,Actif,14/06/2017,14/06/2027,110,730,500,4,Citadine,Privé,4,11300,1.05,2,1015,1-2 ans,62,0
-POL-2026-00134,Diallo,Yann,H,57,Indépendant,47800,Nantes,44013,Silver,Actif,07/10/2014,07/10/2026,142,686,600,5,Citadine,Trajet travail,6,16000,0.92,1,878,1-2 ans,28,0
-POL-2026-00135,Fournier,Chloé,F,50,Employé,34800,Nice,6006,Bronze,Actif,29/06/2022,29/06/2027,50,395,600,2,Citadine,Trajet travail,5,6200,0.8,1,1753,6-12 mois,32,0
-POL-2026-00136,Lambert,Pierre,H,50,Cadre,45400,Marseille,13015,Gold,Suspendu,16/11/2017,16/11/2026,105,1966,200,7,SUV,Trajet travail,10,45100,1.06,1,1073,2-3 ans,43,0
-POL-2026-00137,Durand,Anne,F,49,Employé,18100,Nantes,44016,Silver,Actif,24/01/2018,24/01/2027,103,1491,600,5,SUV,Privé,7,40000,1.38,0,0,Aucun,62,0
-POL-2026-00138,Legrand,Alexandre,H,28,Employé,35800,Lille,59015,Gold,Actif,13/06/2026,13/06/2027,2,1113,200,6,Berline,Privé,7,34100,0.96,1,2338,2-3 ans,60,0
-POL-2026-00139,Leroy,Anne,F,51,Cadre,57800,Marseille,13010,Gold,Actif,09/12/2012,09/12/2026,164,1024,400,7,Berline,Trajet travail,8,21600,0.84,0,0,Aucun,24,0
-POL-2026-00140,Michel,Éric,H,24,Employé,15200,Nice,6006,Gold,Résilié,30/01/2018,30/01/2027,103,2745,400,6,SUV,Trajet travail,11,42800,0.94,1,1045,1-2 ans,56,1
-POL-2026-00141,Guerin,Louis,H,32,Retraité,17700,Marseille,13018,Silver,Actif,28/12/2022,28/12/2026,44,1237,500,5,SUV,Professionnel,11,17900,1.16,2,1162,1-2 ans,60,0
-POL-2026-00142,Dubois,Thomas,H,59,Étudiant,11400,Toulouse,31004,Bronze,Actif,03/02/2017,03/02/2027,114,395,800,3,Utilitaire,Privé,5,23100,0.65,0,0,Aucun,5,0
-POL-2026-00143,Girard,Élodie,F,53,Retraité,22100,Paris,75009,Silver,Actif,18/06/2016,18/06/2027,122,752,500,4,Berline,Professionnel,7,16800,0.75,2,3904,< 6 mois,43,0
-POL-2026-00144,Martinez,Fatou,F,61,Employé,27800,Paris,75009,Bronze,Actif,24/12/2012,24/12/2026,164,305,800,3,SUV,Privé,7,16800,0.5,1,416,2-3 ans,5,0
-POL-2026-00145,Petit,Thomas,H,38,Employé,36300,Nantes,44014,Silver,Actif,28/01/2026,28/01/2027,7,520,500,5,Berline,Privé,9,14800,0.6,0,0,Aucun,0,0
-POL-2026-00146,Garcia,David,H,27,Employé,19700,Marseille,13010,Bronze,Actif,23/05/2020,23/05/2027,75,529,800,2,Berline,Privé,6,22000,0.78,0,0,Aucun,23,0
-POL-2026-00147,Bertrand,Éric,H,39,Employé,22900,Marseille,13015,Silver,Résilié,01/12/2023,01/12/2026,33,685,600,5,Utilitaire,Trajet travail,8,13500,0.84,1,1134,6-12 mois,39,1
-POL-2026-00148,Faure,Yann,H,43,Étudiant,9600,Paris,75018,Bronze,Résilié,26/01/2018,26/01/2027,103,875,1000,3,Berline,Privé,6,25100,1.23,0,0,Aucun,69,1
-POL-2026-00149,Fotso,Karim,H,43,Cadre,57200,Marseille,13007,Bronze,Actif,24/02/2019,24/02/2027,90,517,1000,2,Berline,Privé,6,11700,0.96,1,2358,< 6 mois,39,0
-POL-2026-00150,Nguyen,Louis,H,57,Employé,33400,Nantes,44017,Bronze,Actif,29/06/2019,29/06/2027,86,286,600,3,Citadine,Trajet travail,6,5700,0.59,0,0,Aucun,0,0
-POL-2026-00151,Moreau,Claire,F,37,Retraité,26100,Nantes,44003,Silver,Actif,05/12/2011,05/12/2026,176,673,400,5,Berline,Trajet travail,7,35600,0.7,1,379,6-12 mois,12,0
-POL-2026-00152,Martin,Aïcha,F,47,Cadre,56100,Paris,75018,Gold,Actif,10/08/2018,10/08/2026,96,1235,400,7,Berline,Privé,7,30200,1.13,0,0,Aucun,41,0
-POL-2026-00153,Dubois,Antoine,H,29,Employé,29500,Toulouse,31003,Bronze,Suspendu,05/06/2020,05/06/2027,74,817,800,2,SUV,Privé,10,20800,1.13,0,0,Aucun,57,0
-POL-2026-00154,Martinez,Élodie,F,48,Employé,27500,Marseille,13017,Gold,Actif,26/07/2025,26/07/2027,13,1123,300,7,Berline,Trajet travail,7,22000,0.83,1,418,1-2 ans,14,0
-POL-2026-00155,Durand,Thomas,H,42,Ouvrier,24600,Bordeaux,33007,Gold,Actif,23/04/2022,23/04/2027,52,818,200,7,Citadine,Privé,6,17100,0.75,0,0,Aucun,16,0
-POL-2026-00156,Laurent,Léa,F,32,Retraité,21600,Marseille,13019,Bronze,Actif,25/03/2013,25/03/2027,161,724,600,3,Utilitaire,Privé,6,20800,1.12,0,0,Aucun,59,0
-POL-2026-00157,Nguyen,Michel,H,39,Employé,29200,Marseille,13002,Silver,Actif,16/11/2019,16/11/2026,81,418,400,4,Citadine,Trajet travail,4,12600,0.63,0,0,Aucun,9,0
-POL-2026-00158,Mbarga,Amina,F,40,Étudiant,10500,Marseille,13009,Silver,Actif,27/01/2013,27/01/2027,163,815,500,4,Utilitaire,Privé,6,26400,0.94,1,1512,1-2 ans,47,0
-POL-2026-00159,Nguyen,Claire,F,38,Retraité,24500,Toulouse,31018,Bronze,Actif,26/08/2018,26/08/2026,96,712,800,3,Citadine,Trajet travail,4,9300,1.36,0,0,Aucun,56,0
-POL-2026-00160,Lefebvre,Émilie,F,65,Retraité,25000,Toulouse,31000,Silver,Actif,05/05/2018,05/05/2027,99,822,500,5,Berline,Privé,7,22200,0.81,0,0,Aucun,11,0
-POL-2026-00161,Legrand,Laurent,H,41,Employé,23200,Marseille,13005,Bronze,Résilié,23/03/2020,23/03/2027,77,509,600,3,Berline,Privé,8,21900,0.68,0,0,Aucun,25,1
-POL-2026-00162,Legrand,Sarah,F,39,Employé,28300,Nantes,44001,Gold,Actif,10/04/2018,10/04/2027,100,1238,200,8,SUV,Privé,7,27300,0.94,0,0,Aucun,35,0
-POL-2026-00163,Leroy,Hugo,H,18,Retraité,19400,Lille,59006,Platine,Résilié,26/08/2025,26/08/2026,12,1583,150,11,Citadine,Privé,4,10500,0.82,2,2889,6-12 mois,56,1
-POL-2026-00164,Bonnet,Éric,H,30,Cadre,51600,Lyon,69007,Gold,Actif,05/09/2025,05/09/2026,11,656,300,6,Utilitaire,Privé,7,18500,0.58,0,0,Aucun,0,0
-POL-2026-00165,Lambert,Aïcha,F,39,Ouvrier,35500,Nantes,44012,Silver,Actif,12/06/2019,12/06/2027,86,830,400,5,Berline,Privé,7,22300,1.01,0,0,Aucun,41,0
-POL-2026-00166,Fournier,Michel,H,33,Indépendant,32300,Nantes,44005,Silver,Résilié,08/08/2017,08/08/2026,108,953,500,5,Berline,Professionnel,6,15200,1.12,0,0,Aucun,46,1
-POL-2026-00167,Henry,Marie,F,60,Employé,33400,Paris,75003,Platine,Actif,18/05/2018,18/05/2027,99,1222,100,8,Berline,Trajet travail,8,29100,0.71,0,0,Aucun,25,0
-POL-2026-00168,Rousseau,Claire,F,40,Retraité,27200,Toulouse,31003,Bronze,Actif,07/03/2020,07/03/2027,77,402,800,2,Citadine,Privé,6,8500,0.77,0,0,Aucun,43,0
-POL-2026-00169,Lambert,Ibrahim,H,59,Étudiant,10000,Lyon,69018,Bronze,Actif,22/03/2022,22/03/2027,53,345,600,2,Berline,Trajet travail,6,20400,0.58,0,0,Aucun,10,0
-POL-2026-00170,Guerin,Élodie,F,43,Indépendant,58100,Lille,59019,Silver,Actif,19/01/2016,19/01/2027,127,478,600,4,Citadine,Trajet travail,4,10800,0.81,1,3762,2-3 ans,25,0
-POL-2026-00171,Henry,Olivier,H,42,Cadre,48200,Paris,75004,Bronze,Suspendu,31/07/2017,31/07/2027,109,385,600,3,Citadine,Trajet travail,5,13600,0.72,1,1568,6-12 mois,3,0
-POL-2026-00172,François,Olivier,H,41,Retraité,23700,Bordeaux,33003,Bronze,Suspendu,27/11/2025,27/11/2026,9,393,1000,3,SUV,Privé,10,14300,0.62,0,0,Aucun,0,0
-POL-2026-00173,Lefebvre,Alexandre,H,42,Ouvrier,20000,Lyon,69001,Bronze,Actif,10/11/2019,10/11/2026,81,779,800,2,Berline,Privé,6,30000,1.26,1,2009,6-12 mois,82,0
-POL-2026-00174,Henry,Isabelle,F,64,Indépendant,39600,Toulouse,31019,Silver,Actif,23/12/2015,23/12/2026,128,601,500,5,Citadine,Privé,6,9500,0.87,0,0,Aucun,19,0
-POL-2026-00175,Guerin,Jean,H,18,Retraité,20800,Nice,6014,Bronze,Actif,29/11/2014,29/11/2026,141,842,800,3,Citadine,Privé,4,18400,1.05,1,5137,1-2 ans,59,0
-POL-2026-00176,Ndiaye,Thomas,H,18,Indépendant,40900,Marseille,13015,Bronze,Actif,23/04/2022,23/04/2027,52,785,800,2,Citadine,Privé,4,10200,1.12,1,1426,2-3 ans,76,0
-POL-2026-00177,Durand,Thomas,H,35,Employé,29300,Nantes,44005,Bronze,Actif,23/10/2012,23/10/2026,166,760,800,3,Citadine,Professionnel,6,11800,1.04,1,968,2-3 ans,66,0
-POL-2026-00178,Morel,Isabelle,F,42,Employé,36000,Nice,6012,Silver,Actif,11/11/2016,11/11/2026,117,838,500,5,Berline,Professionnel,6,43000,0.75,0,0,Aucun,22,0
-POL-2026-00179,Traoré,Camille,F,51,Employé,29000,Nantes,44001,Gold,Actif,30/01/2020,30/01/2027,79,654,200,8,Citadine,Privé,4,10900,0.87,0,0,Aucun,26,0
-POL-2026-00180,Dupont,Marie,F,48,Cadre,50300,Paris,75013,Bronze,Suspendu,01/04/2017,01/04/2027,113,545,800,3,Utilitaire,Trajet travail,8,27800,0.76,1,2091,2-3 ans,27,0
-POL-2026-00181,Kouassi,Chloé,F,37,Cadre,82200,Nantes,44011,Silver,Actif,12/07/2013,12/07/2027,157,688,400,4,Citadine,Privé,5,12200,0.96,1,695,< 6 mois,37,0
-POL-2026-00182,Martin,Élodie,F,55,Ouvrier,27900,Paris,75006,Gold,Actif,29/03/2023,29/03/2027,41,881,200,8,Citadine,Trajet travail,5,13900,0.88,0,0,Aucun,27,0
-POL-2026-00183,Bernard,Karim,H,55,Cadre,47700,Marseille,13014,Bronze,Résilié,21/05/2024,21/05/2027,27,425,1000,2,Utilitaire,Trajet travail,7,18400,0.72,0,0,Aucun,22,1
-POL-2026-00184,Nicolas,Antoine,H,44,Retraité,19100,Nantes,44012,Gold,Actif,13/01/2020,13/01/2027,79,500,200,8,Citadine,Privé,5,16100,0.54,0,0,Aucun,3,0
-POL-2026-00185,Roux,Laura,F,55,Étudiant,7800,Bordeaux,33008,Silver,Actif,17/04/2025,17/04/2027,16,707,500,5,Berline,Trajet travail,8,17300,0.83,1,3362,< 6 mois,53,0
-POL-2026-00186,Dupont,Émilie,F,46,Employé,34600,Toulouse,31003,Silver,Actif,26/02/2014,26/02/2027,150,1034,400,4,Sportive,Professionnel,10,31900,0.79,1,239,6-12 mois,38,0
-POL-2026-00187,Morel,Michel,H,35,Indépendant,34000,Marseille,13000,Bronze,Actif,10/02/2012,10/02/2027,174,551,800,2,Sportive,Trajet travail,15,36000,0.5,0,0,Aucun,4,0
-POL-2026-00188,Fournier,Laurent,H,51,Indépendant,41200,Nantes,44018,Bronze,Actif,31/07/2017,31/07/2027,109,674,800,2,SUV,Trajet travail,8,31100,0.93,0,0,Aucun,24,0
-POL-2026-00189,Kouassi,Léa,F,43,Ouvrier,24000,Lille,59005,Platine,Actif,26/12/2011,26/12/2026,176,1466,0,9,Citadine,Trajet travail,6,11100,1.05,2,2999,1-2 ans,61,0
-POL-2026-00190,Robert,Jean,H,42,Employé,32800,Marseille,13006,Gold,Actif,29/07/2025,29/07/2027,13,2175,400,7,Berline,Privé,8,28200,1.4,1,2116,6-12 mois,78,0
-POL-2026-00191,Roussel,Laura,F,61,Retraité,20200,Nantes,44013,Platine,Actif,15/02/2017,15/02/2027,114,2092,0,8,Sportive,Privé,11,71000,0.69,0,0,Aucun,16,0
-POL-2026-00192,Diallo,Julien,H,18,Sans emploi,5000,Paris,75005,Gold,Résilié,13/12/2019,13/12/2026,80,2300,300,6,Sportive,Trajet travail,18,32000,0.8,1,1668,6-12 mois,49,1
-POL-2026-00193,Faure,Paul,H,24,Indépendant,36800,Paris,75007,Bronze,Actif,13/06/2022,13/06/2027,50,505,800,2,Citadine,Privé,4,9300,0.66,3,8924,2-3 ans,49,0
-POL-2026-00194,Vincent,Anne,F,27,Étudiant,9600,Bordeaux,33014,Gold,Actif,29/12/2021,29/12/2026,56,1034,300,8,Berline,Trajet travail,7,13300,0.94,0,0,Aucun,55,0
-POL-2026-00195,Durand,Éric,H,37,Sans emploi,7400,Nice,6011,Silver,Actif,22/06/2018,22/06/2027,98,796,500,4,Citadine,Privé,6,24400,0.9,1,5479,1-2 ans,50,0
-POL-2026-00196,Rousseau,Olivier,H,39,Cadre,42500,Paris,75013,Gold,Actif,28/01/2017,28/01/2027,115,682,300,6,Citadine,Privé,6,13400,0.67,0,0,Aucun,21,0
-POL-2026-00197,André,Anne,F,22,Ouvrier,25400,Paris,75000,Bronze,Actif,21/02/2024,21/02/2027,30,1136,600,2,SUV,Privé,11,35500,0.87,0,0,Aucun,49,0
-POL-2026-00198,Durand,Inès,F,29,Cadre,40600,Paris,75009,Bronze,Actif,26/05/2017,26/05/2027,111,293,1000,2,Citadine,Professionnel,5,7500,0.5,0,0,Aucun,17,0
-POL-2026-00199,Roux,Hugo,H,31,Sans emploi,5900,Nantes,44009,Gold,Suspendu,12/10/2012,12/10/2026,166,1089,200,6,Citadine,Privé,6,12000,1.08,2,632,1-2 ans,48,1
-POL-2026-00200,Fotso,Olivier,H,74,Employé,26900,Paris,75012,Gold,Résilié,10/06/2026,10/06/2027,2,620,300,6,Citadine,Privé,4,14300,0.57,0,0,Aucun,18,1
-POL-2026-00201,Lefebvre,Amina,F,65,Cadre,73400,Toulouse,31003,Silver,Actif,09/06/2013,09/06/2027,158,736,500,4,Berline,Privé,8,20100,0.76,1,846,2-3 ans,17,0
-POL-2026-00202,Leroy,Sarah,F,37,Retraité,24700,Nice,6003,Bronze,Actif,27/07/2017,27/07/2027,109,306,800,2,Citadine,Trajet travail,4,17500,0.55,2,8862,2-3 ans,13,0
-POL-2026-00203,Rousseau,Ibrahim,H,37,Employé,31300,Paris,75015,Bronze,Actif,01/07/2021,01/07/2027,62,840,600,3,Berline,Professionnel,7,49400,0.73,0,0,Aucun,28,0
-POL-2026-00204,Moreau,Yann,H,27,Retraité,26600,Toulouse,31013,Platine,Actif,01/09/2015,01/09/2026,132,964,150,9,Citadine,Privé,4,8600,0.83,0,0,Aucun,34,0
-POL-2026-00205,Traoré,Karim,H,18,Cadre,78500,Toulouse,31016,Silver,Actif,09/05/2017,09/05/2027,111,1947,500,5,Sportive,Professionnel,12,31500,0.92,0,0,Aucun,41,0
-POL-2026-00206,Mbarga,Mamadou,H,40,Sans emploi,5000,Nantes,44005,Silver,Suspendu,04/02/2015,04/02/2027,138,699,400,5,Citadine,Privé,5,8800,0.96,0,0,Aucun,30,1
-POL-2026-00207,Ndiaye,Éric,H,29,Retraité,17200,Lyon,69019,Silver,Actif,27/05/2025,27/05/2027,15,1512,400,5,Berline,Trajet travail,9,38600,1.2,0,0,Aucun,59,0
-POL-2026-00208,Kamga,Anne,F,41,Cadre,45200,Marseille,13005,Silver,Suspendu,07/09/2025,07/09/2026,11,721,500,5,Citadine,Privé,5,17300,1.01,0,0,Aucun,41,1
-POL-2026-00209,Laurent,Julien,H,21,Retraité,15800,Paris,75013,Silver,Actif,18/01/2017,18/01/2027,115,1145,500,5,Citadine,Trajet travail,5,11400,1.13,0,0,Aucun,68,0
-POL-2026-00210,Simon,Ibrahim,H,32,Cadre,37600,Lille,59003,Silver,Actif,27/01/2022,27/01/2027,55,993,500,4,Citadine,Trajet travail,5,12200,1.19,0,0,Aucun,84,0
-POL-2026-00211,Bertrand,Chloé,F,44,Ouvrier,22900,Lille,59018,Gold,Actif,24/01/2023,24/01/2027,43,876,400,8,Citadine,Trajet travail,5,9000,0.96,1,237,2-3 ans,49,0
-POL-2026-00212,André,Céline,F,47,Ouvrier,18400,Paris,75006,Gold,Actif,24/04/2020,24/04/2027,76,905,400,6,Citadine,Privé,4,16400,0.82,1,1251,2-3 ans,27,0
-POL-2026-00213,Diallo,David,H,47,Retraité,24400,Marseille,13016,Platine,Actif,11/10/2015,11/10/2026,130,1797,150,8,Berline,Trajet travail,8,19300,1.05,0,0,Aucun,32,0
-POL-2026-00214,Muller,Amina,F,25,Employé,26200,Nantes,44006,Silver,Actif,26/11/2023,26/11/2026,33,1500,600,5,SUV,Professionnel,10,27400,1.14,0,0,Aucun,56,0
-POL-2026-00215,Garnier,Sophie,F,53,Employé,32800,Paris,75015,Silver,Actif,27/01/2012,27/01/2027,175,655,600,5,Citadine,Trajet travail,4,14800,0.95,1,2890,< 6 mois,33,0
-POL-2026-00216,Diallo,Nathalie,F,32,Indépendant,40700,Lyon,69009,Gold,Actif,11/04/2020,11/04/2027,76,714,400,6,Berline,Trajet travail,8,20600,0.56,0,0,Aucun,7,0
-POL-2026-00217,Faure,Éric,H,50,Ouvrier,28400,Toulouse,31001,Gold,Actif,24/05/2024,24/05/2027,27,824,300,7,Berline,Trajet travail,8,20300,0.63,0,0,Aucun,14,0
-POL-2026-00218,Vincent,Samuel,H,42,Cadre,48200,Lyon,69003,Silver,Actif,25/07/2025,25/07/2027,13,507,500,5,Citadine,Privé,5,12000,0.78,1,3446,1-2 ans,28,0
-POL-2026-00219,Fournier,Fatou,F,24,Employé,38800,Lyon,69013,Silver,Actif,10/10/2013,10/10/2026,154,1847,500,4,Berline,Professionnel,7,29100,1.07,2,433,6-12 mois,93,0
-POL-2026-00220,Dupont,Antoine,H,38,Cadre,54200,Marseille,13003,Gold,Actif,05/11/2024,05/11/2026,21,975,200,7,Citadine,Privé,5,21400,0.85,0,0,Aucun,23,0
-POL-2026-00221,Robert,Olivier,H,47,Retraité,13800,Paris,75005,Silver,Actif,17/05/2020,17/05/2027,75,817,600,5,Citadine,Trajet travail,6,14700,1.08,1,1025,6-12 mois,54,0
-POL-2026-00222,Muller,Laurent,H,50,Employé,23200,Toulouse,31010,Gold,Actif,09/08/2016,09/08/2026,120,1297,300,7,Berline,Privé,6,29100,1.11,0,0,Aucun,53,0
-POL-2026-00223,Faure,Inès,F,40,Cadre,32100,Lille,59005,Bronze,Actif,09/12/2018,09/12/2026,92,1249,800,3,Sportive,Privé,15,42000,1.11,0,0,Aucun,56,0
-POL-2026-00224,Muller,Manon,F,62,Étudiant,10000,Toulouse,31002,Silver,Actif,16/08/2022,16/08/2026,48,1526,600,5,Sportive,Trajet travail,16,35100,1.04,0,0,Aucun,54,0
-POL-2026-00225,Lambert,Antoine,H,55,Employé,29300,Paris,75012,Silver,Actif,09/12/2024,09/12/2026,20,833,600,4,Sportive,Trajet travail,13,56600,0.57,1,3076,1-2 ans,17,0
-POL-2026-00226,Roussel,Inès,F,39,Indépendant,33900,Nantes,44013,Bronze,Actif,01/01/2016,01/01/2027,128,802,1000,3,Berline,Professionnel,7,23400,0.96,1,1202,6-12 mois,57,0
-POL-2026-00227,Kouassi,Michel,H,52,Employé,42100,Paris,75014,Gold,Actif,01/05/2019,01/05/2027,88,705,400,6,Citadine,Professionnel,6,7300,0.68,1,2699,2-3 ans,22,0
-POL-2026-00228,François,Inès,F,67,Retraité,27600,Lille,59018,Silver,Actif,07/11/2025,07/11/2026,9,323,600,5,Citadine,Privé,5,10700,0.5,0,0,Aucun,8,0
-POL-2026-00229,Girard,Isabelle,F,67,Indépendant,49200,Lyon,69002,Bronze,Actif,28/11/2023,28/11/2026,33,370,600,2,Citadine,Privé,5,11700,0.7,1,1249,< 6 mois,32,0
-POL-2026-00230,Richard,Julien,H,26,Retraité,16000,Lille,59008,Gold,Actif,12/03/2018,12/03/2027,101,1052,200,8,Citadine,Privé,4,10000,1.19,1,769,< 6 mois,75,0
-POL-2026-00231,Roussel,Hugo,H,30,Employé,20400,Paris,75004,Gold,Suspendu,21/01/2024,21/01/2027,31,990,200,7,Citadine,Trajet travail,6,20200,0.98,0,0,Aucun,26,0
-POL-2026-00232,Kamga,Samuel,H,61,Ouvrier,26700,Paris,75018,Gold,Actif,09/09/2020,09/09/2026,71,1454,400,6,Berline,Trajet travail,8,26000,1.22,2,5237,2-3 ans,67,0
-POL-2026-00233,Blanc,Inès,F,28,Retraité,21500,Marseille,13010,Silver,Actif,13/09/2024,13/09/2026,23,864,600,5,Citadine,Professionnel,6,19400,0.93,0,0,Aucun,48,0
-POL-2026-00234,Mbarga,Anne,F,25,Employé,14500,Paris,75001,Gold,Actif,29/09/2014,29/09/2026,143,1434,400,6,Citadine,Trajet travail,5,13200,1.44,1,580,6-12 mois,61,0
-POL-2026-00235,Mbarga,Chloé,F,36,Employé,26300,Paris,75013,Silver,Actif,23/03/2017,23/03/2027,113,760,600,4,SUV,Privé,8,30900,0.9,0,0,Aucun,34,0
-POL-2026-00236,Nicolas,Émilie,F,47,Employé,29100,Lille,59000,Silver,Actif,12/11/2014,12/11/2026,141,616,600,4,Berline,Trajet travail,7,15900,0.83,0,0,Aucun,32,0
-POL-2026-00237,Dupont,Jean,H,41,Sans emploi,6700,Nantes,44005,Bronze,Actif,07/10/2025,07/10/2026,10,298,1000,3,Utilitaire,Trajet travail,7,18100,0.57,0,0,Aucun,2,0
-POL-2026-00238,Robert,Nathalie,F,34,Indépendant,30100,Paris,75014,Silver,Actif,10/12/2020,10/12/2026,68,847,600,4,Citadine,Trajet travail,6,12100,1.11,0,0,Aucun,46,0
-POL-2026-00239,Martin,Julien,H,33,Ouvrier,20300,Nantes,44010,Gold,Actif,08/08/2022,08/08/2026,48,653,200,7,Berline,Privé,6,13600,0.76,0,0,Aucun,12,0
-POL-2026-00240,Moreau,Jean,H,33,Indépendant,35200,Lille,59015,Silver,Actif,05/04/2017,05/04/2027,112,524,500,5,Citadine,Privé,6,9900,0.73,1,470,6-12 mois,20,0
-POL-2026-00241,Morel,Aïcha,F,31,Ouvrier,23400,Nantes,44011,Silver,Actif,06/04/2014,06/04/2027,148,1193,500,4,Berline,Privé,9,19600,1.16,2,2584,1-2 ans,63,0
-POL-2026-00242,Muller,Céline,F,72,Cadre,67200,Bordeaux,33016,Gold,Actif,16/03/2023,16/03/2027,41,1056,300,6,Citadine,Privé,4,13900,1.0,0,0,Aucun,36,0
-POL-2026-00243,Girard,Ibrahim,H,46,Cadre,65900,Bordeaux,33011,Silver,Résilié,20/02/2015,20/02/2027,138,647,500,4,Citadine,Trajet travail,4,14100,1.08,0,0,Aucun,39,1
-POL-2026-00244,Bernard,David,H,54,Ouvrier,24100,Toulouse,31001,Bronze,Actif,18/12/2017,18/12/2026,104,469,600,2,Berline,Privé,8,17900,0.72,0,0,Aucun,14,0
-POL-2026-00245,Simon,Amina,F,36,Employé,24600,Bordeaux,33001,Platine,Actif,09/04/2014,09/04/2027,148,1144,0,11,Citadine,Trajet travail,6,14100,0.85,0,0,Aucun,23,0
-POL-2026-00246,Ndiaye,Inès,F,40,Retraité,24100,Nice,6015,Gold,Actif,21/05/2025,21/05/2027,15,711,200,7,Citadine,Trajet travail,5,11300,0.84,2,4226,2-3 ans,60,0
-POL-2026-00247,Ndiaye,Amina,F,33,Retraité,24200,Paris,75000,Platine,Résilié,09/10/2011,09/10/2026,178,1774,0,9,Utilitaire,Professionnel,7,6600,1.05,0,0,Aucun,44,1
-POL-2026-00248,Vincent,David,H,18,Cadre,41300,Lyon,69007,Platine,Actif,11/02/2020,11/02/2027,78,2892,150,10,Citadine,Privé,6,10100,1.27,1,1154,6-12 mois,85,0
-POL-2026-00249,Nicolas,Thomas,H,24,Ouvrier,26300,Paris,75000,Gold,Actif,27/05/2022,27/05/2027,51,2011,300,8,Berline,Privé,7,32100,0.98,1,1200,1-2 ans,55,0
-POL-2026-00250,Guerin,Ibrahim,H,18,Employé,31000,Nice,6006,Gold,Actif,06/11/2023,06/11/2026,33,1895,400,8,Berline,Privé,6,12200,1.36,2,3744,1-2 ans,95,0
-POL-2026-00251,Traoré,Julie,F,18,Sans emploi,8200,Marseille,13011,Silver,Suspendu,08/11/2011,08/11/2026,177,1317,600,5,Citadine,Privé,6,12500,1.12,0,0,Aucun,45,1
-POL-2026-00252,Diallo,Laura,F,26,Étudiant,11900,Bordeaux,33003,Bronze,Actif,16/05/2013,16/05/2027,159,540,1000,3,Berline,Privé,7,38300,0.85,1,2134,6-12 mois,20,0
-POL-2026-00253,Garnier,Pierre,H,59,Étudiant,8100,Nantes,44009,Silver,Actif,27/08/2024,27/08/2026,24,621,400,5,Citadine,Trajet travail,5,9200,0.97,0,0,Aucun,30,0
-POL-2026-00254,Vincent,Yann,H,41,Cadre,52400,Nice,6019,Gold,Résilié,26/12/2019,26/12/2026,80,1562,300,6,SUV,Privé,9,30000,1.22,0,0,Aucun,60,1
-POL-2026-00255,Garnier,Olivier,H,59,Employé,30700,Paris,75001,Silver,Actif,09/08/2015,09/08/2026,132,824,400,4,Citadine,Privé,5,7600,1.23,0,0,Aucun,66,0
-POL-2026-00256,David,Sophie,F,47,Employé,28400,Lille,59001,Gold,Actif,01/11/2017,01/11/2026,106,1097,200,7,Citadine,Privé,4,21200,1.09,1,3406,2-3 ans,40,0
-POL-2026-00257,Bertrand,Julie,F,52,Employé,25700,Nantes,44005,Bronze,Actif,19/10/2023,19/10/2026,34,441,600,3,Citadine,Trajet travail,6,11700,0.82,0,0,Aucun,22,0
-POL-2026-00258,Legrand,Laurent,H,30,Employé,17400,Paris,75016,Silver,Actif,15/03/2021,15/03/2027,65,862,400,5,Utilitaire,Professionnel,7,18300,0.84,1,405,6-12 mois,30,0
-POL-2026-00259,François,Éric,H,49,Employé,29800,Lille,59008,Silver,Actif,23/02/2021,23/02/2027,66,1135,400,5,SUV,Trajet travail,8,48200,0.95,0,0,Aucun,34,0
-POL-2026-00260,François,Fatou,F,51,Sans emploi,6200,Lyon,69012,Silver,Suspendu,07/04/2022,07/04/2027,52,1923,600,5,Sportive,Trajet travail,14,56700,1.18,2,3130,2-3 ans,80,1
-POL-2026-00261,Vincent,Julien,H,35,Employé,27800,Bordeaux,33000,Bronze,Actif,17/04/2012,17/04/2027,172,628,800,2,SUV,Trajet travail,7,22100,0.96,1,536,6-12 mois,38,0
-POL-2026-00262,Fournier,Élodie,F,49,Employé,24400,Toulouse,31014,Bronze,Actif,31/07/2023,31/07/2027,37,616,800,3,SUV,Trajet travail,8,23900,0.92,0,0,Aucun,34,0
-POL-2026-00263,Martin,Antoine,H,49,Retraité,17700,Lyon,69001,Gold,Résilié,24/01/2016,24/01/2027,127,1124,300,6,Berline,Privé,9,26200,0.83,2,868,6-12 mois,52,1
-POL-2026-00264,Martinez,Hugo,H,35,Ouvrier,24600,Paris,75014,Silver,Résilié,21/12/2012,21/12/2026,164,667,600,5,Utilitaire,Trajet travail,7,14500,0.79,0,0,Aucun,23,1
-POL-2026-00265,François,Julie,F,27,Retraité,21300,Paris,75002,Bronze,Actif,25/09/2014,25/09/2026,143,473,600,2,Berline,Trajet travail,8,10500,0.86,0,0,Aucun,20,0
-POL-2026-00266,Traoré,Jean,H,27,Ouvrier,25500,Paris,75017,Bronze,Actif,06/08/2014,06/08/2026,144,632,800,2,Berline,Privé,9,21600,0.92,0,0,Aucun,32,0
-POL-2026-00267,Dupont,Pierre,H,43,Retraité,32900,Bordeaux,33005,Silver,Actif,22/03/2024,22/03/2027,29,1227,400,5,SUV,Trajet travail,10,17900,1.22,2,3549,2-3 ans,69,0
-POL-2026-00268,André,Alexandre,H,46,Ouvrier,26200,Lyon,69003,Bronze,Actif,18/08/2024,18/08/2026,24,594,800,3,Berline,Trajet travail,9,38700,0.78,0,0,Aucun,27,0
-POL-2026-00269,Thomas,Ibrahim,H,32,Ouvrier,25600,Paris,75006,Gold,Actif,17/11/2014,17/11/2026,141,1012,300,8,Citadine,Trajet travail,6,12800,0.89,0,0,Aucun,33,0
-POL-2026-00270,Moreau,Jean,H,42,Indépendant,29400,Bordeaux,33000,Gold,Actif,25/06/2015,25/06/2027,134,625,400,7,Berline,Privé,7,16000,0.65,0,0,Aucun,0,0
-POL-2026-00271,Bertrand,Alexandre,H,49,Cadre,39600,Bordeaux,33003,Bronze,Actif,17/07/2015,17/07/2027,133,482,800,2,Citadine,Trajet travail,5,9400,0.98,1,705,1-2 ans,46,0
-POL-2026-00272,Vincent,Michel,H,50,Cadre,72700,Toulouse,31011,Silver,Actif,23/05/2020,23/05/2027,75,918,400,5,Utilitaire,Professionnel,6,9300,1.12,0,0,Aucun,55,0
-POL-2026-00273,Roux,Mamadou,H,62,Cadre,47200,Nice,6006,Bronze,Actif,01/11/2018,01/11/2026,94,842,800,3,Berline,Privé,9,15000,1.13,2,1742,1-2 ans,71,0
-POL-2026-00274,Vincent,Manon,F,59,Employé,24200,Marseille,13007,Bronze,Actif,21/05/2026,21/05/2027,3,645,1000,3,SUV,Privé,7,42800,0.83,0,0,Aucun,35,0
-POL-2026-00275,Henry,Céline,F,29,Retraité,20600,Nantes,44016,Gold,Actif,16/03/2022,16/03/2027,53,1594,300,6,Berline,Privé,9,48000,1.01,0,0,Aucun,45,0
-POL-2026-00276,Petit,Samuel,H,64,Employé,30800,Paris,75002,Silver,Actif,28/09/2018,28/09/2026,95,865,500,4,SUV,Privé,11,38700,0.74,0,0,Aucun,15,0
-POL-2026-00277,David,Karim,H,35,Employé,21700,Lille,59007,Gold,Actif,10/09/2024,10/09/2026,23,1114,200,8,Citadine,Professionnel,4,11600,0.98,1,955,2-3 ans,62,0
-POL-2026-00278,Durand,Yann,H,56,Employé,28400,Nice,6003,Bronze,Actif,14/08/2024,14/08/2026,24,504,600,2,Utilitaire,Trajet travail,7,15500,0.87,0,0,Aucun,24,0
-POL-2026-00279,Garcia,Marie,F,43,Retraité,28300,Nantes,44009,Bronze,Actif,23/11/2025,23/11/2026,9,538,600,3,Berline,Privé,9,15700,0.85,0,0,Aucun,19,0
-POL-2026-00280,Rousseau,Amina,F,37,Cadre,42000,Toulouse,31006,Silver,Actif,15/06/2023,15/06/2027,38,533,400,5,Citadine,Privé,5,24700,0.89,1,723,1-2 ans,15,0
-POL-2026-00281,Dubois,Samuel,H,18,Indépendant,22200,Bordeaux,33000,Silver,Actif,24/10/2011,24/10/2026,178,1347,500,5,Citadine,Professionnel,5,11200,1.02,3,2571,6-12 mois,80,0
-POL-2026-00282,Bertrand,Samuel,H,40,Retraité,26600,Lyon,69001,Platine,Suspendu,14/03/2016,14/03/2027,125,1329,150,10,Citadine,Privé,6,25200,0.79,1,18678,6-12 mois,22,1
-POL-2026-00283,Bernard,Alexandre,H,22,Employé,28500,Bordeaux,33017,Bronze,Actif,27/06/2012,27/06/2027,170,1093,800,2,Berline,Trajet travail,8,35800,0.86,0,0,Aucun,40,0
-POL-2026-00284,Kouassi,Hugo,H,55,Indépendant,35700,Lille,59001,Gold,Actif,14/09/2022,14/09/2026,47,1410,300,6,SUV,Privé,7,16300,1.18,0,0,Aucun,40,0
-POL-2026-00285,Guerin,Claire,F,62,Cadre,39600,Nice,6015,Gold,Actif,31/08/2017,31/08/2026,108,2167,400,7,Sportive,Privé,12,35600,1.37,0,0,Aucun,65,0
-POL-2026-00286,Laurent,Jean,H,32,Employé,22300,Marseille,13018,Silver,Actif,01/05/2013,01/05/2027,160,642,600,4,SUV,Trajet travail,10,23700,0.61,0,0,Aucun,8,0
-POL-2026-00287,Moreau,Mamadou,H,46,Indépendant,38700,Paris,75009,Bronze,Actif,24/04/2021,24/04/2027,64,321,800,2,Berline,Privé,7,21400,0.55,0,0,Aucun,0,0
-POL-2026-00288,Robert,Nicolas,H,33,Étudiant,11000,Toulouse,31006,Silver,Actif,28/10/2016,28/10/2026,118,584,600,5,Berline,Trajet travail,6,21500,0.66,0,0,Aucun,14,0
-POL-2026-00289,André,Michel,H,34,Employé,20800,Paris,75015,Bronze,Actif,19/03/2016,19/03/2027,125,1033,600,3,SUV,Privé,10,85600,0.85,0,0,Aucun,21,0
-POL-2026-00290,Henry,Olivier,H,52,Ouvrier,25000,Paris,75019,Gold,Actif,28/03/2014,28/03/2027,149,868,300,7,Utilitaire,Trajet travail,5,12300,1.01,0,0,Aucun,38,0
-POL-2026-00291,Martinez,Julie,F,41,Employé,32300,Lyon,69002,Silver,Actif,24/02/2012,24/02/2027,174,666,500,5,Citadine,Trajet travail,4,13000,0.98,0,0,Aucun,40,0
-POL-2026-00292,Diallo,Louis,H,65,Ouvrier,14400,Lille,59019,Platine,Résilié,30/05/2017,30/05/2027,111,2656,150,9,Sportive,Trajet travail,14,55800,0.8,1,2917,1-2 ans,38,1
-POL-2026-00293,Bertrand,Laura,F,36,Ouvrier,29000,Paris,75018,Silver,Actif,07/11/2017,07/11/2026,105,835,500,4,Berline,Privé,6,22000,0.98,1,1897,1-2 ans,46,0
-POL-2026-00294,Michel,Jean,H,55,Ouvrier,19600,Paris,75002,Silver,Actif,12/08/2013,12/08/2026,156,732,600,5,SUV,Trajet travail,8,31200,0.65,1,939,6-12 mois,10,0
-POL-2026-00295,André,Inès,F,43,Ouvrier,26100,Paris,75001,Gold,Actif,26/05/2016,26/05/2027,123,1734,200,7,Sportive,Professionnel,19,31200,0.79,0,0,Aucun,23,0
-POL-2026-00296,Moreau,Aïcha,F,52,Employé,31200,Nantes,44014,Silver,Résilié,29/03/2021,29/03/2027,65,976,400,5,SUV,Privé,11,31100,0.81,1,3524,1-2 ans,38,1
-POL-2026-00297,Fotso,Camille,F,36,Indépendant,46300,Bordeaux,33001,Gold,Actif,09/03/2017,09/03/2027,113,491,400,6,Citadine,Privé,6,14400,0.51,0,0,Aucun,0,0
-POL-2026-00298,Leroy,Manon,F,41,Indépendant,42800,Paris,75012,Bronze,Actif,14/05/2018,14/05/2027,99,401,1000,3,Berline,Trajet travail,7,24700,0.59,1,5661,6-12 mois,12,0
-POL-2026-00299,André,Aïcha,F,40,Indépendant,18100,Paris,75001,Platine,Actif,08/03/2023,08/03/2027,41,830,150,11,Citadine,Privé,4,14700,0.6,0,0,Aucun,5,0
-POL-2026-00300,Lambert,Marie,F,31,Employé,21900,Toulouse,31013,Gold,Résilié,27/11/2018,27/11/2026,93,1965,200,8,SUV,Trajet travail,11,49200,1.05,0,0,Aucun,43,1
-POL-2026-00301,Dubois,Céline,F,51,Cadre,56400,Lyon,69004,Gold,Actif,21/04/2017,21/04/2027,112,893,200,6,Citadine,Trajet travail,5,16700,0.87,0,0,Aucun,20,0
-POL-2026-00302,André,Antoine,H,50,Cadre,52400,Toulouse,31001,Silver,Actif,26/02/2013,26/02/2027,162,959,400,4,SUV,Privé,10,30800,0.95,0,0,Aucun,18,0
-POL-2026-00303,Girard,Karim,H,50,Employé,32300,Marseille,13001,Gold,Actif,21/12/2017,21/12/2026,104,505,300,7,Utilitaire,Trajet travail,5,11900,0.5,0,0,Aucun,2,0
-POL-2026-00304,Lefebvre,Louis,H,62,Employé,35900,Nice,6003,Bronze,Actif,26/02/2024,26/02/2027,30,301,800,3,Citadine,Trajet travail,6,9700,0.5,0,0,Aucun,8,0
-POL-2026-00305,Petit,Chloé,F,61,Cadre,64400,Lyon,69010,Gold,Actif,01/12/2011,01/12/2026,177,1048,400,8,Berline,Privé,8,20400,0.93,0,0,Aucun,16,0
-POL-2026-00306,Dubois,Karim,H,37,Indépendant,35600,Bordeaux,33001,Bronze,Actif,18/12/2017,18/12/2026,104,447,1000,3,SUV,Professionnel,11,32800,0.5,0,0,Aucun,6,0
-POL-2026-00307,Martin,Julien,H,47,Employé,17600,Paris,75016,Bronze,Actif,04/04/2022,04/04/2027,52,682,1000,2,Berline,Privé,6,18600,1.1,0,0,Aucun,58,0
-POL-2026-00308,Mercier,Julie,F,34,Retraité,19100,Nice,6012,Silver,Actif,13/04/2015,13/04/2027,136,329,400,5,Citadine,Privé,5,8600,0.5,0,0,Aucun,1,0
-POL-2026-00309,Robert,Antoine,H,42,Ouvrier,26400,Nice,6005,Bronze,Actif,10/11/2020,10/11/2026,69,525,600,3,Citadine,Trajet travail,6,7900,1.03,0,0,Aucun,39,0
-POL-2026-00310,Fotso,Louis,H,34,Indépendant,27700,Lille,59019,Silver,Actif,10/01/2021,10/01/2027,67,538,500,5,Berline,Privé,7,12300,0.67,0,0,Aucun,5,0
-POL-2026-00311,Laurent,Éric,H,63,Cadre,65200,Marseille,13013,Gold,Actif,05/01/2014,05/01/2027,151,1329,300,8,SUV,Trajet travail,10,27600,1.0,2,3062,1-2 ans,54,0
-POL-2026-00312,Faure,Thomas,H,47,Cadre,64200,Paris,75013,Bronze,Actif,29/08/2013,29/08/2026,156,831,1000,2,Berline,Privé,6,13200,1.53,0,0,Aucun,83,0
-POL-2026-00313,Rousseau,Yann,H,39,Ouvrier,24500,Nantes,44003,Gold,Résilié,25/10/2018,25/10/2026,94,464,200,7,Citadine,Trajet travail,6,8500,0.5,1,5612,6-12 mois,6,1
-POL-2026-00314,Mercier,Louis,H,58,Étudiant,5000,Lille,59014,Bronze,Actif,15/01/2021,15/01/2027,67,655,600,2,Berline,Privé,7,19200,0.94,0,0,Aucun,34,0
-POL-2026-00315,Diallo,Mamadou,H,18,Cadre,31700,Paris,75011,Gold,Actif,09/09/2013,09/09/2026,155,865,200,8,Berline,Trajet travail,8,13800,0.53,0,0,Aucun,2,0
-POL-2026-00316,Richard,Julien,H,18,Ouvrier,31300,Marseille,13019,Gold,Suspendu,11/12/2023,11/12/2026,32,1387,400,6,Citadine,Trajet travail,6,13700,1.02,0,0,Aucun,58,0
-POL-2026-00317,Laurent,Samuel,H,52,Ouvrier,22600,Marseille,13009,Silver,Actif,11/06/2015,11/06/2027,134,803,600,4,SUV,Trajet travail,10,38900,0.76,0,0,Aucun,22,0
-POL-2026-00318,Lefebvre,Léa,F,43,Indépendant,22000,Nantes,44013,Gold,Actif,23/11/2017,23/11/2026,105,1009,400,6,Citadine,Professionnel,5,9900,0.87,2,9213,1-2 ans,52,0
-POL-2026-00319,Petit,Antoine,H,45,Employé,36300,Bordeaux,33006,Gold,Actif,21/11/2013,21/11/2026,153,617,300,6,Berline,Trajet travail,6,18900,0.63,0,0,Aucun,7,0
-POL-2026-00320,Garcia,Claire,F,25,Cadre,48300,Bordeaux,33000,Gold,Actif,29/04/2020,29/04/2027,76,1044,200,8,Utilitaire,Trajet travail,6,21700,1.07,1,1911,< 6 mois,67,0
-POL-2026-00321,David,Nathalie,F,42,Cadre,65200,Bordeaux,33002,Silver,Suspendu,24/03/2014,24/03/2027,149,481,600,5,Berline,Trajet travail,9,17100,0.52,1,1229,< 6 mois,1,0
-POL-2026-00322,Henry,Julien,H,68,Étudiant,10800,Lyon,69017,Silver,Résilié,28/05/2026,28/05/2027,3,1066,400,4,Berline,Professionnel,6,16700,1.03,0,0,Aucun,61,1
-POL-2026-00323,Garcia,Éric,H,53,Cadre,60600,Lyon,69014,Gold,Actif,05/04/2015,05/04/2027,136,717,200,8,Citadine,Trajet travail,5,18200,0.72,0,0,Aucun,9,0
-POL-2026-00324,Diallo,Louis,H,44,Cadre,57200,Paris,75007,Bronze,Actif,30/07/2025,30/07/2027,13,378,1000,3,Citadine,Professionnel,5,16400,0.53,0,0,Aucun,18,0
-POL-2026-00325,Roussel,Amina,F,36,Sans emploi,7900,Lille,59013,Gold,Résilié,22/01/2017,22/01/2027,115,1158,300,8,Citadine,Privé,4,14800,1.21,1,1755,< 6 mois,74,1
-POL-2026-00326,Kamga,Isabelle,F,37,Cadre,77300,Marseille,13000,Bronze,Actif,07/09/2023,07/09/2026,35,791,600,2,SUV,Trajet travail,10,41500,0.85,0,0,Aucun,26,0
-POL-2026-00327,Richard,Manon,F,18,Employé,30900,Marseille,13000,Gold,Actif,06/03/2012,06/03/2027,173,1985,300,8,Utilitaire,Trajet travail,6,9000,1.34,1,1639,1-2 ans,98,0
-POL-2026-00328,Ndiaye,Pierre,H,45,Employé,19000,Paris,75010,Bronze,Actif,19/02/2015,19/02/2027,138,483,600,2,Citadine,Privé,4,19300,1.1,0,0,Aucun,50,0
-POL-2026-00329,Legrand,Manon,F,53,Employé,32600,Paris,75012,Bronze,Actif,19/01/2025,19/01/2027,19,332,600,3,Citadine,Privé,5,13800,0.63,0,0,Aucun,4,0
-POL-2026-00330,Ndiaye,Thomas,H,22,Employé,32500,Toulouse,31018,Platine,Actif,17/04/2013,17/04/2027,160,2642,150,9,Citadine,Professionnel,6,17100,0.89,1,816,< 6 mois,51,0
-POL-2026-00331,Roux,Laura,F,33,Cadre,63900,Paris,75015,Gold,Actif,09/10/2022,09/10/2026,46,1129,200,8,Berline,Privé,9,25200,0.9,0,0,Aucun,42,0
-POL-2026-00332,Kouassi,Samuel,H,27,Indépendant,32000,Paris,75005,Gold,Actif,10/06/2018,10/06/2027,98,1494,400,7,Berline,Privé,8,22400,1.23,0,0,Aucun,66,0
-POL-2026-00333,Martinez,Laura,F,29,Indépendant,45600,Lille,59016,Platine,Actif,17/04/2025,17/04/2027,16,2061,100,11,SUV,Privé,10,27200,0.98,1,847,1-2 ans,40,0
-POL-2026-00334,Thomas,Fatou,F,43,Employé,34100,Lyon,69009,Silver,Actif,22/01/2025,22/01/2027,19,786,500,5,Utilitaire,Privé,8,20500,0.88,0,0,Aucun,31,0
-POL-2026-00335,Fournier,Éric,H,18,Ouvrier,34900,Marseille,13016,Bronze,Résilié,22/12/2022,22/12/2026,44,733,1000,2,Citadine,Trajet travail,4,10800,0.88,2,1136,1-2 ans,61,1
-POL-2026-00336,Petit,Inès,F,50,Employé,24800,Marseille,13003,Bronze,Actif,14/08/2018,14/08/2026,96,907,800,3,SUV,Professionnel,8,40600,0.81,0,0,Aucun,25,0
-POL-2026-00337,Kouassi,Olivier,H,52,Étudiant,8500,Nantes,44000,Silver,Actif,08/06/2018,08/06/2027,98,1051,400,5,Berline,Professionnel,7,12600,1.1,0,0,Aucun,72,0
-POL-2026-00338,Garcia,Camille,F,39,Employé,26000,Lyon,69001,Bronze,Actif,30/10/2013,30/10/2026,154,426,1000,2,Citadine,Trajet travail,5,9900,0.85,1,766,2-3 ans,35,0
-POL-2026-00339,Simon,Yann,H,18,Ouvrier,18800,Lille,59019,Platine,Résilié,09/02/2024,09/02/2027,30,1928,100,8,Utilitaire,Trajet travail,7,36800,0.84,1,3657,6-12 mois,48,1
-POL-2026-00340,Bonnet,Laura,F,29,Cadre,39000,Nice,6001,Bronze,Actif,19/05/2015,19/05/2027,135,361,800,3,Citadine,Privé,4,9600,0.76,1,849,< 6 mois,36,0
-POL-2026-00341,Morel,Éric,H,58,Ouvrier,11600,Bordeaux,33018,Bronze,Actif,27/06/2026,27/06/2027,2,572,800,3,SUV,Professionnel,10,27600,0.67,0,0,Aucun,18,0
-POL-2026-00342,Robert,Nathalie,F,18,Cadre,41300,Marseille,13014,Bronze,Actif,30/03/2022,30/03/2027,53,624,800,3,SUV,Privé,8,22000,0.61,0,0,Aucun,28,0
-POL-2026-00343,Perrin,Nathalie,F,37,Indépendant,40500,Lille,59002,Bronze,Actif,23/12/2023,23/12/2026,32,457,800,3,Utilitaire,Privé,8,20200,0.69,0,0,Aucun,2,0
-POL-2026-00344,Nguyen,Léa,F,27,Employé,23100,Marseille,13017,Bronze,Actif,25/09/2024,25/09/2026,23,1012,1000,3,Berline,Professionnel,8,17000,1.22,1,2637,6-12 mois,70,0
-POL-2026-00345,Muller,Isabelle,F,52,Étudiant,13400,Marseille,13002,Silver,Actif,29/11/2017,29/11/2026,105,770,400,4,Citadine,Professionnel,6,11200,0.76,0,0,Aucun,33,0
-POL-2026-00346,Legrand,Inès,F,33,Cadre,50300,Toulouse,31002,Bronze,Actif,21/02/2013,21/02/2027,162,903,800,2,SUV,Privé,10,40400,1.03,2,4118,6-12 mois,68,0
-POL-2026-00347,Fournier,Amina,F,47,Indépendant,50100,Lyon,69011,Silver,Actif,09/08/2016,09/08/2026,120,564,500,4,SUV,Trajet travail,9,23500,0.5,1,1421,1-2 ans,0,0
-POL-2026-00348,Bonnet,Samuel,H,49,Retraité,24300,Paris,75005,Gold,Actif,11/11/2013,11/11/2026,153,1176,300,6,Berline,Trajet travail,6,29000,0.95,1,881,1-2 ans,34,0
-POL-2026-00349,Lambert,Anne,F,66,Sans emploi,9200,Marseille,13005,Silver,Actif,27/10/2017,27/10/2026,106,720,400,5,SUV,Privé,8,40000,0.73,0,0,Aucun,21,0
-POL-2026-00350,Durand,Laurent,H,39,Employé,29600,Paris,75003,Silver,Actif,14/10/2025,14/10/2026,10,568,500,5,Citadine,Privé,6,17400,0.75,0,0,Aucun,16,0
-POL-2026-00351,Thomas,Sophie,F,47,Employé,37400,Marseille,13012,Silver,Actif,19/06/2021,19/06/2027,62,746,400,4,Berline,Privé,7,23100,0.87,0,0,Aucun,27,0
-POL-2026-00352,Lefebvre,Alexandre,H,23,Employé,26000,Toulouse,31000,Bronze,Actif,11/04/2014,11/04/2027,148,1063,800,3,Utilitaire,Trajet travail,5,56000,0.8,0,0,Aucun,40,0
-POL-2026-00353,Girard,Sarah,F,57,Employé,33400,Nice,6004,Bronze,Actif,26/12/2025,26/12/2026,8,250,1000,2,Citadine,Privé,4,17400,0.5,0,0,Aucun,0,0
-POL-2026-00354,Durand,Élodie,F,32,Ouvrier,25000,Paris,75011,Platine,Actif,28/02/2025,28/02/2027,18,1894,100,9,Berline,Trajet travail,8,24600,1.08,1,1054,1-2 ans,41,0
-POL-2026-00355,Richard,Nicolas,H,35,Sans emploi,6400,Bordeaux,33009,Silver,Résilié,21/02/2014,21/02/2027,150,1198,600,5,Sportive,Privé,16,33100,0.92,0,0,Aucun,20,1
-POL-2026-00356,Nguyen,David,H,42,Sans emploi,7700,Marseille,13013,Bronze,Actif,05/08/2025,05/08/2026,12,747,800,3,SUV,Professionnel,11,29000,0.77,3,4632,< 6 mois,53,0
-POL-2026-00357,Roux,Émilie,F,22,Ouvrier,33600,Paris,75004,Silver,Actif,16/04/2012,16/04/2027,172,1106,400,5,Utilitaire,Trajet travail,8,29700,0.7,0,0,Aucun,9,0
-POL-2026-00358,Martinez,Nathalie,F,45,Ouvrier,23200,Paris,75012,Gold,Actif,30/04/2015,30/04/2027,136,985,300,6,Berline,Professionnel,8,40000,0.51,0,0,Aucun,1,0
-POL-2026-00359,Lambert,Michel,H,55,Retraité,25700,Paris,75015,Silver,Actif,05/08/2016,05/08/2026,120,1735,400,5,Sportive,Privé,15,75500,0.85,0,0,Aucun,15,0
-POL-2026-00360,Muller,Claire,F,46,Étudiant,11800,Paris,75007,Silver,Actif,09/08/2018,09/08/2026,96,891,600,5,Citadine,Trajet travail,6,15800,1.18,0,0,Aucun,67,0
-POL-2026-00361,Muller,Sophie,F,21,Employé,32400,Lyon,69005,Gold,Résilié,16/04/2025,16/04/2027,16,1599,400,7,Berline,Trajet travail,6,14200,0.96,2,1990,2-3 ans,84,1
-POL-2026-00362,Garcia,Pierre,H,40,Ouvrier,24100,Marseille,13011,Silver,Actif,12/05/2020,12/05/2027,75,465,500,4,Berline,Privé,8,26100,0.55,0,0,Aucun,0,0
-POL-2026-00363,Nguyen,Alexandre,H,52,Retraité,11800,Toulouse,31011,Silver,Actif,27/07/2014,27/07/2027,145,693,600,4,SUV,Privé,9,19400,0.86,0,0,Aucun,28,0
-POL-2026-00364,Roux,Nicolas,H,18,Cadre,52200,Paris,75001,Bronze,Actif,13/02/2013,13/02/2027,162,712,600,3,Utilitaire,Privé,8,10700,0.91,0,0,Aucun,34,0
-POL-2026-00365,Nguyen,Léa,F,28,Cadre,23500,Paris,75011,Bronze,Résilié,06/11/2019,06/11/2026,81,905,600,2,SUV,Privé,11,32600,1.08,1,1271,1-2 ans,52,1
-POL-2026-00366,Fournier,Jean,H,53,Sans emploi,9700,Paris,75003,Platine,Actif,20/01/2014,20/01/2027,151,1890,0,9,Berline,Privé,8,26400,0.94,0,0,Aucun,47,0
-POL-2026-00367,Richard,Émilie,F,46,Sans emploi,7500,Toulouse,31011,Silver,Actif,31/12/2014,31/12/2026,140,473,500,4,Berline,Privé,8,30200,0.5,0,0,Aucun,0,0
-POL-2026-00368,Henry,Sarah,F,47,Étudiant,11300,Lyon,69018,Silver,Actif,10/09/2025,10/09/2026,11,868,400,4,Berline,Privé,8,26200,0.95,2,1427,6-12 mois,52,0
-POL-2026-00369,Bernard,Ibrahim,H,66,Retraité,20500,Toulouse,31010,Silver,Actif,11/04/2017,11/04/2027,112,506,500,5,Berline,Trajet travail,8,26500,0.54,0,0,Aucun,0,0
-POL-2026-00370,Roussel,Chloé,F,48,Employé,19600,Paris,75015,Bronze,Actif,12/05/2017,12/05/2027,111,256,1000,3,Citadine,Privé,4,8500,0.51,1,488,< 6 mois,15,0
-POL-2026-00371,Dubois,Amina,F,51,Cadre,57800,Paris,75006,Gold,Actif,13/06/2018,13/06/2027,98,852,300,6,Berline,Privé,7,21200,0.77,0,0,Aucun,0,0
-POL-2026-00372,Moreau,Thomas,H,77,Ouvrier,28300,Nice,6018,Bronze,Actif,29/01/2015,29/01/2027,139,436,800,2,Utilitaire,Trajet travail,7,10600,0.82,0,0,Aucun,19,0
-POL-2026-00373,Martinez,Antoine,H,39,Ouvrier,21300,Paris,75016,Gold,Actif,28/04/2013,28/04/2027,160,526,200,6,SUV,Privé,10,14900,0.5,0,0,Aucun,0,0
-POL-2026-00374,Kouassi,Antoine,H,32,Cadre,50900,Paris,75018,Silver,Actif,10/05/2018,10/05/2027,99,1072,400,5,SUV,Privé,8,38900,1.03,0,0,Aucun,36,0
-POL-2026-00375,Fournier,Louis,H,48,Ouvrier,39600,Paris,75014,Bronze,Actif,09/10/2021,09/10/2026,58,705,1000,2,Berline,Privé,9,16900,0.99,0,0,Aucun,47,0
-POL-2026-00376,Richard,Ibrahim,H,48,Cadre,63600,Nice,6012,Bronze,Actif,30/12/2011,30/12/2026,176,636,1000,3,Berline,Privé,9,29900,0.83,0,0,Aucun,32,0
-POL-2026-00377,Laurent,Inès,F,35,Indépendant,45800,Bordeaux,33010,Gold,Actif,16/03/2012,16/03/2027,173,652,200,6,Citadine,Trajet travail,5,17700,0.68,2,1558,2-3 ans,15,0
-POL-2026-00378,Kamga,Yann,H,29,Cadre,58800,Bordeaux,33018,Bronze,Actif,18/05/2016,18/05/2027,123,434,600,2,Berline,Privé,6,17700,0.67,0,0,Aucun,28,0
-POL-2026-00379,Guerin,Éric,H,72,Cadre,77200,Nice,6016,Bronze,Actif,23/01/2017,23/01/2027,115,680,1000,3,Berline,Privé,9,27000,0.97,0,0,Aucun,25,0
-POL-2026-00380,Robert,Aïcha,F,46,Employé,27700,Paris,75008,Gold,Actif,14/01/2025,14/01/2027,19,609,200,6,Citadine,Professionnel,4,9500,0.5,0,0,Aucun,17,0
-POL-2026-00381,Vincent,Inès,F,32,Employé,14200,Nice,6001,Silver,Actif,07/08/2020,07/08/2026,72,1007,500,5,Citadine,Professionnel,5,6300,1.11,0,0,Aucun,56,0
-POL-2026-00382,Lefebvre,Camille,F,54,Retraité,22600,Paris,75000,Silver,Actif,09/08/2023,09/08/2026,36,862,600,5,SUV,Privé,11,31300,0.77,0,0,Aucun,18,0
-POL-2026-00383,Leroy,Émilie,F,41,Cadre,61500,Bordeaux,33004,Bronze,Actif,27/11/2018,27/11/2026,93,470,1000,2,Berline,Privé,8,18700,0.83,0,0,Aucun,22,0
-POL-2026-00384,Nguyen,Louis,H,39,Employé,21900,Marseille,13001,Gold,Actif,19/04/2014,19/04/2027,148,637,300,7,Berline,Trajet travail,6,18900,0.5,0,0,Aucun,0,0
-POL-2026-00385,Legrand,Alexandre,H,49,Indépendant,38200,Marseille,13004,Bronze,Actif,06/03/2023,06/03/2027,41,479,800,3,Citadine,Trajet travail,4,24000,0.79,0,0,Aucun,25,0
-POL-2026-00386,Leroy,Julie,F,25,Ouvrier,18500,Nice,6002,Bronze,Actif,25/09/2011,25/09/2026,179,576,1000,3,Berline,Trajet travail,7,12900,1.03,0,0,Aucun,32,0
-POL-2026-00387,Faure,Léa,F,47,Employé,38200,Paris,75019,Bronze,Actif,09/08/2024,09/08/2026,24,397,1000,2,Berline,Privé,8,25200,0.53,1,206,< 6 mois,9,0
-POL-2026-00388,Fournier,Émilie,F,67,Cadre,67600,Nice,6001,Bronze,Actif,16/02/2025,16/02/2027,18,567,1000,2,Berline,Privé,8,15500,0.87,0,0,Aucun,25,0
-POL-2026-00389,Dubois,Louis,H,48,Employé,33100,Lyon,69012,Bronze,Actif,18/01/2012,18/01/2027,175,635,800,3,Berline,Privé,6,30200,0.84,0,0,Aucun,14,0
-POL-2026-00390,Girard,Élodie,F,37,Ouvrier,26900,Bordeaux,33007,Bronze,Actif,22/02/2025,22/02/2027,18,437,1000,3,Citadine,Professionnel,4,13300,0.72,0,0,Aucun,18,0
-POL-2026-00391,Leroy,Émilie,F,35,Employé,27100,Nice,6003,Bronze,Actif,07/08/2015,07/08/2026,132,854,1000,2,Utilitaire,Professionnel,7,20600,1.05,1,1885,< 6 mois,47,0
-POL-2026-00392,Laurent,Éric,H,37,Employé,28800,Paris,75014,Silver,Actif,18/03/2015,18/03/2027,137,293,400,5,Citadine,Privé,4,8600,0.5,0,0,Aucun,0,0
-POL-2026-00393,Diallo,Inès,F,39,Employé,20600,Nice,6019,Gold,Actif,16/08/2021,16/08/2026,60,1027,200,7,Berline,Trajet travail,6,16800,0.93,0,0,Aucun,38,0
-POL-2026-00394,Guerin,Anne,F,37,Ouvrier,12100,Toulouse,31015,Bronze,Résilié,20/08/2025,20/08/2026,12,680,1000,3,Citadine,Privé,5,16600,1.22,1,617,6-12 mois,69,1
-POL-2026-00395,Petit,Nicolas,H,54,Employé,30900,Lille,59019,Bronze,Actif,30/12/2021,30/12/2026,56,944,600,3,Berline,Trajet travail,8,40900,1.12,0,0,Aucun,66,0
-POL-2026-00396,Nguyen,Laurent,H,19,Retraité,21300,Paris,75011,Gold,Actif,11/07/2025,11/07/2027,13,1750,400,7,Citadine,Professionnel,4,14200,1.01,1,619,6-12 mois,51,0
-POL-2026-00397,François,Chloé,F,53,Employé,37300,Toulouse,31013,Gold,Résilié,23/07/2016,23/07/2027,121,696,300,8,Utilitaire,Trajet travail,5,13100,0.74,0,0,Aucun,21,1
-POL-2026-00398,Mbarga,Karim,H,37,Ouvrier,31900,Bordeaux,33002,Silver,Actif,25/04/2013,25/04/2027,160,582,400,4,Berline,Privé,6,24800,0.72,0,0,Aucun,14,0
-POL-2026-00399,Muller,Jean,H,47,Cadre,71800,Marseille,13017,Bronze,Actif,10/09/2011,10/09/2026,179,859,800,2,SUV,Trajet travail,8,70200,0.76,0,0,Aucun,23,0
-POL-2026-00400,Bertrand,Julien,H,27,Cadre,37200,Paris,75014,Silver,Actif,27/08/2014,27/08/2026,144,773,600,5,Citadine,Privé,4,12400,1.01,1,5113,6-12 mois,52,0
-POL-2026-00401,Lambert,Louis,H,59,Employé,28500,Paris,75005,Bronze,Actif,13/01/2015,13/01/2027,139,326,1000,2,Citadine,Trajet travail,4,20000,0.61,0,0,Aucun,4,0
-POL-2026-00402,Lambert,Julie,F,58,Retraité,26300,Nantes,44007,Bronze,Suspendu,18/06/2013,18/06/2027,158,608,800,3,Berline,Privé,7,17000,0.96,1,4077,1-2 ans,43,0
-POL-2026-00403,Guerin,Camille,F,54,Étudiant,14600,Paris,75012,Silver,Actif,07/02/2015,07/02/2027,138,1374,400,4,Berline,Professionnel,6,21700,1.27,3,1747,1-2 ans,84,0
-POL-2026-00404,Laurent,Thomas,H,22,Employé,34600,Lille,59000,Silver,Actif,30/11/2016,30/11/2026,117,1254,600,4,Berline,Privé,7,27300,0.9,0,0,Aucun,47,0
-POL-2026-00405,David,Isabelle,F,53,Employé,36700,Nice,6016,Silver,Actif,10/09/2011,10/09/2026,179,689,600,4,Sportive,Privé,15,51700,0.51,0,0,Aucun,0,0
-POL-2026-00406,Laurent,Isabelle,F,47,Étudiant,8500,Paris,75005,Silver,Suspendu,26/10/2021,26/10/2026,58,418,500,5,SUV,Privé,7,22900,0.53,0,0,Aucun,8,0
-POL-2026-00407,Garcia,Thomas,H,21,Ouvrier,17100,Paris,75001,Bronze,Actif,07/06/2020,07/06/2027,74,1497,800,2,Sportive,Privé,16,33900,1.08,1,957,6-12 mois,67,0
-POL-2026-00408,Durand,Amina,F,42,Employé,33100,Bordeaux,33006,Bronze,Actif,23/01/2013,23/01/2027,163,386,800,2,Citadine,Privé,5,17000,0.83,0,0,Aucun,19,0
-POL-2026-00409,Bernard,Jean,H,47,Employé,22200,Paris,75016,Gold,Résilié,01/01/2022,01/01/2027,56,1823,200,7,SUV,Trajet travail,9,45500,1.02,0,0,Aucun,40,1
-POL-2026-00410,Kouassi,Camille,F,49,Ouvrier,23800,Toulouse,31005,Gold,Actif,16/02/2022,16/02/2027,54,1031,200,6,Berline,Privé,8,37300,0.7,0,0,Aucun,14,0
-POL-2026-00411,Thomas,Sophie,F,44,Indépendant,37800,Bordeaux,33010,Bronze,Résilié,30/04/2024,30/04/2027,28,873,600,3,Berline,Privé,9,41400,1.02,0,0,Aucun,54,1
-POL-2026-00412,Diallo,Léa,F,46,Ouvrier,33100,Toulouse,31016,Silver,Suspendu,24/06/2022,24/06/2027,50,836,600,4,Sportive,Privé,10,47200,0.8,1,5943,< 6 mois,58,1
-POL-2026-00413,Martin,Julien,H,61,Sans emploi,7200,Lyon,69000,Bronze,Actif,11/09/2017,11/09/2026,107,362,600,2,SUV,Privé,7,26900,0.62,0,0,Aucun,17,0
-POL-2026-00414,Roussel,Céline,F,58,Cadre,28800,Bordeaux,33015,Bronze,Actif,17/05/2013,17/05/2027,159,590,800,2,Utilitaire,Professionnel,6,28900,0.7,1,2107,1-2 ans,22,0
-POL-2026-00415,David,Laurent,H,18,Cadre,52100,Toulouse,31005,Gold,Actif,13/07/2024,13/07/2027,25,2222,300,6,SUV,Professionnel,10,38500,0.66,1,2293,6-12 mois,44,0
-POL-2026-00416,Dupont,Yann,H,38,Cadre,43500,Paris,75013,Bronze,Actif,07/06/2016,07/06/2027,122,633,600,2,Citadine,Privé,6,8500,1.29,0,0,Aucun,68,0
-POL-2026-00417,Michel,Olivier,H,40,Cadre,52500,Toulouse,31003,Silver,Actif,16/02/2015,16/02/2027,138,876,600,5,SUV,Trajet travail,11,20900,0.83,0,0,Aucun,16,0
-POL-2026-00418,Mercier,Laura,F,19,Employé,24500,Nantes,44002,Silver,Résilié,17/03/2013,17/03/2027,161,1451,400,4,Berline,Trajet travail,8,26100,1.06,4,2375,2-3 ans,76,1
-POL-2026-00419,Girard,Louis,H,43,Employé,26700,Bordeaux,33015,Bronze,Actif,31/05/2015,31/05/2027,135,527,1000,2,Utilitaire,Professionnel,6,16900,0.72,1,836,< 6 mois,28,0
-POL-2026-00420,Lambert,Sarah,F,58,Cadre,65700,Marseille,13016,Bronze,Actif,23/04/2024,23/04/2027,28,466,1000,2,SUV,Privé,9,29700,0.56,0,0,Aucun,11,0
-POL-2026-00421,Vincent,Élodie,F,28,Indépendant,22900,Lyon,69019,Bronze,Actif,11/04/2019,11/04/2027,88,443,1000,3,Citadine,Privé,4,17500,0.84,1,1094,1-2 ans,21,0
-POL-2026-00422,Lambert,Ibrahim,H,46,Employé,25700,Paris,75013,Platine,Actif,31/05/2012,31/05/2027,171,1451,0,10,Citadine,Trajet travail,5,15700,1.07,1,741,1-2 ans,45,0
-POL-2026-00423,Perrin,Laurent,H,30,Cadre,57200,Paris,75009,Silver,Actif,22/01/2013,22/01/2027,163,834,600,5,Citadine,Professionnel,5,19100,0.77,1,3368,< 6 mois,36,0
-POL-2026-00424,Morel,Karim,H,33,Ouvrier,19900,Paris,75003,Silver,Actif,28/06/2017,28/06/2027,110,497,500,5,Berline,Trajet travail,6,11200,0.68,0,0,Aucun,13,0
-POL-2026-00425,Roux,Camille,F,61,Ouvrier,18000,Nice,6005,Bronze,Actif,08/03/2012,08/03/2027,173,488,800,2,Citadine,Trajet travail,6,13100,0.81,1,936,1-2 ans,40,0
-POL-2026-00426,Petit,Fatou,F,35,Retraité,24700,Paris,75012,Silver,Actif,17/08/2016,17/08/2026,120,1111,600,5,SUV,Privé,11,38300,0.98,0,0,Aucun,26,0
-POL-2026-00427,Roux,Karim,H,48,Retraité,28300,Nantes,44006,Bronze,Actif,14/08/2025,14/08/2026,12,754,800,3,Berline,Trajet travail,7,12900,1.18,0,0,Aucun,76,0
-POL-2026-00428,Petit,Élodie,F,18,Indépendant,33400,Paris,75009,Silver,Résilié,13/12/2012,13/12/2026,164,1570,400,4,Utilitaire,Professionnel,8,14300,1.0,1,384,< 6 mois,51,1
-POL-2026-00429,Leroy,Julien,H,66,Employé,19600,Lyon,69003,Gold,Actif,26/01/2024,26/01/2027,31,817,200,7,Citadine,Privé,4,8900,0.91,0,0,Aucun,18,0
-POL-2026-00430,Kouassi,Céline,F,50,Cadre,62700,Marseille,13008,Silver,Actif,30/11/2020,30/11/2026,69,920,500,5,Berline,Trajet travail,9,22200,0.97,1,975,< 6 mois,45,0
-POL-2026-00431,Robert,Sarah,F,40,Ouvrier,15200,Lyon,69004,Bronze,Actif,21/01/2023,21/01/2027,43,355,800,3,Citadine,Privé,6,21200,0.6,1,4591,1-2 ans,7,0
-POL-2026-00432,Mercier,Isabelle,F,49,Employé,31200,Lille,59002,Bronze,Actif,26/11/2015,26/11/2026,129,429,600,2,Utilitaire,Trajet travail,5,36500,0.61,0,0,Aucun,5,0
-POL-2026-00433,Nguyen,Isabelle,F,24,Employé,20300,Nice,6002,Bronze,Actif,20/02/2026,20/02/2027,6,480,600,3,Citadine,Trajet travail,5,9000,0.66,0,0,Aucun,25,0
-POL-2026-00434,Kouassi,Léa,F,57,Employé,23200,Nantes,44010,Silver,Suspendu,24/01/2017,24/01/2027,115,379,600,5,Citadine,Trajet travail,4,14400,0.5,0,0,Aucun,0,0
-POL-2026-00435,Durand,Thomas,H,38,Cadre,46400,Paris,75007,Gold,Actif,10/09/2013,10/09/2026,155,1290,300,6,Citadine,Professionnel,6,14600,1.03,1,678,2-3 ans,47,0
-POL-2026-00436,Durand,Michel,H,39,Cadre,49600,Lille,59001,Bronze,Actif,24/10/2014,24/10/2026,142,602,1000,3,SUV,Privé,7,34400,0.92,1,1148,2-3 ans,43,0
-POL-2026-00437,Roux,Antoine,H,36,Employé,23500,Paris,75010,Silver,Actif,28/01/2022,28/01/2027,55,531,400,5,Citadine,Privé,4,13800,0.88,0,0,Aucun,28,0
-POL-2026-00438,Bonnet,Karim,H,34,Retraité,24200,Nice,6003,Silver,Actif,06/03/2013,06/03/2027,161,387,400,4,Berline,Privé,7,24500,0.5,0,0,Aucun,4,0
-POL-2026-00439,Fotso,Émilie,F,51,Étudiant,8600,Toulouse,31000,Bronze,Suspendu,31/03/2021,31/03/2027,65,1199,600,2,SUV,Privé,7,54200,1.27,1,1663,6-12 mois,69,1
-POL-2026-00440,Moreau,Inès,F,45,Employé,34700,Lyon,69002,Bronze,Actif,26/06/2016,26/06/2027,122,494,800,2,SUV,Privé,8,44100,0.64,0,0,Aucun,1,0
-POL-2026-00441,Durand,Céline,F,50,Étudiant,10000,Paris,75008,Bronze,Actif,23/01/2019,23/01/2027,91,648,1000,3,Citadine,Privé,5,8300,1.27,1,1101,2-3 ans,56,0
-POL-2026-00442,Lefebvre,Éric,H,42,Employé,24000,Paris,75019,Silver,Actif,31/07/2025,31/07/2027,13,393,500,5,Citadine,Privé,5,15900,0.52,1,1393,2-3 ans,9,0
-POL-2026-00443,Mbarga,Élodie,F,49,Étudiant,7700,Paris,75004,Silver,Actif,07/07/2026,07/07/2027,1,632,400,4,Berline,Privé,8,30100,0.64,0,0,Aucun,2,0
-POL-2026-00444,Bernard,Antoine,H,37,Sans emploi,5000,Nice,6005,Gold,Actif,22/11/2023,22/11/2026,33,479,400,8,Citadine,Privé,4,13400,0.5,0,0,Aucun,0,0
-POL-2026-00445,Vincent,Michel,H,71,Employé,34100,Lille,59004,Gold,Actif,11/08/2012,11/08/2026,168,1292,300,8,SUV,Trajet travail,8,44600,0.83,1,830,2-3 ans,35,0
-POL-2026-00446,Richard,Marie,F,22,Indépendant,31600,Nice,6007,Gold,Actif,29/05/2012,29/05/2027,171,1001,300,7,Berline,Privé,9,23500,0.67,1,859,2-3 ans,15,0
-POL-2026-00447,Durand,Élodie,F,58,Sans emploi,5000,Paris,75014,Platine,Actif,17/06/2020,17/06/2027,74,917,0,10,Berline,Trajet travail,7,23600,0.55,0,0,Aucun,14,0
-POL-2026-00448,Traoré,Inès,F,60,Étudiant,8800,Toulouse,31006,Gold,Actif,27/02/2012,27/02/2027,174,590,300,8,Citadine,Professionnel,4,12500,0.5,1,1292,2-3 ans,10,0
-POL-2026-00449,Martin,Samuel,H,31,Sans emploi,5300,Lyon,69013,Gold,Résilié,25/11/2025,25/11/2026,9,1194,300,7,Berline,Trajet travail,7,10900,1.05,0,0,Aucun,46,1
-POL-2026-00450,David,Nathalie,F,71,Ouvrier,36000,Toulouse,31017,Gold,Actif,19/02/2012,19/02/2027,174,923,400,8,Citadine,Privé,4,11700,0.9,0,0,Aucun,20,0
-POL-2026-00451,Kamga,Julien,H,55,Employé,19600,Lyon,69018,Gold,Actif,05/02/2023,05/02/2027,42,1315,200,8,SUV,Privé,8,23700,1.2,0,0,Aucun,64,0
-POL-2026-00452,Legrand,Marie,F,55,Retraité,16700,Lyon,69011,Gold,Actif,24/01/2026,24/01/2027,7,586,200,6,Citadine,Trajet travail,6,7900,0.65,1,747,2-3 ans,21,0
-POL-2026-00453,Thomas,Sophie,F,42,Ouvrier,30100,Toulouse,31014,Platine,Actif,10/04/2015,10/04/2027,136,2537,150,10,Sportive,Trajet travail,12,74300,0.89,0,0,Aucun,23,0
-POL-2026-00454,André,Nicolas,H,39,Ouvrier,31000,Paris,75018,Silver,Actif,29/11/2020,29/11/2026,69,723,500,5,SUV,Privé,10,35800,0.57,0,0,Aucun,6,0
-POL-2026-00455,Fotso,Laurent,H,39,Cadre,43200,Marseille,13015,Silver,Actif,25/03/2022,25/03/2027,53,597,400,5,Citadine,Privé,5,11900,0.78,0,0,Aucun,9,0
-POL-2026-00456,Fournier,Pierre,H,47,Ouvrier,21500,Bordeaux,33005,Silver,Actif,15/04/2015,15/04/2027,136,502,400,4,Citadine,Trajet travail,5,9800,0.71,0,0,Aucun,1,0
-POL-2026-00457,Lambert,Inès,F,60,Employé,34600,Paris,75002,Gold,Actif,19/08/2021,19/08/2026,60,868,300,8,Citadine,Privé,5,13300,0.89,0,0,Aucun,22,0
-POL-2026-00458,Lambert,David,H,44,Indépendant,19300,Nice,6002,Silver,Actif,18/05/2015,18/05/2027,135,892,500,4,Citadine,Trajet travail,5,17000,1.06,0,0,Aucun,46,0
-POL-2026-00459,Faure,Camille,F,30,Employé,15100,Toulouse,31017,Gold,Résilié,13/09/2023,13/09/2026,35,1049,200,7,Citadine,Privé,4,9000,1.1,0,0,Aucun,50,1
-POL-2026-00460,Leroy,Aïcha,F,53,Indépendant,38100,Nantes,44011,Gold,Actif,29/04/2025,29/04/2027,16,694,300,6,Utilitaire,Privé,5,18000,0.62,0,0,Aucun,19,0
-POL-2026-00461,Nguyen,Céline,F,54,Retraité,31000,Bordeaux,33005,Platine,Suspendu,12/09/2021,12/09/2026,59,2088,150,9,Berline,Trajet travail,9,29800,1.02,0,0,Aucun,35,0
-POL-2026-00462,Ndiaye,Thomas,H,51,Cadre,49900,Lille,59006,Bronze,Actif,07/06/2017,07/06/2027,110,360,1000,3,Citadine,Privé,4,6100,0.8,1,633,< 6 mois,35,0
-POL-2026-00463,Petit,Marie,F,52,Cadre,56300,Lille,59005,Gold,Actif,11/03/2023,11/03/2027,41,976,300,8,Berline,Trajet travail,9,21600,0.74,0,0,Aucun,19,0
-POL-2026-00464,Perrin,Pierre,H,38,Cadre,64500,Nantes,44016,Gold,Actif,24/06/2024,24/06/2027,26,688,300,8,Citadine,Privé,5,10300,0.7,1,173,1-2 ans,17,0
-POL-2026-00465,Perrin,Amina,F,30,Sans emploi,9900,Bordeaux,33012,Platine,Résilié,23/05/2015,23/05/2027,135,2278,100,11,Sportive,Privé,19,42900,0.76,0,0,Aucun,21,1
-POL-2026-00466,Muller,Nathalie,F,31,Indépendant,31500,Lyon,69017,Gold,Actif,06/03/2019,06/03/2027,89,1408,200,6,Citadine,Professionnel,5,10100,1.26,1,4321,2-3 ans,75,0
-POL-2026-00467,Roux,Chloé,F,21,Cadre,46900,Paris,75006,Silver,Suspendu,08/02/2020,08/02/2027,78,1675,400,5,SUV,Privé,9,31500,0.98,4,10411,2-3 ans,77,1
-POL-2026-00468,André,Claire,F,45,Employé,39900,Bordeaux,33009,Silver,Actif,06/01/2023,06/01/2027,43,1383,600,4,SUV,Privé,10,58800,0.87,1,3848,1-2 ans,39,0
-POL-2026-00469,Nguyen,Yann,H,41,Employé,18800,Paris,75002,Bronze,Actif,06/04/2026,06/04/2027,4,479,600,3,Citadine,Professionnel,5,10700,0.79,1,4065,2-3 ans,38,0
-POL-2026-00470,Durand,Pierre,H,36,Cadre,62700,Paris,75019,Platine,Actif,20/10/2025,20/10/2026,10,1828,150,9,Citadine,Trajet travail,4,13300,1.4,0,0,Aucun,74,0
-POL-2026-00471,Perrin,Louis,H,18,Étudiant,6000,Paris,75010,Bronze,Suspendu,28/06/2016,28/06/2027,122,1588,600,3,Berline,Trajet travail,8,44200,1.21,0,0,Aucun,65,1
-POL-2026-00472,Traoré,Karim,H,26,Indépendant,36200,Toulouse,31011,Gold,Actif,26/05/2025,26/05/2027,15,815,400,8,Utilitaire,Privé,7,14800,0.74,0,0,Aucun,10,0
-POL-2026-00473,Rousseau,Antoine,H,57,Employé,28900,Paris,75008,Gold,Actif,23/11/2022,23/11/2026,45,1006,400,8,Berline,Privé,7,41500,0.73,0,0,Aucun,19,0
-POL-2026-00474,Bertrand,Nicolas,H,33,Retraité,16600,Bordeaux,33005,Silver,Actif,09/12/2012,09/12/2026,164,1016,600,5,SUV,Trajet travail,10,30100,0.83,0,0,Aucun,16,0
-POL-2026-00475,Bonnet,Ibrahim,H,47,Cadre,42600,Lille,59018,Bronze,Actif,24/06/2021,24/06/2027,62,902,1000,3,SUV,Privé,10,56000,0.86,1,9850,2-3 ans,29,0
-POL-2026-00476,Dubois,Thomas,H,24,Retraité,21600,Nantes,44009,Bronze,Actif,21/06/2015,21/06/2027,134,914,600,2,SUV,Privé,7,39000,0.75,2,2000,1-2 ans,43,0
-POL-2026-00477,Traoré,David,H,61,Employé,37100,Lyon,69013,Gold,Actif,08/06/2021,08/06/2027,62,1291,300,7,Berline,Trajet travail,9,24500,0.88,0,0,Aucun,36,0
-POL-2026-00478,Bertrand,Claire,F,40,Ouvrier,23300,Toulouse,31000,Silver,Actif,27/09/2012,27/09/2026,167,941,500,4,Berline,Privé,6,21500,1.17,2,2363,1-2 ans,69,0
-POL-2026-00479,Dubois,Julie,F,46,Étudiant,9400,Toulouse,31005,Bronze,Suspendu,13/04/2014,13/04/2027,148,395,800,2,SUV,Privé,10,24100,0.54,1,3900,< 6 mois,3,0
-POL-2026-00480,Nicolas,Antoine,H,72,Employé,36000,Marseille,13016,Gold,Actif,17/07/2019,17/07/2027,85,427,200,7,Citadine,Privé,5,12300,0.5,0,0,Aucun,0,0
-POL-2026-00481,Faure,Paul,H,62,Indépendant,34100,Bordeaux,33001,Bronze,Actif,05/05/2016,05/05/2027,123,440,1000,2,Utilitaire,Privé,7,24600,0.67,1,591,2-3 ans,24,0
-POL-2026-00482,Legrand,Jean,H,38,Sans emploi,8100,Paris,75002,Gold,Actif,18/06/2020,18/06/2027,74,657,200,7,Citadine,Trajet travail,6,11900,0.76,1,909,6-12 mois,9,0
-POL-2026-00483,Dubois,Camille,F,34,Employé,32200,Nice,6016,Bronze,Actif,17/06/2012,17/06/2027,170,930,1000,2,Citadine,Professionnel,6,10700,1.31,0,0,Aucun,75,0
-POL-2026-00484,Henry,Michel,H,38,Employé,43800,Paris,75006,Bronze,Actif,09/03/2021,09/03/2027,65,855,1000,3,SUV,Privé,10,27500,1.08,0,0,Aucun,32,0
-POL-2026-00485,Garnier,Antoine,H,49,Indépendant,36600,Nantes,44005,Bronze,Actif,02/02/2014,02/02/2027,150,588,600,3,Citadine,Privé,6,17000,1.03,0,0,Aucun,29,0
-POL-2026-00486,Nicolas,Louis,H,41,Cadre,47000,Toulouse,31011,Silver,Actif,12/05/2017,12/05/2027,111,629,600,4,Citadine,Trajet travail,6,18400,0.79,1,1144,1-2 ans,25,0
-POL-2026-00487,Perrin,Paul,H,37,Employé,32300,Paris,75003,Silver,Suspendu,13/12/2016,13/12/2026,116,604,500,5,Citadine,Privé,6,9500,0.8,1,1397,2-3 ans,47,1
-POL-2026-00488,Simon,Jean,H,61,Cadre,66800,Lille,59000,Gold,Actif,08/05/2021,08/05/2027,63,499,200,6,Berline,Trajet travail,7,17400,0.5,1,2090,1-2 ans,20,0
-POL-2026-00489,Simon,Nathalie,F,41,Indépendant,33700,Paris,75000,Silver,Actif,02/02/2014,02/02/2027,150,1028,600,4,Utilitaire,Professionnel,5,20600,1.02,0,0,Aucun,51,0
-POL-2026-00490,Traoré,Aïcha,F,72,Employé,30000,Lille,59001,Bronze,Actif,11/06/2015,11/06/2027,134,506,600,2,Citadine,Trajet travail,4,20500,0.85,0,0,Aucun,28,0
-POL-2026-00491,Lambert,Camille,F,43,Cadre,59000,Toulouse,31003,Bronze,Actif,23/06/2014,23/06/2027,146,545,600,2,Citadine,Privé,5,17900,1.12,0,0,Aucun,33,0
-POL-2026-00492,Girard,Sarah,F,65,Retraité,20700,Paris,75013,Bronze,Actif,15/08/2014,15/08/2026,144,575,1000,3,Berline,Professionnel,8,14200,0.72,2,4101,6-12 mois,38,0
-POL-2026-00493,Michel,Marie,F,47,Ouvrier,22700,Paris,75005,Platine,Actif,26/03/2024,26/03/2027,29,1592,150,8,Sportive,Privé,10,41000,0.8,0,0,Aucun,20,0
-POL-2026-00494,Garnier,Thomas,H,55,Retraité,24100,Lille,59001,Bronze,Actif,18/07/2013,18/07/2027,157,500,600,2,Citadine,Professionnel,4,8700,0.84,0,0,Aucun,23,0
-POL-2026-00495,Henry,Laura,F,33,Cadre,61600,Lyon,69000,Platine,Actif,20/01/2014,20/01/2027,151,2899,0,10,Sportive,Trajet travail,19,41000,1.07,0,0,Aucun,45,0
-POL-2026-00496,Martin,Antoine,H,31,Sans emploi,5800,Nantes,44009,Bronze,Actif,05/12/2022,05/12/2026,44,450,600,2,Utilitaire,Trajet travail,7,31600,0.56,0,0,Aucun,1,0
-POL-2026-00497,Bonnet,Laurent,H,48,Ouvrier,15200,Lille,59016,Bronze,Suspendu,17/12/2011,17/12/2026,176,573,600,3,Citadine,Professionnel,6,7300,0.99,0,0,Aucun,49,1
-POL-2026-00498,Ndiaye,Céline,F,55,Employé,18300,Bordeaux,33006,Bronze,Résilié,05/09/2018,05/09/2026,95,421,600,3,SUV,Trajet travail,7,17000,0.8,0,0,Aucun,7,1
-POL-2026-00499,Michel,David,H,43,Retraité,16200,Lyon,69001,Bronze,Actif,10/10/2021,10/10/2026,58,400,800,3,SUV,Privé,7,22400,0.61,1,586,< 6 mois,17,0
-POL-2026-00500,Michel,Hugo,H,25,Cadre,33100,Lille,59004,Gold,Actif,08/04/2023,08/04/2027,40,578,200,8,Berline,Privé,7,24300,0.5,0,0,Aucun,0,0
+ASS01000,Bernard,Valérie,F,56,Profession libérale,76288,Nice,6200,Gold,Actif,2018-06-23,2019-06-23,281,1323,500,8,SUV,Loisirs,9,20108,0.8,1,1447,Dégât des eaux,12,0
+ASS01001,Simon,Éric,H,69,Employé,30020,Paris,75018,Bronze,Actif,2016-06-28,2017-06-28,323,640,750,4,SUV,Loisirs,9,29845,1.02,1,685,Incendie,20,0
+ASS01002,Lambert,Inès,F,46,Technicien,36995,Lyon,69009,Silver,Actif,2019-04-18,2020-04-18,252,211,500,6,Citadine,Domicile-Travail,4,19035,0.54,0,0,Aucun,0,0
+ASS01003,Blanc,François,H,32,Profession libérale,64773,Bordeaux,33200,Gold,Résilié,2014-02-22,2015-02-22,152,992,150,6,Berline,Loisirs,8,25765,0.9,1,0,Vol,28,1
+ASS01004,Vincent,Patrick,H,60,Cadre,69870,Nantes,44200,Gold,Actif,2018-02-28,2019-02-28,302,1310,300,7,Berline,Loisirs,7,24365,0.96,1,0,Incendie,7,0
+ASS01005,Garnier,Marie,F,25,Technicien,40412,Lyon,69001,Gold,Actif,2020-03-26,2021-03-26,22,929,300,8,SUV,Mixte,8,24474,0.81,1,4378,Incendie,13,0
+ASS01006,Michel,Nathalie,F,78,Employé,32643,Toulouse,31300,Bronze,Actif,2021-05-11,2022-05-11,139,301,1000,4,Citadine,Loisirs,4,14517,0.53,0,0,Aucun,8,0
+ASS01007,Robert,Amélie,F,38,Entrepreneur,53701,Montpellier,34000,Gold,Actif,2022-12-28,2023-12-28,176,1525,150,7,Moto,Domicile-Travail,3,12710,0.69,0,0,Aucun,12,0
+ASS01008,Dupont,Alexandre,H,56,Technicien,38221,Toulouse,31000,Bronze,Actif,2021-10-15,2022-10-15,8,373,750,2,Berline,Domicile-Travail,4,16356,1.2,1,790,Catastrophe naturelle,24,0
+ASS01009,Lambert,Camille,F,75,Fonctionnaire,53326,Lyon,69009,Gold,Actif,2016-03-01,2017-03-01,295,1512,300,7,Citadine,Loisirs,11,13874,0.56,0,0,Aucun,8,0
+ASS01010,Martin,Pierre,H,36,Technicien,31893,Paris,75020,Bronze,Actif,2018-03-08,2019-03-08,163,324,1000,1,Berline,Domicile-Travail,7,23573,0.55,0,0,Aucun,0,0
+ASS01011,Bonnet,Pierre,H,40,Cadre,54643,Montpellier,34000,Silver,Actif,2015-05-10,2016-05-10,49,802,500,4,Berline,Domicile-Travail,6,20025,0.68,0,0,Aucun,2,0
+ASS01012,Martin,Christophe,H,28,Ouvrier,16807,Paris,75008,Bronze,Actif,2016-05-02,2017-05-02,46,295,1000,1,Berline,Professionnel,6,20433,0.71,0,0,Aucun,12,0
+ASS01013,Vincent,Nathalie,F,28,Entrepreneur,49220,Montpellier,34080,Bronze,Résilié,2021-06-11,2022-06-11,38,150,1000,1,SUV,Loisirs,13,48564,0.55,0,0,Aucun,7,1
+ASS01014,David,Nathalie,F,41,Ouvrier,22172,Bordeaux,33300,Bronze,Résilié,2024-10-10,2025-10-10,136,378,750,1,Berline,Loisirs,8,25519,0.95,1,1685,Accident,27,1
+ASS01015,Roux,Antoine,H,70,Fonctionnaire,52860,Lille,59160,Silver,Actif,2023-01-18,2024-01-18,310,522,750,3,Citadine,Domicile-Travail,5,9174,0.6,0,0,Aucun,1,0
+ASS01016,Laurent,Pierre,H,53,Retraité,30725,Nantes,44100,Gold,Résilié,2016-12-30,2017-12-30,219,827,300,7,Citadine,Professionnel,7,16385,1.71,2,1861,Incendie,51,1
+ASS01017,Girard,Nathalie,F,57,Employé,25866,Lille,59160,Bronze,Actif,2024-05-16,2025-05-16,348,385,750,1,SUV,Domicile-Travail,9,34206,0.59,0,0,Aucun,0,0
+ASS01018,Legrand,Sébastien,H,41,Employé,24248,Lyon,69009,Bronze,Actif,2020-02-15,2021-02-15,34,461,1000,2,SUV,Professionnel,8,33107,1.09,1,1456,Bris de glace,23,0
+ASS01019,François,Julie,F,20,Ouvrier,20880,Nantes,44100,Bronze,Actif,2015-10-25,2016-10-25,15,150,1000,3,Berline,Domicile-Travail,6,14765,0.8,0,0,Aucun,23,0
+ASS01020,Bonnet,Romain,H,39,Employé,32316,Marseille,13001,Bronze,Actif,2014-01-08,2015-01-08,236,330,750,2,Utilitaire,Mixte,10,2000,0.71,0,0,Aucun,1,0
+ASS01021,Garnier,Clara,F,70,Fonctionnaire,45048,Marseille,13008,Bronze,Actif,2020-07-07,2021-07-07,273,333,750,1,Berline,Loisirs,4,23965,0.61,0,0,Aucun,2,0
+ASS01022,Garnier,Julien,H,19,Retraité,16059,Toulouse,31300,Bronze,Actif,2024-02-01,2025-02-01,1,330,1000,3,Utilitaire,Domicile-Travail,7,13498,0.6,0,0,Aucun,16,0
+ASS01023,Roux,Chloé,F,41,Employé,26856,Montpellier,34080,Silver,Suspendu,2022-06-15,2023-06-15,175,773,750,5,Berline,Loisirs,11,20539,1.27,2,6925,Accident,33,1
+ASS01024,Michel,Maxime,H,61,Employé,28218,Lille,59160,Silver,Actif,2015-10-28,2016-10-28,308,641,500,5,Citadine,Loisirs,4,13629,0.55,0,0,Aucun,0,0
+ASS01025,Martin,Amélie,F,47,Fonctionnaire,41433,Nantes,44000,Silver,Actif,2015-10-31,2016-10-31,221,870,300,3,Camion,Domicile-Travail,21,35319,0.65,0,0,Aucun,10,0
+ASS01026,Bernard,Julie,F,55,Employé,26803,Marseille,13013,Silver,Actif,2022-08-31,2023-08-31,9,893,500,4,Berline,Professionnel,9,6899,0.56,0,0,Aucun,9,0
+ASS01027,Moreau,Sébastien,H,19,Fonctionnaire,29926,Marseille,13004,Bronze,Actif,2017-07-09,2018-07-09,1,404,1000,2,Utilitaire,Domicile-Travail,7,17947,0.6,0,0,Aucun,14,0
+ASS01028,Dubois,David,H,77,Employé,38291,Nantes,44100,Silver,Actif,2023-11-30,2024-11-30,113,877,300,3,Berline,Mixte,10,20490,0.91,1,1716,Bris de glace,19,0
+ASS01029,Martin,Isabelle,F,38,Ouvrier,20409,Lyon,69001,Gold,Actif,2014-06-10,2015-06-10,221,976,150,8,SUV,Professionnel,12,29849,0.85,0,0,Aucun,7,0
+ASS01030,Girard,Christophe,H,50,Cadre,56095,Paris,75008,Silver,Suspendu,2020-07-26,2021-07-26,205,649,750,4,Moto,Domicile-Travail,5,8298,0.81,1,4620,Dégât des eaux,24,1
+ASS01031,Bertrand,Valérie,F,29,Ouvrier,22413,Lyon,69009,Silver,Actif,2022-11-20,2023-11-20,85,485,750,5,Citadine,Professionnel,6,11913,0.72,0,0,Aucun,10,0
+ASS01032,Dupont,Romain,H,75,Technicien,39518,Lyon,69009,Bronze,Actif,2020-06-22,2021-06-22,197,303,500,1,Moto,Domicile-Travail,4,13307,0.59,0,0,Aucun,22,0
+ASS01033,Richard,Sandrine,F,39,Ouvrier,25689,Lyon,69003,Silver,Actif,2016-07-25,2017-07-25,10,442,500,3,SUV,Domicile-Travail,9,34004,1.2,1,5052,Catastrophe naturelle,24,0
+ASS01034,Faure,Marie,F,78,Cadre,74125,Lyon,69006,Platine,Actif,2014-01-18,2015-01-18,262,2483,150,10,SUV,Mixte,11,8248,0.71,0,0,Aucun,10,0
+ASS01035,Roux,Sarah,F,61,Profession libérale,80248,Paris,75020,Gold,Actif,2020-12-08,2021-12-08,248,963,150,5,Berline,Loisirs,6,31080,0.74,0,0,Aucun,0,0
+ASS01036,Robert,Sophie,F,42,Retraité,21784,Paris,75001,Gold,Actif,2020-08-11,2021-08-11,115,1158,300,7,Moto,Loisirs,7,10079,0.52,0,0,Aucun,9,0
+ASS01037,Robert,Amélie,F,66,Employé,28698,Lille,59100,Bronze,Actif,2014-12-17,2015-12-17,121,416,1000,1,Citadine,Domicile-Travail,5,6663,0.89,0,0,Aucun,7,0
+ASS01038,Richard,Chloé,F,44,Cadre,59861,Marseille,13013,Bronze,Actif,2021-01-19,2022-01-19,141,407,750,1,Berline,Domicile-Travail,7,24586,0.69,0,0,Aucun,0,0
+ASS01039,Dubois,François,H,76,Cadre,75597,Marseille,13008,Platine,Actif,2016-05-21,2017-05-21,65,2394,0,8,Moto,Mixte,4,5725,0.87,0,0,Aucun,20,0
+ASS01040,Girard,David,H,59,Ouvrier,22970,Nice,6100,Silver,Résilié,2017-12-29,2018-12-29,276,639,300,6,Utilitaire,Domicile-Travail,4,15030,1.45,2,4048,Catastrophe naturelle,40,1
+ASS01041,Dupont,François,H,45,Ouvrier,24588,Paris,75008,Bronze,Actif,2022-02-28,2023-02-28,313,335,750,2,Citadine,Domicile-Travail,7,8307,0.6,0,0,Aucun,0,0
+ASS01042,Robert,Isabelle,F,77,Technicien,45561,Lille,59160,Silver,Actif,2020-05-06,2021-05-06,239,1121,750,3,Berline,Loisirs,7,13733,0.54,0,0,Aucun,10,0
+ASS01043,Girard,Inès,F,33,Employé,27657,Nantes,44200,Bronze,Actif,2021-12-28,2022-12-28,46,256,1000,1,Berline,Loisirs,5,19152,1.2,1,2187,Accident,31,0
+ASS01044,Robert,Inès,F,32,Employé,30691,Paris,75008,Bronze,Actif,2016-12-27,2017-12-27,136,343,1000,2,Berline,Loisirs,5,20092,1.13,1,2294,Vol,15,0
+ASS01045,Simon,Léa,F,79,Ouvrier,27811,Marseille,13001,Silver,Actif,2016-11-19,2017-11-19,10,705,300,4,Berline,Domicile-Travail,6,12539,0.84,0,0,Aucun,20,0
+ASS01046,Simon,Romain,H,79,Technicien,34532,Montpellier,34000,Silver,Suspendu,2014-11-12,2015-11-12,233,1099,300,4,SUV,Domicile-Travail,11,18329,1.31,2,9113,Bris de glace,50,1
+ASS01047,Fontaine,Antoine,H,64,Entrepreneur,63358,Lille,59100,Silver,Actif,2019-01-19,2020-01-19,195,441,500,4,Citadine,Domicile-Travail,4,12619,0.77,0,0,Aucun,8,0
+ASS01048,Roux,Chloé,F,79,Cadre,74698,Marseille,13013,Gold,Actif,2016-01-07,2017-01-07,12,1539,150,8,Utilitaire,Mixte,7,6615,0.77,0,0,Aucun,11,0
+ASS01049,Girard,Éric,H,68,Profession libérale,89181,Toulouse,31100,Bronze,Actif,2020-01-21,2021-01-21,177,341,750,3,Utilitaire,Domicile-Travail,11,11029,1.0,1,545,Catastrophe naturelle,12,0
+ASS01050,Garcia,Christophe,H,61,Employé,35484,Paris,75020,Bronze,Actif,2022-02-21,2023-02-21,177,293,750,3,Berline,Professionnel,10,17414,0.94,1,1097,Vol,27,0
+ASS01051,Moreau,Sophie,F,72,Employé,34880,Lille,59100,Silver,Actif,2014-11-16,2015-11-16,217,562,300,6,Berline,Professionnel,4,21251,0.65,0,0,Aucun,25,0
+ASS01052,Garcia,François,H,69,Profession libérale,87245,Lyon,69003,Platine,Actif,2016-11-03,2017-11-03,11,1684,0,9,Berline,Professionnel,4,11693,0.77,0,0,Aucun,6,0
+ASS01053,Martin,Amélie,F,74,Profession libérale,85796,Lille,59000,Platine,Actif,2020-05-15,2021-05-15,118,2525,0,7,Berline,Mixte,10,10508,1.02,1,922,Vol,25,0
+ASS01054,Fontaine,Christophe,H,20,Entrepreneur,41663,Toulouse,31200,Bronze,Actif,2015-03-08,2016-03-08,4,294,750,3,SUV,Domicile-Travail,10,45306,0.98,1,2855,Incendie,37,0
+ASS01055,Michel,Sarah,F,54,Cadre,63918,Toulouse,31200,Gold,Actif,2021-06-08,2022-06-08,39,1025,150,6,Berline,Domicile-Travail,10,5899,1.56,2,3532,Catastrophe naturelle,40,0
+ASS01056,Michel,Clara,F,68,Cadre,72866,Bordeaux,33000,Platine,Actif,2015-09-26,2016-09-26,53,2008,0,9,SUV,Loisirs,14,20733,0.89,1,2153,Accident,26,0
+ASS01057,Thomas,Camille,F,24,Profession libérale,65389,Lyon,69001,Platine,Actif,2023-02-17,2024-02-17,56,1318,150,9,Berline,Domicile-Travail,4,35265,0.64,0,0,Aucun,19,0
+ASS01058,Blanc,Valérie,F,38,Technicien,36007,Paris,75001,Silver,Actif,2018-09-02,2019-09-02,104,614,300,6,Berline,Professionnel,4,8560,0.55,0,0,Aucun,3,0
+ASS01059,Martin,Sébastien,H,26,Employé,22650,Lyon,69003,Bronze,Résilié,2021-01-13,2022-01-13,1,340,1000,4,Citadine,Loisirs,8,6622,1.26,2,698,Dégât des eaux,34,1
+ASS01060,Roux,Chloé,F,56,Cadre,63169,Paris,75018,Silver,Actif,2022-03-31,2023-03-31,56,863,500,6,Citadine,Mixte,10,5435,1.19,1,9255,Dégât des eaux,21,0
+ASS01061,Durand,Sarah,F,35,Cadre,57933,Nantes,44000,Bronze,Actif,2022-11-18,2023-11-18,118,259,500,3,Citadine,Domicile-Travail,10,22105,0.89,1,727,Vol,17,0
+ASS01062,Bernard,Clara,F,21,Retraité,16755,Lyon,69001,Bronze,Actif,2020-08-02,2021-08-02,4,212,750,2,Berline,Mixte,6,31765,0.81,0,0,Aucun,20,0
+ASS01063,Faure,David,H,42,Employé,25211,Paris,75018,Bronze,Actif,2016-11-02,2017-11-02,253,225,1000,4,Moto,Domicile-Travail,3,8258,0.89,0,0,Aucun,16,0
+ASS01064,Durand,Manon,F,77,Employé,34835,Lille,59160,Silver,Actif,2015-12-26,2016-12-26,286,681,300,5,Utilitaire,Loisirs,7,11874,0.59,0,0,Aucun,4,0
+ASS01065,Petit,Thomas,H,31,Employé,28315,Montpellier,34170,Silver,Actif,2015-11-04,2016-11-04,12,532,750,3,Berline,Domicile-Travail,6,33269,0.56,0,0,Aucun,3,0
+ASS01066,Legrand,Sandrine,F,67,Employé,31025,Montpellier,34170,Silver,Actif,2020-03-29,2021-03-29,291,1077,500,4,Citadine,Professionnel,9,7471,1.05,1,243,Dégât des eaux,27,0
+ASS01067,Legrand,Antoine,H,75,Cadre,67027,Lille,59160,Silver,Actif,2023-09-18,2024-09-18,333,498,500,3,Citadine,Domicile-Travail,7,13627,1.15,1,779,Accident,28,0
+ASS01068,Bernard,Antoine,H,26,Technicien,27040,Paris,75008,Gold,Résilié,2015-04-16,2016-04-16,52,798,150,7,Berline,Mixte,11,18454,0.85,1,3000,Dégât des eaux,14,1
+ASS01069,Bonnet,Julie,F,43,Cadre,59950,Marseille,13013,Platine,Actif,2022-11-06,2023-11-06,235,1805,0,8,Berline,Mixte,10,16270,0.9,0,0,Aucun,11,0
+ASS01070,Bonnet,Sébastien,H,70,Fonctionnaire,45586,Nantes,44100,Gold,Actif,2021-05-10,2022-05-10,343,1603,150,8,Berline,Mixte,8,23649,0.74,0,0,Aucun,3,0
+ASS01071,Dubois,Inès,F,19,Employé,24052,Nice,6200,Platine,Actif,2021-02-20,2022-02-20,4,2095,150,7,Citadine,Domicile-Travail,6,11325,1.11,1,609,Bris de glace,38,0
+ASS01072,Garnier,Clara,F,37,Technicien,34533,Paris,75011,Silver,Actif,2023-02-15,2024-02-15,52,823,750,5,Citadine,Mixte,8,11653,0.65,0,0,Aucun,0,0
+ASS01073,Vincent,Manon,F,45,Retraité,22493,Strasbourg,67000,Gold,Résilié,2021-03-05,2022-03-05,80,931,300,7,Citadine,Professionnel,6,14163,0.68,0,0,Aucun,10,1
+ASS01074,Lefebvre,Laurent,H,64,Ouvrier,28729,Lyon,69003,Bronze,Actif,2024-02-23,2025-02-23,135,526,1000,1,Citadine,Domicile-Travail,6,13908,0.8,0,0,Aucun,8,0
+ASS01075,Martin,Thomas,H,77,Technicien,41227,Lyon,69003,Silver,Actif,2015-08-25,2016-08-25,22,718,300,3,SUV,Domicile-Travail,13,29310,0.82,0,0,Aucun,5,0
+ASS01076,Bonnet,Amélie,F,24,Employé,28592,Bordeaux,33000,Bronze,Actif,2017-10-14,2018-10-14,56,330,500,2,Citadine,Domicile-Travail,4,16979,0.82,1,0,Incendie,29,0
+ASS01077,Lefebvre,Clara,F,61,Employé,36461,Toulouse,31300,Bronze,Actif,2020-04-21,2021-04-21,225,262,750,3,Berline,Domicile-Travail,4,17029,0.87,0,0,Aucun,8,0
+ASS01078,Robert,Maxime,H,78,Ouvrier,25166,Toulouse,31300,Bronze,Suspendu,2021-04-03,2022-04-03,58,511,750,1,SUV,Loisirs,14,20966,1.54,2,2351,Dégât des eaux,53,1
+ASS01079,Blanc,Camille,F,25,Entrepreneur,47338,Paris,75018,Gold,Actif,2018-03-19,2019-03-19,64,1066,300,5,Moto,Mixte,7,12391,0.51,0,0,Aucun,3,0
+ASS01080,Blanc,Chloé,F,64,Ouvrier,27799,Montpellier,34000,Silver,Actif,2014-10-07,2015-10-07,103,830,300,6,Moto,Domicile-Travail,7,12164,0.55,0,0,Aucun,10,0
+ASS01081,Garnier,Amélie,F,52,Technicien,34740,Lyon,69003,Silver,Actif,2019-12-05,2020-12-05,7,288,500,6,SUV,Loisirs,10,36539,0.7,0,0,Aucun,0,0
+ASS01082,François,Antoine,H,31,Profession libérale,73267,Paris,75001,Silver,Actif,2021-04-11,2022-04-11,128,535,300,6,Citadine,Mixte,10,14651,0.68,0,0,Aucun,0,0
+ASS01083,Roux,Éric,H,34,Technicien,32671,Montpellier,34000,Silver,Actif,2017-03-31,2018-03-31,55,555,500,6,SUV,Domicile-Travail,12,19888,1.16,1,5490,Accident,19,0
+ASS01084,Bertrand,Laurent,H,53,Cadre,59834,Lille,59000,Gold,Actif,2021-12-09,2022-12-09,231,1528,150,7,Utilitaire,Mixte,8,13304,0.54,0,0,Aucun,6,0
+ASS01085,David,Léa,F,67,Technicien,41553,Montpellier,34170,Silver,Actif,2019-03-26,2020-03-26,62,791,300,3,Citadine,Loisirs,10,9064,0.76,0,0,Aucun,0,0
+ASS01086,Dupont,Sarah,F,57,Entrepreneur,61091,Strasbourg,67000,Gold,Actif,2019-07-07,2020-07-07,240,1582,150,8,Berline,Loisirs,5,21305,0.75,0,0,Aucun,0,0
+ASS01087,David,Julie,F,21,Cadre,51728,Toulouse,31200,Silver,Actif,2020-06-03,2021-06-03,26,618,500,4,Moto,Domicile-Travail,3,10663,0.59,0,0,Aucun,26,0
+ASS01088,Robert,Pierre,H,19,Profession libérale,67615,Bordeaux,33100,Gold,Actif,2016-07-04,2017-07-04,8,1226,150,8,Berline,Loisirs,9,15677,0.72,0,0,Aucun,17,0
+ASS01089,Girard,Sarah,F,79,Employé,35411,Paris,75008,Gold,Actif,2023-03-23,2024-03-23,233,1551,300,5,Citadine,Domicile-Travail,5,7441,0.59,0,0,Aucun,7,0
+ASS01090,Garcia,Léa,F,23,Technicien,28097,Marseille,13013,Bronze,Actif,2018-06-06,2019-06-06,34,303,1000,1,Citadine,Professionnel,11,8069,0.56,0,0,Aucun,22,0
+ASS01091,Bernard,Julie,F,71,Cadre,62290,Marseille,13004,Silver,Actif,2017-10-13,2018-10-13,333,886,300,5,Berline,Domicile-Travail,7,26492,0.73,0,0,Aucun,7,0
+ASS01092,Laurent,Sarah,F,59,Technicien,36714,Lyon,69009,Gold,Actif,2018-08-11,2019-08-11,292,1184,300,8,Citadine,Mixte,4,21175,0.89,0,0,Aucun,6,0
+ASS01093,Fontaine,Alexandre,H,21,Profession libérale,66559,Nice,6200,Platine,Actif,2021-01-09,2022-01-09,25,1587,0,8,SUV,Domicile-Travail,12,20854,0.59,0,0,Aucun,15,0
+ASS01094,Petit,Éric,H,71,Employé,32187,Bordeaux,33000,Bronze,Actif,2020-08-22,2021-08-22,152,360,750,1,SUV,Domicile-Travail,9,28596,0.64,0,0,Aucun,16,0
+ASS01095,Richard,Inès,F,46,Ouvrier,15810,Paris,75020,Bronze,Actif,2024-04-26,2025-04-26,145,529,500,4,Citadine,Loisirs,10,8236,0.97,1,0,Dégât des eaux,28,0
+ASS01096,Faure,Laurent,H,35,Fonctionnaire,34006,Lyon,69001,Bronze,Actif,2015-03-02,2016-03-02,130,337,750,2,Moto,Domicile-Travail,7,10366,0.61,0,0,Aucun,8,0
+ASS01097,Bernard,Christophe,H,43,Retraité,26146,Nice,6300,Silver,Actif,2018-11-23,2019-11-23,141,319,750,5,Berline,Professionnel,4,19865,0.66,0,0,Aucun,2,0
+ASS01098,Richard,Nathalie,F,61,Employé,32915,Paris,75011,Silver,Résilié,2021-01-28,2022-01-28,93,452,750,3,Citadine,Mixte,11,7876,1.16,1,311,Vol,25,1
+ASS01099,Vincent,Clara,F,51,Employé,25552,Strasbourg,67100,Bronze,Actif,2015-07-07,2016-07-07,114,331,500,3,Utilitaire,Professionnel,4,2000,0.52,0,0,Aucun,5,0
+ASS01100,Bernard,Nicolas,H,27,Cadre,50602,Bordeaux,33000,Platine,Actif,2014-06-18,2015-06-18,28,1529,150,9,Utilitaire,Domicile-Travail,5,17187,0.88,0,0,Aucun,4,0
+ASS01101,Vincent,Manon,F,79,Entrepreneur,66373,Bordeaux,33300,Gold,Actif,2015-05-30,2016-05-30,143,1304,300,7,SUV,Loisirs,7,32390,0.52,0,0,Aucun,0,0
+ASS01102,Blanc,Nicolas,H,53,Retraité,20995,Toulouse,31000,Bronze,Actif,2023-05-29,2024-05-29,223,310,500,1,Moto,Loisirs,5,13016,1.04,1,6623,Bris de glace,31,0
+ASS01103,David,Nathalie,F,31,Technicien,22985,Strasbourg,67100,Bronze,Actif,2018-09-03,2019-09-03,33,261,1000,3,SUV,Professionnel,14,22995,0.86,0,0,Aucun,15,0
+ASS01104,Garnier,Nicolas,H,48,Fonctionnaire,42330,Lyon,69001,Gold,Actif,2015-03-06,2016-03-06,276,1349,150,8,Moto,Domicile-Travail,7,11358,0.71,0,0,Aucun,17,0
+ASS01105,Fontaine,Nathalie,F,65,Technicien,43748,Nice,6200,Bronze,Actif,2021-03-01,2022-03-01,170,532,750,3,Berline,Loisirs,8,2000,1.0,1,2419,Bris de glace,17,0
+ASS01106,Bernard,Thomas,H,32,Ouvrier,16443,Bordeaux,33100,Bronze,Actif,2019-11-01,2020-11-01,140,333,1000,2,SUV,Loisirs,14,17952,0.73,0,0,Aucun,0,0
+ASS01107,Leroy,David,H,25,Cadre,57055,Lyon,69009,Gold,Actif,2020-07-05,2021-07-05,73,952,150,6,Camion,Domicile-Travail,19,34705,0.75,0,0,Aucun,12,0
+ASS01108,François,David,H,31,Profession libérale,65683,Montpellier,34080,Gold,Actif,2015-11-22,2016-11-22,23,1389,500,5,SUV,Domicile-Travail,14,32359,0.84,0,0,Aucun,9,0
+ASS01109,Richard,Isabelle,F,40,Cadre,62860,Nantes,44100,Silver,Actif,2022-10-10,2023-10-10,224,746,500,5,Citadine,Domicile-Travail,5,14006,0.72,0,0,Aucun,9,0
+ASS01110,Martin,David,H,77,Fonctionnaire,46735,Toulouse,31300,Silver,Actif,2024-01-18,2025-01-18,270,1135,750,3,Berline,Professionnel,6,17239,1.24,1,1171,Incendie,48,0
+ASS01111,Lambert,Alexandre,H,74,Fonctionnaire,46370,Strasbourg,67100,Bronze,Actif,2020-11-09,2021-11-09,347,441,1000,1,SUV,Mixte,11,15121,0.84,0,0,Aucun,18,0
+ASS01112,David,Clara,F,79,Profession libérale,90433,Montpellier,34170,Silver,Actif,2014-12-19,2015-12-19,153,976,500,6,Citadine,Loisirs,9,19455,0.89,0,0,Aucun,15,0
+ASS01113,Faure,Chloé,F,57,Cadre,61463,Nice,6200,Silver,Actif,2024-07-21,2025-07-21,333,669,300,3,Camion,Domicile-Travail,13,51578,0.76,0,0,Aucun,15,0
+ASS01114,Blanc,Laurent,H,38,Employé,31324,Strasbourg,67000,Bronze,Actif,2020-07-19,2021-07-19,85,288,1000,3,Citadine,Domicile-Travail,9,17826,0.92,1,2423,Accident,19,0
+ASS01115,Dupont,Maxime,H,33,Employé,21150,Nice,6200,Bronze,Actif,2017-01-22,2018-01-22,109,328,1000,4,Citadine,Mixte,7,10094,1.11,1,0,Incendie,20,0
+ASS01116,Simon,Inès,F,62,Employé,29305,Nice,6300,Gold,Actif,2017-11-06,2018-11-06,31,1602,300,8,Moto,Mixte,7,15042,0.87,1,1335,Vol,31,0
+ASS01117,Fontaine,Clara,F,35,Cadre,58097,Toulouse,31000,Platine,Actif,2024-10-14,2025-10-14,122,1304,0,9,Berline,Mixte,6,31517,0.78,0,0,Aucun,0,0
+ASS01118,Roux,Léa,F,64,Retraité,23226,Nantes,44000,Silver,Actif,2021-09-10,2022-09-10,310,721,300,6,Citadine,Professionnel,8,2000,0.78,0,0,Aucun,4,0
+ASS01119,Robert,Chloé,F,70,Technicien,42950,Paris,75020,Gold,Actif,2017-08-11,2018-08-11,141,1072,500,5,SUV,Domicile-Travail,12,15910,1.05,1,3676,Incendie,12,0
+ASS01120,Rousseau,Sophie,F,41,Employé,32595,Montpellier,34000,Bronze,Actif,2020-02-24,2021-02-24,156,436,750,3,SUV,Professionnel,13,39827,0.73,0,0,Aucun,6,0
+ASS01121,Thomas,Thomas,H,43,Employé,31506,Montpellier,34080,Gold,Actif,2014-03-20,2015-03-20,299,899,300,5,Citadine,Domicile-Travail,8,19040,0.74,0,0,Aucun,9,0
+ASS01122,Simon,Valérie,F,42,Technicien,25823,Paris,75018,Bronze,Actif,2015-11-09,2016-11-09,99,297,750,3,Camion,Domicile-Travail,13,52703,0.63,0,0,Aucun,6,0
+ASS01123,Lambert,Éric,H,77,Ouvrier,30265,Strasbourg,67200,Gold,Actif,2015-07-05,2016-07-05,47,1763,300,7,Berline,Professionnel,4,15938,0.64,0,0,Aucun,13,0
+ASS01124,Roux,David,H,77,Technicien,45522,Paris,75020,Platine,Actif,2016-03-30,2017-03-30,327,2338,0,10,SUV,Domicile-Travail,11,34471,0.8,0,0,Aucun,9,0
+ASS01125,Simon,Julien,H,77,Retraité,21907,Lyon,69009,Silver,Actif,2014-08-02,2015-08-02,67,882,300,4,Berline,Domicile-Travail,6,15013,1.16,1,2507,Incendie,38,0
+ASS01126,Roux,Julie,F,62,Technicien,40942,Nantes,44000,Platine,Résilié,2018-07-25,2019-07-25,62,2153,150,8,SUV,Domicile-Travail,13,41328,1.04,1,2993,Bris de glace,27,1
+ASS01127,Faure,François,H,58,Entrepreneur,63041,Paris,75011,Gold,Suspendu,2015-10-31,2016-10-31,109,1241,300,7,Berline,Domicile-Travail,4,15771,2.94,3,4537,Bris de glace,87,1
+ASS01128,Leroy,Nicolas,H,46,Fonctionnaire,33923,Strasbourg,67200,Bronze,Actif,2016-09-15,2017-09-15,167,285,1000,3,Berline,Mixte,6,18121,0.85,1,1230,Bris de glace,22,0
+ASS01129,Lambert,Léa,F,32,Employé,28790,Strasbourg,67100,Silver,Actif,2016-06-12,2017-06-12,37,573,500,4,Berline,Domicile-Travail,6,15086,0.69,0,0,Aucun,10,0
+ASS01130,Robert,Thomas,H,62,Retraité,26059,Bordeaux,33100,Silver,Actif,2014-06-08,2015-06-08,119,862,750,6,Utilitaire,Domicile-Travail,5,12993,0.58,0,0,Aucun,0,0
+ASS01131,Bernard,Maxime,H,18,Cadre,51937,Paris,75008,Bronze,Actif,2024-09-10,2025-09-10,1,249,1000,3,Citadine,Domicile-Travail,7,14338,1.1,1,2110,Incendie,30,0
+ASS01132,Richard,Sophie,F,42,Fonctionnaire,33898,Lyon,69009,Silver,Suspendu,2021-08-18,2022-08-18,86,683,300,6,SUV,Domicile-Travail,8,20881,1.68,2,2362,Dégât des eaux,42,1
+ASS01133,Girard,Pierre,H,24,Employé,24598,Toulouse,31300,Gold,Actif,2021-02-17,2022-02-17,8,871,300,6,Utilitaire,Domicile-Travail,5,5467,0.91,1,387,Incendie,33,0
+ASS01134,Bernard,Laurent,H,26,Retraité,14000,Lille,59000,Bronze,Actif,2020-02-27,2021-02-27,81,345,1000,4,Citadine,Loisirs,11,10457,0.54,0,0,Aucun,0,0
+ASS01135,Michel,Thomas,H,41,Retraité,14000,Toulouse,31300,Silver,Actif,2014-01-22,2015-01-22,52,739,500,5,Citadine,Domicile-Travail,8,17464,0.68,0,0,Aucun,2,0
+ASS01136,Blanc,Inès,F,18,Fonctionnaire,32279,Lyon,69003,Gold,Actif,2023-05-04,2024-05-04,1,891,300,8,Berline,Professionnel,4,8661,0.77,0,0,Aucun,30,0
+ASS01137,Laurent,Clara,F,61,Fonctionnaire,46954,Toulouse,31200,Platine,Actif,2023-01-27,2024-01-27,91,2308,300,7,SUV,Mixte,9,39814,0.57,0,0,Aucun,0,0
+ASS01138,Laurent,Clara,F,25,Employé,25191,Bordeaux,33200,Gold,Actif,2018-10-31,2019-10-31,33,846,500,5,Citadine,Loisirs,5,12812,0.71,0,0,Aucun,1,0
+ASS01139,Bertrand,François,H,41,Cadre,58098,Nantes,44100,Silver,Actif,2019-04-14,2020-04-14,204,983,500,6,Berline,Domicile-Travail,10,25906,0.67,0,0,Aucun,2,0
+ASS01140,Laurent,Éric,H,28,Employé,23975,Paris,75008,Gold,Actif,2017-06-15,2018-06-15,112,949,500,6,SUV,Domicile-Travail,13,37414,0.98,1,2272,Incendie,17,0
+ASS01141,Fontaine,Valérie,F,68,Cadre,65165,Nantes,44200,Platine,Actif,2017-03-18,2018-03-18,238,2283,0,8,SUV,Mixte,14,38274,0.67,0,0,Aucun,2,0
+ASS01142,David,Romain,H,34,Profession libérale,66636,Bordeaux,33000,Silver,Actif,2016-02-24,2017-02-24,126,574,500,4,Berline,Loisirs,9,23721,0.71,0,0,Aucun,7,0
+ASS01143,François,Thomas,H,25,Employé,25866,Lille,59160,Silver,Actif,2018-05-22,2019-05-22,27,281,500,6,Berline,Professionnel,10,2000,1.46,2,427,Dégât des eaux,49,0
+ASS01144,Dupont,Manon,F,52,Entrepreneur,56447,Lyon,69009,Gold,Actif,2019-08-17,2020-08-17,240,1310,150,6,Utilitaire,Mixte,5,4152,0.62,0,0,Aucun,11,0
+ASS01145,Dupont,Sophie,F,52,Ouvrier,28739,Toulouse,31200,Bronze,Actif,2017-06-10,2018-06-10,136,302,750,1,Camion,Mixte,16,31801,0.86,1,2915,Incendie,33,0
+ASS01146,Bertrand,Patrick,H,50,Fonctionnaire,40563,Lille,59160,Gold,Actif,2019-03-08,2020-03-08,64,1295,150,8,Moto,Mixte,3,8516,0.82,0,0,Aucun,15,0
+ASS01147,Laurent,Sébastien,H,76,Cadre,73339,Paris,75008,Platine,Actif,2021-10-22,2022-10-22,123,2718,0,8,SUV,Loisirs,9,23396,0.61,0,0,Aucun,12,0
+ASS01148,Bonnet,Maxime,H,22,Retraité,22643,Lille,59000,Bronze,Actif,2021-09-16,2022-09-16,29,150,1000,2,Berline,Domicile-Travail,9,10700,0.83,0,0,Aucun,23,0
+ASS01149,Bertrand,Camille,F,59,Retraité,22420,Nice,6000,Bronze,Actif,2015-08-02,2016-08-02,114,234,750,3,Berline,Mixte,11,25192,0.92,1,0,Incendie,26,0
+ASS01150,Durand,Nathalie,F,56,Technicien,39341,Paris,75020,Silver,Actif,2024-06-30,2025-06-30,20,749,750,5,Citadine,Loisirs,8,14274,0.54,0,0,Aucun,4,0
+ASS01151,Thomas,Chloé,F,75,Ouvrier,27894,Lyon,69006,Silver,Actif,2017-01-05,2018-01-05,16,742,500,6,Citadine,Domicile-Travail,9,4262,0.86,0,0,Aucun,17,0
+ASS01152,Durand,Camille,F,58,Fonctionnaire,43154,Nice,6100,Bronze,Actif,2015-05-04,2016-05-04,145,504,1000,4,SUV,Loisirs,13,32538,1.63,2,0,Dégât des eaux,40,0
+ASS01153,Thomas,Sébastien,H,45,Cadre,57336,Paris,75008,Bronze,Actif,2016-07-14,2017-07-14,208,476,500,4,Berline,Loisirs,6,33745,0.98,1,888,Catastrophe naturelle,21,0
+ASS01154,Lambert,Sandrine,F,24,Technicien,25893,Toulouse,31000,Bronze,Suspendu,2019-11-05,2020-11-05,19,427,750,3,Berline,Mixte,11,25032,1.24,1,1834,Dégât des eaux,42,1
+ASS01155,François,Valérie,F,26,Employé,24729,Lyon,69001,Silver,Suspendu,2018-11-23,2019-11-23,8,376,750,5,Camion,Loisirs,20,59477,1.03,1,2283,Bris de glace,36,1
+ASS01156,Dubois,Sophie,F,25,Cadre,44539,Toulouse,31300,Silver,Actif,2019-06-14,2020-06-14,38,512,500,3,Citadine,Domicile-Travail,6,13387,0.83,0,0,Aucun,0,0
+ASS01157,Dubois,Valérie,F,29,Employé,23722,Paris,75015,Bronze,Actif,2014-08-10,2015-08-10,38,198,500,3,Citadine,Mixte,5,11545,0.64,0,0,Aucun,4,0
+ASS01158,Garnier,Valérie,F,51,Cadre,55846,Montpellier,34080,Silver,Actif,2020-09-26,2021-09-26,181,554,500,6,Citadine,Professionnel,6,6978,1.02,1,899,Dégât des eaux,32,0
+ASS01159,Rousseau,Sébastien,H,50,Cadre,64996,Lille,59100,Silver,Actif,2021-03-16,2022-03-16,349,593,300,4,SUV,Loisirs,7,35734,0.51,0,0,Aucun,0,0
+ASS01160,Vincent,Romain,H,65,Cadre,71960,Lille,59000,Platine,Actif,2020-02-28,2021-02-28,105,2166,150,7,SUV,Domicile-Travail,10,25659,0.65,0,0,Aucun,0,0
+ASS01161,Rousseau,Camille,F,72,Entrepreneur,62012,Nantes,44000,Gold,Résilié,2024-12-14,2025-12-14,100,1309,150,6,Berline,Domicile-Travail,10,32387,1.22,1,1942,Accident,39,1
+ASS01162,Legrand,Nicolas,H,40,Technicien,34833,Paris,75011,Bronze,Actif,2021-03-03,2022-03-03,90,324,750,4,Berline,Loisirs,5,11255,0.98,1,692,Vol,15,0
+ASS01163,Fontaine,Sophie,F,79,Entrepreneur,71612,Nantes,44100,Gold,Actif,2023-03-02,2024-03-02,300,1292,150,5,Utilitaire,Domicile-Travail,6,12194,0.78,0,0,Aucun,21,0
+ASS01164,Fontaine,Sandrine,F,41,Technicien,36953,Paris,75015,Bronze,Actif,2020-03-18,2021-03-18,79,481,1000,4,Utilitaire,Domicile-Travail,11,7996,0.78,0,0,Aucun,2,0
+ASS01165,Girard,Alexandre,H,54,Employé,30315,Paris,75015,Silver,Actif,2020-01-14,2021-01-14,73,730,300,6,Camion,Professionnel,18,40074,0.7,0,0,Aucun,23,0
+ASS01166,Robert,Éric,H,52,Technicien,38745,Lyon,69001,Silver,Actif,2022-11-27,2023-11-27,176,821,500,5,Utilitaire,Loisirs,11,11915,0.72,0,0,Aucun,4,0
+ASS01167,Vincent,Marie,F,61,Technicien,35226,Bordeaux,33200,Bronze,Actif,2018-10-15,2019-10-15,96,388,750,1,SUV,Domicile-Travail,9,23936,0.8,0,0,Aucun,0,0
+ASS01168,Faure,Marie,F,57,Cadre,64956,Nantes,44000,Silver,Actif,2019-12-17,2020-12-17,345,499,500,3,Citadine,Domicile-Travail,7,23900,0.6,0,0,Aucun,6,0
+ASS01169,Simon,Clara,F,39,Ouvrier,21775,Nice,6300,Bronze,Actif,2017-06-20,2018-06-20,103,537,1000,4,Citadine,Domicile-Travail,8,12273,0.59,0,0,Aucun,0,0
+ASS01170,Rousseau,François,H,44,Employé,24702,Marseille,13001,Silver,Actif,2024-12-15,2025-12-15,224,975,500,4,Citadine,Professionnel,4,5845,0.88,0,0,Aucun,13,0
+ASS01171,Bonnet,Sophie,F,52,Ouvrier,25881,Lyon,69001,Platine,Actif,2017-04-10,2018-04-10,6,2267,150,7,SUV,Domicile-Travail,7,25483,1.08,1,2780,Accident,11,0
+ASS01172,Girard,Marie,F,18,Ouvrier,21653,Lille,59100,Bronze,Actif,2018-03-07,2019-03-07,1,227,1000,2,Utilitaire,Domicile-Travail,4,9891,0.56,0,0,Aucun,7,0
+ASS01173,Richard,Sandrine,F,52,Cadre,67318,Marseille,13013,Platine,Actif,2018-02-12,2019-02-12,122,1763,0,10,Berline,Loisirs,5,16478,0.73,0,0,Aucun,8,0
+ASS01174,Martin,Julien,H,54,Cadre,64508,Marseille,13008,Silver,Actif,2016-05-26,2017-05-26,236,872,300,6,Citadine,Mixte,11,14789,0.8,0,0,Aucun,3,0
+ASS01175,Robert,Camille,F,64,Fonctionnaire,45875,Paris,75018,Silver,Actif,2020-05-06,2021-05-06,116,622,500,5,Berline,Loisirs,8,23113,1.22,1,3833,Incendie,21,0
+ASS01176,Moreau,Amélie,F,31,Technicien,33717,Nantes,44100,Silver,Actif,2023-07-25,2024-07-25,62,668,500,6,Camion,Domicile-Travail,14,60282,1.2,1,0,Incendie,33,0
+ASS01177,Lefebvre,Pierre,H,20,Cadre,60870,Nice,6100,Platine,Actif,2014-06-12,2015-06-12,5,1695,150,9,SUV,Domicile-Travail,9,33990,0.89,0,0,Aucun,23,0
+ASS01178,Legrand,Sophie,F,18,Entrepreneur,38571,Lyon,69009,Gold,Actif,2016-08-12,2017-08-12,1,719,500,7,Utilitaire,Mixte,4,12323,0.78,0,0,Aucun,24,0
+ASS01179,Garcia,Chloé,F,22,Cadre,48152,Paris,75020,Gold,Suspendu,2014-01-24,2015-01-24,18,717,150,5,Utilitaire,Domicile-Travail,7,21337,1.26,2,3196,Accident,49,1
+ASS01180,Bernard,Patrick,H,43,Profession libérale,77704,Nice,6000,Gold,Suspendu,2020-12-19,2021-12-19,144,1434,300,5,Camion,Loisirs,20,30889,1.0,1,0,Dégât des eaux,37,1
+ASS01181,Roux,Manon,F,72,Entrepreneur,64059,Toulouse,31000,Gold,Actif,2014-07-12,2015-07-12,345,1151,300,8,Utilitaire,Domicile-Travail,7,16478,1.12,1,1986,Bris de glace,31,0
+ASS01182,Garcia,Maxime,H,31,Employé,28815,Lyon,69001,Bronze,Actif,2016-05-27,2017-05-27,96,336,750,3,SUV,Domicile-Travail,11,25105,0.65,0,0,Aucun,3,0
+ASS01183,Legrand,Alexandre,H,56,Cadre,65152,Lille,59100,Gold,Actif,2015-01-25,2016-01-25,346,1152,500,6,Citadine,Professionnel,6,6143,0.57,0,0,Aucun,0,0
+ASS01184,Michel,Julie,F,44,Cadre,67948,Paris,75001,Gold,Résilié,2020-12-19,2021-12-19,244,1209,150,6,Citadine,Professionnel,7,14394,1.75,3,1391,Bris de glace,58,1
+ASS01185,Garnier,Julie,F,26,Employé,19909,Marseille,13008,Silver,Actif,2016-08-21,2017-08-21,86,738,500,6,Berline,Loisirs,6,21707,0.59,0,0,Aucun,3,0
+ASS01186,Moreau,Camille,F,32,Cadre,59711,Lille,59000,Silver,Actif,2021-10-24,2022-10-24,159,641,500,4,Citadine,Domicile-Travail,5,8877,1.05,2,1825,Bris de glace,34,0
+ASS01187,Legrand,Sandrine,F,32,Profession libérale,73570,Marseille,13013,Silver,Actif,2019-12-17,2020-12-17,138,470,500,5,Camion,Domicile-Travail,19,32732,0.78,0,0,Aucun,17,0
+ASS01188,François,Nicolas,H,43,Cadre,55078,Toulouse,31000,Platine,Actif,2022-05-27,2023-05-27,184,1687,150,9,Berline,Loisirs,7,18666,0.81,0,0,Aucun,0,0
+ASS01189,David,Isabelle,F,59,Technicien,40507,Marseille,13008,Bronze,Résilié,2021-02-13,2022-02-13,121,527,750,1,Moto,Loisirs,6,14862,2.71,4,7490,Incendie,98,1
+ASS01190,François,Thomas,H,77,Entrepreneur,63426,Lyon,69001,Silver,Actif,2023-11-24,2024-11-24,332,763,500,6,Berline,Domicile-Travail,5,18866,0.89,1,1117,Vol,19,0
+ASS01191,Bonnet,Manon,F,30,Fonctionnaire,34860,Lille,59000,Bronze,Actif,2022-07-05,2023-07-05,92,150,750,2,Berline,Domicile-Travail,5,14227,0.55,0,0,Aucun,0,0
+ASS01192,David,Manon,F,68,Ouvrier,27286,Marseille,13013,Bronze,Actif,2023-08-30,2024-08-30,70,374,500,4,Camion,Domicile-Travail,12,70640,0.67,0,0,Aucun,13,0
+ASS01193,Lambert,Isabelle,F,49,Employé,18936,Montpellier,34000,Bronze,Actif,2020-08-05,2021-08-05,133,375,750,2,Berline,Mixte,8,27244,0.67,0,0,Aucun,3,0
+ASS01194,Blanc,Nicolas,H,56,Ouvrier,28077,Lyon,69001,Bronze,Actif,2016-02-04,2017-02-04,279,194,1000,1,Berline,Professionnel,7,17943,0.9,1,906,Incendie,22,0
+ASS01195,Laurent,Manon,F,66,Technicien,39517,Paris,75020,Gold,Actif,2019-05-28,2020-05-28,137,1574,150,8,Citadine,Mixte,11,11437,0.86,0,0,Aucun,7,0
+ASS01196,Bertrand,Valérie,F,69,Employé,38104,Paris,75015,Bronze,Actif,2024-10-23,2025-10-23,314,321,750,2,SUV,Domicile-Travail,11,39952,0.82,0,0,Aucun,4,0
+ASS01197,Rousseau,Chloé,F,78,Cadre,75300,Toulouse,31300,Platine,Actif,2017-05-23,2018-05-23,187,2432,0,7,Berline,Mixte,10,26310,0.86,1,2105,Incendie,26,0
+ASS01198,Roux,Sophie,F,49,Retraité,32221,Marseille,13013,Silver,Actif,2020-05-23,2021-05-23,221,572,750,3,SUV,Domicile-Travail,8,44034,0.85,0,0,Aucun,5,0
+ASS01199,Legrand,Laurent,H,21,Technicien,29292,Montpellier,34000,Silver,Actif,2016-02-07,2017-02-07,16,854,500,4,SUV,Loisirs,13,10118,0.77,0,0,Aucun,28,0
+ASS01200,Thomas,Manon,F,47,Employé,27761,Marseille,13008,Silver,Actif,2022-02-20,2023-02-20,46,766,300,6,SUV,Professionnel,10,41521,0.83,0,0,Aucun,11,0
+ASS01201,Martin,Alexandre,H,54,Employé,28720,Lille,59160,Silver,Actif,2020-08-13,2021-08-13,278,830,300,6,SUV,Domicile-Travail,12,9335,0.73,0,0,Aucun,7,0
+ASS01202,Durand,Romain,H,40,Employé,25151,Paris,75008,Silver,Actif,2018-02-01,2019-02-01,192,472,500,4,Berline,Domicile-Travail,5,4965,0.71,0,0,Aucun,4,0
+ASS01203,Roux,Maxime,H,56,Fonctionnaire,32460,Montpellier,34000,Bronze,Actif,2016-06-17,2017-06-17,8,496,750,1,Berline,Domicile-Travail,6,24879,0.79,0,0,Aucun,2,0
+ASS01204,Dubois,David,H,62,Profession libérale,79971,Nantes,44200,Gold,Actif,2022-12-02,2023-12-02,276,1480,500,8,Moto,Domicile-Travail,6,8956,0.51,0,0,Aucun,0,0
+ASS01205,Rousseau,Éric,H,32,Fonctionnaire,26972,Nantes,44100,Gold,Actif,2023-09-16,2024-09-16,78,1294,150,6,Berline,Loisirs,9,22157,0.78,0,0,Aucun,0,0
+ASS01206,Leroy,Patrick,H,60,Cadre,67608,Strasbourg,67000,Platine,Actif,2016-12-20,2017-12-20,39,1423,300,10,Berline,Loisirs,6,9654,0.87,0,0,Aucun,5,0
+ASS01207,David,Chloé,F,46,Employé,23041,Nantes,44100,Silver,Actif,2020-04-28,2021-04-28,293,833,500,5,Berline,Professionnel,6,19066,1.14,1,1876,Accident,30,0
+ASS01208,David,Julien,H,53,Technicien,32454,Toulouse,31000,Silver,Actif,2016-02-27,2017-02-27,178,711,500,6,Moto,Loisirs,6,5975,0.51,0,0,Aucun,14,0
+ASS01209,Lambert,Laurent,H,30,Cadre,51362,Paris,75020,Gold,Actif,2014-04-21,2015-04-21,75,595,300,8,Berline,Loisirs,7,11835,0.65,0,0,Aucun,0,0
+ASS01210,Bonnet,Éric,H,49,Employé,27728,Paris,75008,Silver,Actif,2019-01-27,2020-01-27,104,565,300,6,Berline,Domicile-Travail,6,13656,0.82,0,0,Aucun,3,0
+ASS01211,Garcia,Léa,F,24,Fonctionnaire,33255,Montpellier,34170,Silver,Actif,2022-03-09,2023-03-09,33,356,300,5,SUV,Domicile-Travail,10,25267,0.88,0,0,Aucun,23,0
+ASS01212,Legrand,Camille,F,76,Cadre,76409,Toulouse,31300,Silver,Actif,2014-05-21,2015-05-21,287,797,750,3,SUV,Mixte,8,24382,0.65,0,0,Aucun,9,0
+ASS01213,Faure,Alexandre,H,68,Technicien,37081,Nantes,44200,Silver,Actif,2016-01-15,2017-01-15,123,806,500,5,Citadine,Domicile-Travail,5,10244,0.84,0,0,Aucun,9,0
+ASS01214,Dupont,Sophie,F,39,Employé,28648,Bordeaux,33100,Bronze,Actif,2021-01-26,2022-01-26,54,339,1000,4,Berline,Loisirs,6,10757,0.85,0,0,Aucun,0,0
+ASS01215,Garcia,François,H,45,Cadre,70843,Paris,75018,Gold,Actif,2014-03-20,2015-03-20,34,1162,150,6,SUV,Domicile-Travail,10,33458,0.55,0,0,Aucun,0,0
+ASS01216,Lambert,Éric,H,19,Employé,24597,Paris,75015,Silver,Actif,2018-02-26,2019-02-26,2,616,300,4,Camion,Professionnel,13,59527,1.02,1,1998,Vol,53,0
+ASS01217,Bernard,Chloé,F,59,Entrepreneur,60014,Nice,6000,Silver,Résilié,2022-06-30,2023-06-30,113,594,300,6,SUV,Professionnel,14,22520,1.2,1,1152,Bris de glace,31,1
+ASS01218,Michel,Nicolas,H,62,Fonctionnaire,39687,Marseille,13013,Bronze,Actif,2023-10-28,2024-10-28,318,150,750,4,Berline,Domicile-Travail,10,14903,0.93,1,555,Vol,19,0
+ASS01219,Legrand,Camille,F,79,Entrepreneur,67238,Paris,75015,Silver,Résilié,2020-12-31,2021-12-31,23,801,300,3,Citadine,Domicile-Travail,10,12733,1.22,1,2919,Catastrophe naturelle,35,1
+ASS01220,Garcia,Chloé,F,74,Technicien,37191,Bordeaux,33300,Gold,Actif,2016-08-28,2017-08-28,46,1632,300,8,Moto,Loisirs,3,10302,0.77,0,0,Aucun,21,0
+ASS01221,Garnier,Sébastien,H,70,Cadre,70794,Paris,75018,Gold,Actif,2024-02-19,2025-02-19,312,1153,500,6,Utilitaire,Domicile-Travail,9,12814,0.8,0,0,Aucun,0,0
+ASS01222,Lambert,Romain,H,23,Technicien,29726,Toulouse,31300,Silver,Suspendu,2014-03-07,2015-03-07,7,507,300,4,Citadine,Domicile-Travail,6,10166,0.68,0,0,Aucun,16,1
+ASS01223,Fontaine,Sandrine,F,45,Technicien,25591,Lyon,69009,Silver,Actif,2018-03-14,2019-03-14,118,741,300,4,Citadine,Professionnel,7,11470,0.98,1,106,Dégât des eaux,22,0
+ASS01224,Petit,David,H,45,Fonctionnaire,38445,Nantes,44000,Gold,Actif,2024-11-27,2025-11-27,189,1043,300,8,SUV,Domicile-Travail,10,17853,0.82,0,0,Aucun,4,0
+ASS01225,Dubois,Pierre,H,61,Cadre,70496,Lyon,69009,Gold,Actif,2017-10-26,2018-10-26,131,1523,500,6,Berline,Mixte,5,27660,0.81,0,0,Aucun,0,0
+ASS01226,David,Pierre,H,61,Technicien,36227,Marseille,13001,Silver,Actif,2014-10-14,2015-10-14,212,242,300,3,Berline,Loisirs,10,13543,0.68,0,0,Aucun,3,0
+ASS01227,Dupont,Léa,F,37,Cadre,54172,Paris,75011,Gold,Résilié,2022-11-22,2023-11-22,162,1480,500,7,Citadine,Domicile-Travail,7,2285,1.13,1,2508,Accident,30,1
+ASS01228,Garcia,Clara,F,47,Employé,22673,Paris,75015,Silver,Actif,2014-05-03,2015-05-03,113,681,500,6,Berline,Loisirs,10,27758,0.7,0,0,Aucun,0,0
+ASS01229,Laurent,Antoine,H,79,Profession libérale,81512,Marseille,13004,Silver,Actif,2023-01-16,2024-01-16,44,1047,500,4,Berline,Loisirs,5,15360,1.2,1,5595,Catastrophe naturelle,27,0
+ASS01230,David,Sandrine,F,28,Technicien,33757,Marseille,13008,Gold,Actif,2021-02-15,2022-02-15,108,711,300,7,SUV,Domicile-Travail,12,34235,1.1,1,7533,Accident,27,0
+ASS01231,Faure,Amélie,F,75,Employé,32554,Toulouse,31000,Silver,Actif,2016-09-30,2017-09-30,158,770,500,5,Berline,Domicile-Travail,10,24458,0.89,0,0,Aucun,24,0
+ASS01232,Michel,Manon,F,72,Employé,35822,Lyon,69003,Bronze,Actif,2014-01-04,2015-01-04,273,463,1000,4,Berline,Domicile-Travail,10,5531,0.82,0,0,Aucun,8,0
+ASS01233,Vincent,Marie,F,45,Technicien,40365,Nice,6000,Silver,Actif,2024-05-01,2025-05-01,315,595,500,3,Berline,Domicile-Travail,11,21014,0.98,1,4724,Incendie,19,0
+ASS01234,Legrand,Manon,F,42,Fonctionnaire,41448,Montpellier,34000,Bronze,Actif,2019-01-14,2020-01-14,45,305,1000,1,Berline,Domicile-Travail,10,6972,0.77,0,0,Aucun,5,0
+ASS01235,Richard,Christophe,H,56,Retraité,21917,Nantes,44100,Bronze,Actif,2015-02-16,2016-02-16,108,304,1000,2,Citadine,Domicile-Travail,5,10032,0.73,0,0,Aucun,1,0
+ASS01236,Dubois,Maxime,H,79,Entrepreneur,68595,Paris,75018,Platine,Actif,2014-09-07,2015-09-07,219,2674,0,9,Berline,Domicile-Travail,6,16235,0.94,1,951,Accident,20,0
+ASS01237,Fontaine,Thomas,H,50,Fonctionnaire,37320,Bordeaux,33200,Bronze,Actif,2024-03-16,2025-03-16,318,252,1000,3,SUV,Loisirs,11,16096,0.67,0,0,Aucun,0,0
+ASS01238,David,Manon,F,18,Employé,20072,Paris,75011,Bronze,Actif,2018-02-19,2019-02-19,1,337,1000,4,Citadine,Loisirs,4,11637,0.84,0,0,Aucun,13,0
+ASS01239,François,Léa,F,74,Profession libérale,87935,Lyon,69009,Gold,Actif,2023-05-10,2024-05-10,315,1566,150,8,Citadine,Loisirs,7,12933,1.34,2,733,Incendie,43,0
+ASS01240,Dupont,Alexandre,H,44,Technicien,30686,Lille,59000,Bronze,Actif,2019-04-02,2020-04-02,177,504,1000,4,Citadine,Professionnel,6,18843,0.81,0,0,Aucun,12,0
+ASS01241,Robert,Valérie,F,79,Employé,25171,Paris,75018,Platine,Résilié,2017-09-18,2018-09-18,228,2811,150,10,Berline,Professionnel,8,16802,1.5,2,1496,Incendie,65,1
+ASS01242,Faure,Alexandre,H,74,Fonctionnaire,42275,Bordeaux,33000,Silver,Actif,2020-11-05,2021-11-05,191,371,750,5,Moto,Loisirs,3,11394,0.96,1,6471,Vol,32,0
+ASS01243,Simon,Pierre,H,69,Cadre,68100,Toulouse,31300,Gold,Actif,2014-06-07,2015-06-07,160,939,150,6,Citadine,Loisirs,7,16444,0.52,0,0,Aucun,0,0
+ASS01244,Petit,Patrick,H,30,Retraité,26350,Nice,6200,Bronze,Résilié,2018-05-20,2019-05-20,138,439,1000,3,Camion,Domicile-Travail,10,26599,1.03,1,1932,Accident,27,1
+ASS01245,François,Isabelle,F,58,Technicien,35188,Bordeaux,33200,Bronze,Actif,2021-11-24,2022-11-24,267,362,750,2,Citadine,Mixte,8,7963,1.09,1,4248,Bris de glace,23,0
+ASS01246,Roux,Marie,F,20,Ouvrier,22632,Paris,75018,Bronze,Actif,2022-05-20,2023-05-20,6,286,1000,1,Moto,Domicile-Travail,7,12100,0.73,0,0,Aucun,23,0
+ASS01247,Petit,Nicolas,H,56,Ouvrier,25707,Lyon,69001,Silver,Suspendu,2023-02-24,2024-02-24,326,516,500,5,Berline,Domicile-Travail,6,29026,0.99,1,862,Bris de glace,14,1
+ASS01248,Bonnet,Thomas,H,23,Retraité,24141,Bordeaux,33300,Gold,Résilié,2018-05-30,2019-05-30,59,913,300,8,SUV,Professionnel,7,20780,0.51,0,0,Aucun,13,1
+ASS01249,Legrand,Éric,H,25,Ouvrier,26018,Paris,75018,Bronze,Actif,2023-07-22,2024-07-22,62,497,750,3,Berline,Domicile-Travail,10,7468,0.9,1,1641,Catastrophe naturelle,24,0
+ASS01250,Blanc,Antoine,H,44,Ouvrier,29153,Lyon,69001,Silver,Actif,2018-01-03,2019-01-03,175,624,300,4,Berline,Domicile-Travail,4,26428,0.83,0,0,Aucun,15,0
+ASS01251,Lefebvre,Inès,F,26,Cadre,45536,Paris,75018,Gold,Actif,2022-06-28,2023-06-28,34,880,300,8,Moto,Loisirs,3,4219,0.94,1,2988,Vol,29,0
+ASS01252,François,Nathalie,F,79,Technicien,42682,Paris,75018,Gold,Actif,2016-09-04,2017-09-04,357,1828,150,5,Utilitaire,Loisirs,5,13423,1.43,2,13068,Dégât des eaux,58,0
+ASS01253,Roux,Christophe,H,54,Cadre,66483,Marseille,13001,Gold,Actif,2020-07-10,2021-07-10,145,726,500,6,Berline,Professionnel,7,13210,0.88,0,0,Aucun,10,0
+ASS01254,Michel,Éric,H,50,Profession libérale,76666,Paris,75018,Gold,Actif,2017-06-15,2018-06-15,232,1015,300,6,Citadine,Professionnel,6,13157,0.9,1,1122,Incendie,25,0
+ASS01255,Leroy,Marie,F,68,Technicien,41938,Bordeaux,33300,Silver,Actif,2014-06-02,2015-06-02,204,901,300,3,Citadine,Domicile-Travail,7,13243,0.6,0,0,Aucun,3,0
+ASS01256,François,Camille,F,59,Profession libérale,79657,Nice,6300,Platine,Actif,2018-06-18,2019-06-18,213,1735,150,8,Utilitaire,Domicile-Travail,9,9294,0.8,0,0,Aucun,0,0
+ASS01257,Thomas,Maxime,H,61,Cadre,63212,Strasbourg,67000,Gold,Actif,2021-08-28,2022-08-28,40,1330,300,7,Berline,Loisirs,9,27188,0.81,0,0,Aucun,3,0
+ASS01258,Simon,Maxime,H,41,Cadre,51563,Paris,75015,Silver,Actif,2021-11-21,2022-11-21,275,616,300,5,Berline,Domicile-Travail,10,13828,0.66,0,0,Aucun,0,0
+ASS01259,Dubois,François,H,32,Profession libérale,63989,Paris,75020,Silver,Actif,2022-09-22,2023-09-22,67,651,750,3,SUV,Loisirs,9,23109,1.11,2,2678,Bris de glace,36,0
+ASS01260,Moreau,Inès,F,76,Cadre,82784,Paris,75020,Platine,Actif,2021-10-26,2022-10-26,82,1717,300,8,Moto,Domicile-Travail,4,2866,0.88,0,0,Aucun,25,0
+ASS01261,Michel,Léa,F,71,Cadre,68169,Toulouse,31100,Platine,Actif,2024-05-30,2025-05-30,181,2416,0,10,SUV,Loisirs,13,22812,0.5,0,0,Aucun,4,0
+ASS01262,Vincent,Léa,F,49,Cadre,53650,Nice,6200,Platine,Actif,2021-09-06,2022-09-06,320,1823,150,9,Utilitaire,Loisirs,4,14294,0.57,0,0,Aucun,0,0
+ASS01263,David,Julien,H,49,Entrepreneur,60026,Paris,75018,Gold,Actif,2023-07-03,2024-07-03,83,1014,150,6,Utilitaire,Loisirs,7,18559,1.63,2,2112,Accident,50,0
+ASS01264,Thomas,Sébastien,H,41,Profession libérale,74277,Lille,59160,Gold,Actif,2016-11-21,2017-11-21,262,1207,500,5,Berline,Loisirs,5,18376,0.63,0,0,Aucun,3,0
+ASS01265,David,Sarah,F,58,Employé,35335,Paris,75015,Silver,Actif,2021-01-23,2022-01-23,272,866,300,3,Berline,Loisirs,11,21226,0.54,0,0,Aucun,1,0
+ASS01266,Bonnet,Marie,F,69,Employé,34071,Bordeaux,33000,Silver,Actif,2014-02-22,2015-02-22,200,844,500,5,Utilitaire,Domicile-Travail,4,10581,0.81,0,0,Aucun,15,0
+ASS01267,Bernard,Antoine,H,66,Employé,35024,Nice,6100,Bronze,Actif,2021-07-28,2022-07-28,240,545,750,1,Berline,Domicile-Travail,7,16481,0.68,0,0,Aucun,0,0
+ASS01268,David,Isabelle,F,79,Fonctionnaire,54448,Montpellier,34000,Silver,Actif,2018-10-21,2019-10-21,180,692,500,4,Moto,Domicile-Travail,5,5985,0.7,0,0,Aucun,25,0
+ASS01269,Durand,Camille,F,66,Ouvrier,25009,Nice,6200,Silver,Résilié,2022-12-11,2023-12-11,171,905,500,6,Citadine,Domicile-Travail,6,5449,3.24,4,2663,Vol,100,1
+ASS01270,Durand,Pierre,H,75,Employé,29504,Strasbourg,67200,Bronze,Actif,2017-08-21,2018-08-21,295,547,1000,3,Citadine,Domicile-Travail,7,10010,0.76,0,0,Aucun,14,0
+ASS01271,Roux,Julie,F,69,Cadre,64949,Lyon,69001,Gold,Actif,2024-05-06,2025-05-06,177,1397,500,8,Moto,Loisirs,4,13551,0.72,0,0,Aucun,13,0
+ASS01272,Lefebvre,Julien,H,29,Cadre,52584,Strasbourg,67200,Gold,Actif,2020-07-20,2021-07-20,113,1043,150,7,SUV,Domicile-Travail,10,39559,0.58,0,0,Aucun,0,0
+ASS01273,Fontaine,François,H,79,Ouvrier,35817,Paris,75015,Gold,Résilié,2022-08-20,2023-08-20,237,1450,150,7,Berline,Loisirs,4,12242,0.64,0,0,Aucun,5,1
+ASS01274,Simon,Romain,H,56,Fonctionnaire,43404,Montpellier,34080,Bronze,Résilié,2014-01-01,2015-01-01,138,305,500,1,Utilitaire,Mixte,5,17196,1.02,1,4645,Vol,20,1
+ASS01275,Moreau,Thomas,H,19,Employé,25042,Bordeaux,33300,Bronze,Actif,2014-06-16,2015-06-16,7,209,1000,4,SUV,Domicile-Travail,12,40464,0.87,0,0,Aucun,16,0
+ASS01276,Robert,Christophe,H,20,Cadre,42842,Strasbourg,67000,Gold,Actif,2020-06-22,2021-06-22,14,963,300,6,Berline,Domicile-Travail,10,7179,0.87,0,0,Aucun,18,0
+ASS01277,Richard,Sébastien,H,66,Cadre,65379,Marseille,13004,Gold,Actif,2022-11-29,2023-11-29,311,1360,500,5,Citadine,Domicile-Travail,7,18621,0.62,0,0,Aucun,4,0
+ASS01278,Leroy,Romain,H,54,Entrepreneur,51573,Toulouse,31300,Gold,Actif,2016-08-22,2017-08-22,129,1401,150,7,Utilitaire,Loisirs,11,11660,0.79,0,0,Aucun,0,0
+ASS01279,Legrand,Nathalie,F,66,Employé,36326,Bordeaux,33100,Silver,Actif,2022-01-24,2023-01-24,49,391,500,6,Moto,Domicile-Travail,6,8698,0.81,0,0,Aucun,13,0
+ASS01280,Bernard,Sébastien,H,73,Fonctionnaire,51918,Nantes,44200,Bronze,Résilié,2019-03-01,2020-03-01,164,367,1000,2,Citadine,Domicile-Travail,7,21990,1.05,1,635,Incendie,36,1
+ASS01281,Garnier,Maxime,H,34,Ouvrier,25957,Paris,75018,Silver,Actif,2014-09-30,2015-09-30,21,461,750,6,Moto,Loisirs,6,16500,0.73,0,0,Aucun,10,0
+ASS01282,Lambert,Sophie,F,76,Employé,29514,Paris,75020,Silver,Résilié,2018-08-20,2019-08-20,293,537,500,6,Moto,Domicile-Travail,6,5777,1.02,1,1668,Incendie,47,1
+ASS01283,Garnier,Marie,F,66,Employé,37570,Lyon,69003,Bronze,Actif,2020-08-17,2021-08-17,116,380,1000,4,Berline,Loisirs,7,24434,1.2,1,1526,Bris de glace,16,0
+ASS01284,Michel,Camille,F,19,Cadre,48714,Paris,75018,Platine,Actif,2023-05-27,2024-05-27,8,1573,0,7,SUV,Loisirs,13,26275,2.91,3,10990,Bris de glace,100,0
+ASS01285,Richard,Thomas,H,19,Ouvrier,15566,Montpellier,34170,Silver,Actif,2016-06-18,2017-06-18,7,592,500,5,Berline,Professionnel,5,4956,0.55,0,0,Aucun,22,0
+ASS01286,Robert,Sandrine,F,45,Fonctionnaire,34662,Paris,75020,Silver,Actif,2020-02-27,2021-02-27,25,503,750,3,Berline,Domicile-Travail,9,7903,0.74,0,0,Aucun,0,0
+ASS01287,François,Laurent,H,71,Ouvrier,27075,Lille,59000,Silver,Actif,2022-12-08,2023-12-08,127,583,500,4,SUV,Mixte,13,35903,0.89,0,0,Aucun,19,0
+ASS01288,Martin,Romain,H,40,Technicien,33318,Lyon,69009,Silver,Actif,2023-05-06,2024-05-06,234,635,300,4,Moto,Professionnel,4,7716,0.6,0,0,Aucun,20,0
+ASS01289,Girard,Nicolas,H,54,Cadre,62802,Paris,75001,Platine,Résilié,2023-03-25,2024-03-25,209,1779,150,10,SUV,Domicile-Travail,13,18204,1.16,2,4304,Catastrophe naturelle,42,1
+ASS01290,Bonnet,Patrick,H,49,Entrepreneur,51445,Nantes,44100,Gold,Actif,2023-10-18,2024-10-18,93,1166,300,6,Berline,Domicile-Travail,4,29738,0.62,0,0,Aucun,0,0
+ASS01291,Girard,Sarah,F,50,Fonctionnaire,44633,Toulouse,31100,Gold,Actif,2024-01-08,2025-01-08,94,1249,300,7,Citadine,Domicile-Travail,9,17899,0.96,1,5101,Dégât des eaux,13,0
+ASS01292,Richard,Manon,F,18,Employé,22303,Bordeaux,33100,Silver,Actif,2019-12-28,2020-12-28,1,625,750,5,Citadine,Professionnel,7,16865,0.74,0,0,Aucun,29,0
+ASS01293,Richard,Laurent,H,36,Entrepreneur,49508,Bordeaux,33200,Silver,Actif,2020-06-11,2021-06-11,71,593,300,5,Berline,Professionnel,8,15225,0.58,0,0,Aucun,20,0
+ASS01294,Dupont,Julien,H,79,Ouvrier,34525,Nice,6200,Silver,Actif,2017-05-04,2018-05-04,225,812,500,6,Citadine,Loisirs,8,11655,0.81,1,1015,Incendie,29,0
+ASS01295,Bertrand,Julien,H,19,Ouvrier,15690,Lyon,69009,Bronze,Actif,2022-07-30,2023-07-30,7,156,750,3,SUV,Mixte,7,27051,0.93,1,0,Vol,37,0
+ASS01296,Thomas,Nathalie,F,70,Profession libérale,78144,Lille,59000,Gold,Actif,2014-12-26,2015-12-26,280,1568,300,8,Berline,Domicile-Travail,11,19664,0.55,0,0,Aucun,0,0
+ASS01297,Blanc,Sébastien,H,61,Fonctionnaire,47641,Lille,59000,Silver,Actif,2020-06-12,2021-06-12,11,653,500,6,Utilitaire,Domicile-Travail,10,12512,0.53,0,0,Aucun,0,0
+ASS01298,Laurent,Pierre,H,43,Ouvrier,31853,Toulouse,31100,Platine,Actif,2019-08-02,2020-08-02,12,1562,150,10,Berline,Mixte,9,22272,0.77,0,0,Aucun,0,0
+ASS01299,Blanc,Julie,F,49,Cadre,59639,Paris,75001,Gold,Actif,2023-09-22,2024-09-22,35,957,150,6,SUV,Professionnel,7,28872,0.66,0,0,Aucun,11,0
+ASS01300,Blanc,Julie,F,23,Employé,23632,Nice,6200,Silver,Actif,2020-07-08,2021-07-08,4,476,500,5,Berline,Loisirs,6,16604,0.79,0,0,Aucun,23,0
+ASS01301,Blanc,Patrick,H,49,Retraité,18471,Paris,75018,Silver,Actif,2024-10-12,2025-10-12,228,583,750,3,Citadine,Professionnel,11,10448,0.93,1,1384,Catastrophe naturelle,27,0
+ASS01302,Lambert,Valérie,F,72,Employé,32755,Paris,75001,Silver,Résilié,2022-08-21,2023-08-21,220,689,300,5,Citadine,Mixte,8,12989,1.42,2,0,Vol,54,1
+ASS01303,Dupont,Marie,F,21,Employé,21549,Lyon,69003,Gold,Actif,2014-11-30,2015-11-30,13,890,500,7,Berline,Professionnel,5,8503,0.95,1,1081,Incendie,41,0
+ASS01304,Moreau,Maxime,H,72,Technicien,39879,Marseille,13004,Silver,Actif,2021-01-08,2022-01-08,23,605,500,3,Moto,Professionnel,6,5604,0.52,0,0,Aucun,33,0
+ASS01305,Dupont,Léa,F,28,Technicien,32069,Montpellier,34170,Bronze,Résilié,2016-01-01,2017-01-01,83,150,750,4,Citadine,Professionnel,7,10910,1.31,3,5835,Vol,53,1
+ASS01306,Dubois,David,H,73,Ouvrier,24725,Nice,6000,Bronze,Actif,2022-02-19,2023-02-19,229,245,750,1,SUV,Domicile-Travail,14,26071,0.53,0,0,Aucun,15,0
+ASS01307,Fontaine,Clara,F,76,Retraité,25579,Nantes,44000,Silver,Actif,2021-09-14,2022-09-14,344,729,750,4,Camion,Professionnel,19,64756,0.83,0,0,Aucun,31,0
+ASS01308,Durand,Nicolas,H,34,Employé,18602,Marseille,13001,Silver,Actif,2018-02-06,2019-02-06,80,471,500,4,Utilitaire,Domicile-Travail,11,7759,1.03,1,4899,Catastrophe naturelle,20,0
+ASS01309,Robert,Antoine,H,55,Cadre,62420,Lyon,69003,Silver,Actif,2017-11-18,2018-11-18,353,781,500,6,Citadine,Mixte,8,16840,0.72,0,0,Aucun,0,0
+ASS01310,Thomas,Christophe,H,41,Employé,26718,Marseille,13008,Bronze,Actif,2024-01-20,2025-01-20,159,250,1000,1,Moto,Loisirs,7,10129,0.55,0,0,Aucun,11,0
+ASS01311,Lambert,Inès,F,22,Retraité,20004,Lille,59000,Silver,Actif,2024-05-20,2025-05-20,29,543,750,6,Citadine,Loisirs,5,12725,0.61,0,0,Aucun,15,0
+ASS01312,Richard,Laurent,H,69,Ouvrier,29432,Paris,75001,Bronze,Actif,2024-04-21,2025-04-21,128,294,750,1,Berline,Loisirs,6,11208,0.7,0,0,Aucun,5,0
+ASS01313,Bernard,Clara,F,51,Employé,32527,Montpellier,34000,Silver,Actif,2018-10-10,2019-10-10,190,659,500,5,Moto,Domicile-Travail,5,8624,1.07,2,294,Bris de glace,34,0
+ASS01314,Leroy,Nicolas,H,23,Fonctionnaire,26817,Bordeaux,33000,Platine,Actif,2021-10-03,2022-10-03,13,1090,0,9,SUV,Domicile-Travail,11,33794,0.57,0,0,Aucun,15,0
+ASS01315,Faure,Thomas,H,39,Retraité,15642,Marseille,13008,Bronze,Actif,2018-05-20,2019-05-20,31,471,750,1,Berline,Mixte,4,21254,0.81,1,2174,Catastrophe naturelle,18,0
+ASS01316,Laurent,Léa,F,28,Fonctionnaire,36351,Nice,6200,Bronze,Actif,2017-11-04,2018-11-04,2,259,1000,1,Berline,Mixte,7,7692,0.91,1,1733,Incendie,13,0
+ASS01317,Thomas,Laurent,H,65,Retraité,17254,Bordeaux,33200,Silver,Actif,2014-01-21,2015-01-21,359,473,750,3,Berline,Domicile-Travail,8,11735,0.69,0,0,Aucun,4,0
+ASS01318,David,Julien,H,33,Employé,26369,Montpellier,34080,Silver,Actif,2019-05-28,2020-05-28,15,824,750,3,Berline,Mixte,7,26712,0.57,0,0,Aucun,0,0
+ASS01319,Richard,Julie,F,50,Profession libérale,70418,Montpellier,34000,Gold,Actif,2016-05-28,2017-05-28,313,1350,300,5,Berline,Professionnel,8,23969,1.04,1,580,Incendie,28,0
+ASS01320,Bonnet,François,H,26,Technicien,36275,Marseille,13001,Gold,Actif,2014-06-26,2015-06-26,75,1246,500,7,Camion,Loisirs,17,82870,0.64,0,0,Aucun,19,0
+ASS01321,Roux,Maxime,H,77,Fonctionnaire,47585,Lyon,69001,Bronze,Actif,2017-10-18,2018-10-18,34,238,1000,3,Camion,Domicile-Travail,14,24051,0.68,0,0,Aucun,22,0
+ASS01322,Blanc,Antoine,H,76,Profession libérale,86639,Toulouse,31000,Gold,Actif,2019-09-01,2020-09-01,359,1678,150,8,Moto,Mixte,7,3961,0.64,0,0,Aucun,17,0
+ASS01323,Lambert,Christophe,H,23,Fonctionnaire,37886,Montpellier,34170,Silver,Actif,2021-11-24,2022-11-24,4,438,500,6,Berline,Loisirs,4,15927,0.75,0,0,Aucun,17,0
+ASS01324,Richard,Clara,F,33,Ouvrier,18424,Paris,75015,Silver,Actif,2022-03-27,2023-03-27,75,746,500,3,SUV,Mixte,10,36647,0.52,0,0,Aucun,0,0
+ASS01325,Fontaine,Léa,F,46,Cadre,56818,Toulouse,31300,Silver,Actif,2021-02-08,2022-02-08,29,611,750,5,Moto,Professionnel,4,9957,0.57,0,0,Aucun,21,0
+ASS01326,Blanc,David,H,20,Technicien,23594,Toulouse,31100,Silver,Actif,2020-04-16,2021-04-16,2,699,500,3,Moto,Professionnel,3,11977,0.67,0,0,Aucun,35,0
+ASS01327,François,Sarah,F,37,Entrepreneur,49267,Nantes,44100,Gold,Actif,2015-10-23,2016-10-23,16,1341,300,8,Berline,Loisirs,10,14974,0.64,0,0,Aucun,4,0
+ASS01328,Bernard,Éric,H,77,Retraité,27418,Paris,75001,Bronze,Actif,2022-03-19,2023-03-19,77,606,1000,2,Citadine,Domicile-Travail,7,8521,0.66,0,0,Aucun,11,0
+ASS01329,David,Clara,F,76,Cadre,74047,Nice,6300,Silver,Actif,2022-08-11,2023-08-11,293,521,500,4,Citadine,Domicile-Travail,4,12763,0.91,1,7667,Incendie,24,0
+ASS01330,Laurent,David,H,53,Cadre,66901,Montpellier,34170,Platine,Actif,2022-08-29,2023-08-29,81,1592,0,10,SUV,Domicile-Travail,14,9100,0.85,0,0,Aucun,0,0
+ASS01331,Durand,Romain,H,36,Cadre,49093,Paris,75015,Silver,Actif,2017-04-14,2018-04-14,149,475,500,4,SUV,Domicile-Travail,14,41873,0.6,0,0,Aucun,1,0
+ASS01332,Legrand,Nicolas,H,43,Profession libérale,71120,Lyon,69003,Gold,Actif,2014-05-06,2015-05-06,124,1032,300,8,Moto,Loisirs,5,11319,0.83,0,0,Aucun,2,0
+ASS01333,Fontaine,François,H,20,Fonctionnaire,27787,Lille,59100,Bronze,Actif,2022-12-20,2023-12-20,19,256,1000,3,Berline,Loisirs,7,23075,0.68,0,0,Aucun,7,0
+ASS01334,Michel,Patrick,H,36,Employé,25360,Paris,75001,Gold,Actif,2024-11-29,2025-11-29,199,1489,500,7,Citadine,Mixte,6,2000,0.61,0,0,Aucun,0,0
+ASS01335,Lefebvre,Laurent,H,37,Technicien,41784,Strasbourg,67100,Gold,Actif,2017-06-23,2018-06-23,102,963,150,7,Berline,Domicile-Travail,4,23398,0.89,0,0,Aucun,9,0
+ASS01336,Robert,Léa,F,49,Fonctionnaire,40695,Bordeaux,33000,Gold,Actif,2015-09-03,2016-09-03,77,978,300,6,Berline,Loisirs,4,10896,0.83,0,0,Aucun,0,0
+ASS01337,Richard,Maxime,H,24,Profession libérale,66361,Lyon,69006,Gold,Actif,2017-07-18,2018-07-18,66,994,150,6,Citadine,Domicile-Travail,7,5574,1.08,1,3772,Bris de glace,38,0
+ASS01338,Legrand,Julie,F,69,Technicien,47458,Montpellier,34000,Gold,Actif,2016-10-06,2017-10-06,297,1628,150,6,SUV,Domicile-Travail,8,23691,0.99,1,5632,Accident,14,0
+ASS01339,Bonnet,Patrick,H,58,Ouvrier,31212,Marseille,13013,Silver,Actif,2019-09-23,2020-09-23,203,658,750,4,Berline,Domicile-Travail,11,10324,0.99,1,289,Dégât des eaux,19,0
+ASS01340,Thomas,Sophie,F,50,Technicien,33568,Bordeaux,33100,Gold,Actif,2018-10-24,2019-10-24,61,1283,150,5,SUV,Professionnel,13,33342,0.7,0,0,Aucun,9,0
+ASS01341,Fontaine,Julie,F,57,Employé,24900,Lyon,69001,Silver,Actif,2019-05-19,2020-05-19,26,665,500,3,Berline,Domicile-Travail,7,9529,0.76,0,0,Aucun,2,0
+ASS01342,Leroy,Léa,F,56,Technicien,36583,Toulouse,31000,Bronze,Actif,2024-01-29,2025-01-29,71,317,1000,1,Berline,Professionnel,6,15260,0.57,0,0,Aucun,4,0
+ASS01343,Martin,François,H,35,Profession libérale,65729,Paris,75018,Platine,Actif,2015-07-02,2016-07-02,103,1760,0,9,Berline,Domicile-Travail,8,17777,0.84,0,0,Aucun,0,0
+ASS01344,Leroy,Sébastien,H,57,Retraité,18135,Marseille,13001,Bronze,Actif,2017-04-06,2018-04-06,326,482,750,1,Moto,Mixte,4,13522,0.71,0,0,Aucun,12,0
+ASS01345,Roux,Julie,F,18,Ouvrier,21226,Lille,59000,Bronze,Actif,2020-10-18,2021-10-18,1,326,750,3,Citadine,Professionnel,11,18376,0.66,0,0,Aucun,26,0
+ASS01346,Lefebvre,Sébastien,H,28,Fonctionnaire,35299,Lyon,69001,Bronze,Actif,2016-11-19,2017-11-19,107,282,750,3,Utilitaire,Mixte,5,8947,0.86,1,876,Bris de glace,20,0
+ASS01347,David,Marie,F,45,Cadre,66996,Toulouse,31100,Gold,Actif,2021-10-12,2022-10-12,157,1210,300,5,Berline,Mixte,11,19034,0.75,0,0,Aucun,3,0
+ASS01348,Martin,François,H,74,Technicien,39288,Lyon,69009,Bronze,Actif,2018-06-09,2019-06-09,359,500,750,2,Moto,Mixte,6,10706,0.52,0,0,Aucun,19,0
+ASS01349,Legrand,Clara,F,42,Cadre,59864,Nantes,44000,Gold,Actif,2020-08-01,2021-08-01,194,1443,150,7,Utilitaire,Mixte,11,11534,0.9,0,0,Aucun,2,0
+ASS01350,Garcia,Nathalie,F,67,Employé,29162,Paris,75020,Bronze,Actif,2023-10-03,2024-10-03,275,350,1000,1,Berline,Loisirs,7,25477,0.65,0,0,Aucun,3,0
+ASS01351,Richard,Thomas,H,40,Profession libérale,73872,Lille,59000,Platine,Actif,2024-02-22,2025-02-22,186,2066,0,7,SUV,Domicile-Travail,11,25867,0.52,0,0,Aucun,0,0
+ASS01352,Robert,Camille,F,48,Entrepreneur,56233,Marseille,13008,Silver,Actif,2018-12-28,2019-12-28,326,709,300,6,Citadine,Domicile-Travail,4,8879,0.84,0,0,Aucun,3,0
+ASS01353,Blanc,Antoine,H,47,Cadre,56013,Lyon,69009,Bronze,Actif,2017-06-25,2018-06-25,113,260,500,2,Moto,Domicile-Travail,3,10734,0.9,0,0,Aucun,16,0
+ASS01354,Laurent,Inès,F,59,Employé,30314,Paris,75018,Silver,Actif,2018-09-16,2019-09-16,313,597,500,6,Berline,Loisirs,9,24128,0.87,1,1298,Catastrophe naturelle,17,0
+ASS01355,Thomas,Camille,F,52,Fonctionnaire,41846,Paris,75008,Silver,Actif,2014-09-10,2015-09-10,165,850,300,3,Berline,Loisirs,7,17429,0.84,0,0,Aucun,7,0
+ASS01356,Michel,Christophe,H,24,Employé,25019,Bordeaux,33300,Silver,Actif,2021-10-03,2022-10-03,61,462,300,5,SUV,Mixte,14,36366,0.75,0,0,Aucun,10,0
+ASS01357,Laurent,Patrick,H,77,Technicien,45591,Lyon,69003,Gold,Actif,2021-07-31,2022-07-31,92,1562,300,5,Utilitaire,Mixte,4,19122,0.87,0,0,Aucun,7,0
+ASS01358,Dubois,Antoine,H,33,Profession libérale,61255,Strasbourg,67200,Silver,Actif,2024-10-12,2025-10-12,30,487,300,5,Citadine,Domicile-Travail,6,13696,0.51,0,0,Aucun,0,0
+ASS01359,Martin,Nathalie,F,43,Ouvrier,20917,Marseille,13001,Bronze,Actif,2023-06-16,2024-06-16,153,400,750,2,SUV,Loisirs,12,27256,0.81,0,0,Aucun,1,0
+ASS01360,Richard,Romain,H,65,Employé,34019,Lyon,69006,Bronze,Actif,2018-04-09,2019-04-09,225,375,750,4,Berline,Mixte,8,12521,0.77,0,0,Aucun,5,0
+ASS01361,Vincent,Nathalie,F,74,Employé,30196,Toulouse,31300,Gold,Actif,2024-02-23,2025-02-23,127,1612,150,7,Berline,Domicile-Travail,8,16881,0.52,0,0,Aucun,0,0
+ASS01362,Lambert,Inès,F,69,Fonctionnaire,45529,Nice,6000,Gold,Suspendu,2016-01-07,2017-01-07,193,1666,300,5,SUV,Professionnel,10,34607,1.13,1,5529,Incendie,31,1
+ASS01363,Simon,Thomas,H,77,Technicien,31729,Paris,75015,Silver,Actif,2019-08-09,2020-08-09,115,1106,500,6,Berline,Domicile-Travail,7,19615,0.71,0,0,Aucun,18,0
+ASS01364,Robert,David,H,66,Cadre,79015,Paris,75001,Gold,Actif,2016-06-18,2017-06-18,262,1665,300,5,Berline,Loisirs,6,20756,0.78,0,0,Aucun,4,0
+ASS01365,Dupont,Manon,F,19,Fonctionnaire,30889,Paris,75020,Bronze,Résilié,2019-04-13,2020-04-13,2,329,750,4,Moto,Domicile-Travail,6,2000,1.09,1,0,Vol,36,1
+ASS01366,Simon,Chloé,F,18,Cadre,54111,Nantes,44200,Silver,Actif,2024-11-13,2025-11-13,1,644,500,3,Citadine,Mixte,9,12133,0.82,0,0,Aucun,22,0
+ASS01367,Lefebvre,Alexandre,H,65,Profession libérale,80932,Nice,6200,Platine,Actif,2023-07-23,2024-07-23,10,2575,0,10,SUV,Loisirs,14,10789,0.96,1,2280,Vol,20,0
+ASS01368,Bernard,Julien,H,79,Employé,35666,Marseille,13004,Bronze,Actif,2019-12-11,2020-12-11,92,502,1000,2,Citadine,Domicile-Travail,10,13727,0.67,0,0,Aucun,9,0
+ASS01369,Michel,Nicolas,H,29,Entrepreneur,55783,Strasbourg,67100,Silver,Actif,2017-08-10,2018-08-10,77,694,750,6,Citadine,Domicile-Travail,5,16565,0.85,0,0,Aucun,5,0
+ASS01370,Durand,Maxime,H,22,Employé,28297,Strasbourg,67200,Bronze,Actif,2021-06-25,2022-06-25,37,248,750,1,Citadine,Loisirs,8,21869,1.0,1,3217,Catastrophe naturelle,28,0
+ASS01371,Bernard,Éric,H,54,Employé,28640,Toulouse,31100,Silver,Actif,2019-12-31,2020-12-31,340,816,300,3,SUV,Mixte,9,44051,1.79,3,10507,Incendie,60,0
+ASS01372,Leroy,Chloé,F,49,Cadre,60946,Montpellier,34000,Platine,Résilié,2016-09-29,2017-09-29,52,2213,0,9,SUV,Professionnel,7,30476,1.03,1,24,Dégât des eaux,30,1
+ASS01373,Martin,Clara,F,76,Employé,37476,Paris,75011,Bronze,Actif,2022-03-05,2023-03-05,195,446,750,2,Citadine,Loisirs,11,13603,0.77,0,0,Aucun,9,0
+ASS01374,Robert,Clara,F,72,Retraité,35771,Paris,75015,Silver,Actif,2019-04-07,2020-04-07,206,670,500,5,Citadine,Domicile-Travail,4,12095,0.89,0,0,Aucun,13,0
+ASS01375,Moreau,Léa,F,26,Entrepreneur,49493,Lyon,69006,Silver,Actif,2021-01-02,2022-01-02,31,397,750,6,Moto,Loisirs,3,6168,0.86,0,0,Aucun,12,0
+ASS01376,Roux,Romain,H,58,Employé,38014,Paris,75020,Platine,Actif,2024-12-12,2025-12-12,93,1903,0,10,Citadine,Professionnel,7,10665,0.94,1,1238,Bris de glace,24,0
+ASS01377,Moreau,Thomas,H,52,Technicien,34842,Bordeaux,33000,Bronze,Actif,2019-05-26,2020-05-26,309,150,750,4,Moto,Professionnel,6,7441,0.54,0,0,Aucun,12,0
+ASS01378,Laurent,Christophe,H,36,Profession libérale,72283,Lille,59160,Gold,Actif,2024-04-10,2025-04-10,145,851,300,5,Citadine,Domicile-Travail,8,5473,0.6,0,0,Aucun,0,0
+ASS01379,David,Inès,F,65,Retraité,29814,Paris,75015,Silver,Actif,2019-10-06,2020-10-06,86,756,300,5,SUV,Professionnel,13,30684,1.06,1,1031,Vol,31,0
+ASS01380,Lambert,Amélie,F,33,Ouvrier,21038,Paris,75018,Silver,Actif,2014-02-11,2015-02-11,153,638,500,4,Berline,Loisirs,4,20188,0.64,0,0,Aucun,0,0
+ASS01381,Richard,Pierre,H,20,Employé,20281,Marseille,13004,Bronze,Résilié,2021-11-08,2022-11-08,2,228,750,1,Moto,Mixte,5,9690,0.59,0,0,Aucun,25,1
+ASS01382,Dupont,Alexandre,H,37,Employé,30945,Lille,59100,Bronze,Actif,2024-02-20,2025-02-20,86,290,1000,3,SUV,Mixte,9,13684,0.6,0,0,Aucun,2,0
+ASS01383,Dubois,Camille,F,41,Profession libérale,68729,Lyon,69003,Gold,Actif,2022-09-28,2023-09-28,260,842,300,8,Berline,Professionnel,5,17279,0.75,0,0,Aucun,4,0
+ASS01384,Blanc,Inès,F,71,Cadre,66534,Bordeaux,33100,Gold,Actif,2019-01-22,2020-01-22,164,1801,300,6,Citadine,Professionnel,7,16126,0.63,0,0,Aucun,18,0
+ASS01385,Roux,David,H,73,Ouvrier,26382,Paris,75018,Bronze,Actif,2024-07-01,2025-07-01,6,290,1000,2,SUV,Domicile-Travail,13,34147,1.05,1,5427,Accident,26,0
+ASS01386,Robert,Thomas,H,50,Employé,26587,Paris,75001,Silver,Actif,2014-12-09,2015-12-09,149,791,500,6,SUV,Professionnel,13,20272,0.88,0,0,Aucun,19,0
+ASS01387,Blanc,Sandrine,F,41,Fonctionnaire,40938,Lille,59160,Silver,Actif,2014-11-28,2015-11-28,205,974,750,3,Citadine,Domicile-Travail,9,4724,0.76,0,0,Aucun,2,0
+ASS01388,Faure,David,H,69,Cadre,71388,Lille,59160,Gold,Actif,2023-08-29,2024-08-29,118,1930,300,6,Citadine,Domicile-Travail,4,14245,0.8,0,0,Aucun,11,0
+ASS01389,Lefebvre,Patrick,H,28,Ouvrier,24735,Paris,75018,Silver,Actif,2017-12-31,2018-12-31,101,509,500,4,Utilitaire,Domicile-Travail,9,16568,0.8,0,0,Aucun,10,0
+ASS01390,Vincent,David,H,66,Technicien,40629,Lille,59160,Platine,Actif,2014-12-07,2015-12-07,89,2151,0,7,Berline,Professionnel,7,25725,0.63,0,0,Aucun,10,0
+ASS01391,Garcia,Marie,F,25,Ouvrier,19014,Toulouse,31000,Bronze,Actif,2020-07-16,2021-07-16,26,338,750,4,SUV,Domicile-Travail,11,27053,0.51,0,0,Aucun,8,0
+ASS01392,Girard,Sarah,F,53,Cadre,65844,Montpellier,34080,Silver,Actif,2023-07-20,2024-07-20,167,1033,500,3,Berline,Loisirs,9,19509,1.21,1,1646,Bris de glace,16,0
+ASS01393,Lambert,Julie,F,55,Technicien,41209,Marseille,13001,Bronze,Actif,2021-12-06,2022-12-06,161,447,750,3,Moto,Loisirs,7,14058,0.61,0,0,Aucun,17,0
+ASS01394,Laurent,Marie,F,57,Technicien,39266,Bordeaux,33300,Gold,Actif,2020-02-08,2021-02-08,270,972,300,8,Moto,Domicile-Travail,6,5108,0.78,0,0,Aucun,12,0
+ASS01395,Moreau,Léa,F,37,Technicien,34246,Bordeaux,33000,Bronze,Résilié,2018-08-28,2019-08-28,56,374,750,1,Camion,Domicile-Travail,23,45807,1.05,1,0,Vol,32,1
+ASS01396,Bernard,Sarah,F,79,Ouvrier,27015,Nice,6200,Bronze,Actif,2022-04-20,2023-04-20,228,420,500,4,Citadine,Professionnel,9,6889,0.88,0,0,Aucun,21,0
+ASS01397,Lefebvre,Sarah,F,52,Ouvrier,26584,Paris,75018,Silver,Actif,2017-07-11,2018-07-11,337,843,500,3,Moto,Professionnel,6,5118,1.1,1,16,Vol,32,0
+ASS01398,Dubois,Romain,H,65,Fonctionnaire,40279,Paris,75008,Gold,Actif,2017-05-18,2018-05-18,149,1323,300,7,Berline,Domicile-Travail,10,6796,0.9,0,0,Aucun,8,0
+ASS01399,Dubois,Thomas,H,79,Employé,33911,Lyon,69003,Silver,Actif,2021-01-14,2022-01-14,46,472,500,4,SUV,Mixte,12,21184,1.15,1,0,Catastrophe naturelle,26,0
+ASS01400,Martin,Thomas,H,42,Fonctionnaire,31202,Nice,6300,Bronze,Actif,2020-02-08,2021-02-08,144,445,500,2,Berline,Professionnel,9,13750,1.07,1,2316,Incendie,26,0
+ASS01401,Durand,Laurent,H,52,Technicien,29277,Paris,75011,Bronze,Actif,2018-01-07,2019-01-07,238,413,1000,2,Citadine,Domicile-Travail,11,24658,0.57,0,0,Aucun,0,0
+ASS01402,Bonnet,Patrick,H,42,Cadre,57979,Nice,6200,Platine,Actif,2020-04-17,2021-04-17,272,2526,150,8,Camion,Professionnel,17,44482,0.53,0,0,Aucun,23,0
+ASS01403,Faure,David,H,46,Cadre,58118,Lille,59000,Silver,Actif,2014-05-18,2015-05-18,120,752,750,3,Citadine,Mixte,10,8060,0.83,1,936,Incendie,16,0
+ASS01404,Rousseau,Romain,H,35,Employé,26427,Paris,75008,Silver,Actif,2023-01-03,2024-01-03,84,660,500,3,SUV,Loisirs,9,24128,0.84,0,0,Aucun,0,0
+ASS01405,Durand,Julie,F,63,Fonctionnaire,42516,Nice,6300,Gold,Actif,2021-08-30,2022-08-30,220,1591,300,8,Utilitaire,Domicile-Travail,8,7967,0.59,0,0,Aucun,0,0
+ASS01406,Laurent,Sarah,F,35,Profession libérale,68120,Marseille,13013,Gold,Actif,2020-11-06,2021-11-06,8,1140,150,6,Utilitaire,Mixte,9,20741,0.56,0,0,Aucun,0,0
+ASS01407,Moreau,Maxime,H,19,Fonctionnaire,34402,Montpellier,34170,Bronze,Actif,2022-01-09,2023-01-09,8,378,1000,1,Citadine,Loisirs,7,2142,0.86,0,0,Aucun,22,0
+ASS01408,Robert,Alexandre,H,71,Technicien,38210,Paris,75011,Bronze,Actif,2024-09-25,2025-09-25,275,439,500,4,Berline,Domicile-Travail,10,17272,0.88,0,0,Aucun,9,0
+ASS01409,Garcia,Camille,F,52,Technicien,34930,Nice,6100,Silver,Actif,2014-03-28,2015-03-28,353,657,500,6,Utilitaire,Loisirs,4,15110,0.51,0,0,Aucun,0,0
+ASS01410,Faure,Nicolas,H,33,Cadre,61036,Strasbourg,67000,Gold,Actif,2019-01-08,2020-01-08,66,869,300,5,Berline,Loisirs,7,14361,0.79,0,0,Aucun,12,0
+ASS01411,Blanc,Antoine,H,78,Employé,33838,Lille,59000,Gold,Actif,2020-05-29,2021-05-29,79,1288,500,5,Berline,Mixte,5,9098,0.62,0,0,Aucun,13,0
+ASS01412,Dubois,Isabelle,F,58,Technicien,36435,Nice,6300,Bronze,Actif,2019-11-10,2020-11-10,86,466,1000,2,Berline,Loisirs,6,5641,0.65,0,0,Aucun,0,0
+ASS01413,Girard,François,H,53,Cadre,63386,Bordeaux,33300,Silver,Résilié,2014-07-27,2015-07-27,124,886,500,3,Berline,Domicile-Travail,9,34828,1.68,2,8975,Bris de glace,49,1
+ASS01414,Robert,Camille,F,50,Employé,28084,Toulouse,31200,Gold,Actif,2022-12-20,2023-12-20,202,1034,500,7,Moto,Loisirs,3,12335,1.04,1,0,Accident,27,0
+ASS01415,Robert,Sébastien,H,21,Ouvrier,17907,Montpellier,34080,Silver,Actif,2020-02-12,2021-02-12,18,476,500,5,Berline,Loisirs,4,11916,0.94,1,3726,Accident,37,0
+ASS01416,Fontaine,Clara,F,50,Profession libérale,71147,Bordeaux,33100,Platine,Actif,2022-08-23,2023-08-23,150,1717,0,10,SUV,Domicile-Travail,11,40909,0.73,0,0,Aucun,0,0
+ASS01417,Garnier,Marie,F,31,Entrepreneur,47490,Paris,75015,Silver,Actif,2019-01-25,2020-01-25,46,489,500,6,Berline,Loisirs,8,13359,1.09,1,2045,Bris de glace,16,0
+ASS01418,Garcia,Isabelle,F,38,Retraité,24932,Lille,59100,Bronze,Actif,2018-08-15,2019-08-15,113,365,1000,1,Berline,Professionnel,8,4955,1.83,3,1220,Catastrophe naturelle,63,0
+ASS01419,Legrand,Alexandre,H,65,Ouvrier,25310,Nice,6000,Silver,Actif,2020-01-13,2021-01-13,91,859,300,5,Citadine,Domicile-Travail,9,8003,0.79,0,0,Aucun,5,0
+ASS01420,Blanc,Léa,F,37,Employé,25744,Nice,6100,Silver,Actif,2020-05-29,2021-05-29,141,669,500,3,Berline,Loisirs,4,18236,0.68,0,0,Aucun,6,0
+ASS01421,Thomas,François,H,73,Ouvrier,31920,Paris,75020,Silver,Actif,2021-01-24,2022-01-24,289,817,300,4,Berline,Domicile-Travail,4,22934,1.1,1,327,Accident,33,0
+ASS01422,François,David,H,25,Fonctionnaire,32366,Toulouse,31300,Bronze,Actif,2020-01-18,2021-01-18,5,274,1000,2,SUV,Domicile-Travail,11,26490,0.76,0,0,Aucun,1,0
+ASS01423,Michel,David,H,24,Cadre,54221,Marseille,13001,Gold,Actif,2023-06-20,2024-06-20,27,1083,500,6,Berline,Domicile-Travail,8,18918,0.81,0,0,Aucun,10,0
+ASS01424,Simon,Thomas,H,20,Employé,17106,Toulouse,31300,Bronze,Actif,2018-02-17,2019-02-17,14,308,500,2,Berline,Domicile-Travail,10,2356,0.76,0,0,Aucun,15,0
+ASS01425,François,Valérie,F,34,Fonctionnaire,35217,Paris,75008,Silver,Actif,2018-03-07,2019-03-07,152,460,300,5,Berline,Professionnel,10,24354,0.74,0,0,Aucun,4,0
+ASS01426,Vincent,Sophie,F,50,Employé,29045,Toulouse,31000,Gold,Actif,2016-04-30,2017-04-30,323,1226,300,5,Citadine,Domicile-Travail,6,17138,0.59,0,0,Aucun,6,0
+ASS01427,Durand,Christophe,H,65,Technicien,38812,Lille,59160,Bronze,Actif,2020-01-13,2021-01-13,239,450,500,1,Moto,Professionnel,7,8489,0.82,1,1226,Dégât des eaux,32,0
+ASS01428,Durand,Laurent,H,29,Ouvrier,15422,Paris,75011,Silver,Actif,2019-12-31,2020-12-31,115,442,300,5,Berline,Domicile-Travail,9,14304,1.2,1,475,Bris de glace,25,0
+ASS01429,Petit,Manon,F,76,Employé,38274,Lille,59160,Bronze,Actif,2024-07-07,2025-07-07,319,435,1000,4,Citadine,Mixte,7,10684,0.87,0,0,Aucun,13,0
+ASS01430,Durand,Thomas,H,68,Employé,28587,Marseille,13008,Silver,Actif,2024-02-08,2025-02-08,94,481,500,4,Citadine,Loisirs,11,6352,0.76,0,0,Aucun,5,0
+ASS01431,Garcia,Amélie,F,39,Employé,28068,Montpellier,34000,Platine,Actif,2023-03-10,2024-03-10,227,1754,300,7,Camion,Professionnel,16,49113,0.61,0,0,Aucun,23,0
+ASS01432,Fontaine,François,H,72,Cadre,70535,Nantes,44000,Silver,Actif,2021-02-22,2022-02-22,48,853,300,3,Citadine,Domicile-Travail,9,16653,0.69,0,0,Aucun,23,0
+ASS01433,Rousseau,Sébastien,H,39,Cadre,61582,Bordeaux,33300,Bronze,Actif,2019-09-14,2020-09-14,191,268,1000,4,Utilitaire,Domicile-Travail,8,2000,0.88,1,1810,Vol,15,0
+ASS01434,Richard,Chloé,F,63,Fonctionnaire,51805,Nantes,44000,Silver,Actif,2014-08-12,2015-08-12,12,572,500,5,Citadine,Domicile-Travail,11,18665,0.63,0,0,Aucun,5,0
+ASS01435,Martin,Alexandre,H,47,Employé,23022,Montpellier,34080,Bronze,Actif,2021-06-08,2022-06-08,156,474,750,3,Moto,Mixte,5,8747,0.71,0,0,Aucun,13,0
+ASS01436,Dupont,Chloé,F,55,Technicien,33884,Marseille,13008,Silver,Actif,2020-09-06,2021-09-06,172,634,500,3,Moto,Loisirs,4,5278,1.01,1,405,Accident,27,0
+ASS01437,David,Éric,H,55,Employé,30396,Lyon,69003,Gold,Actif,2020-09-21,2021-09-21,296,978,150,6,SUV,Loisirs,10,20241,0.8,0,0,Aucun,1,0
+ASS01438,Martin,Antoine,H,62,Retraité,20547,Nice,6100,Bronze,Actif,2024-05-02,2025-05-02,177,259,750,2,Citadine,Professionnel,9,9859,0.57,0,0,Aucun,9,0
+ASS01439,François,Thomas,H,68,Employé,35134,Strasbourg,67100,Bronze,Actif,2017-11-12,2018-11-12,341,370,1000,3,Berline,Domicile-Travail,11,16197,1.0,1,1542,Dégât des eaux,18,0
+ASS01440,Roux,Manon,F,71,Employé,35925,Nantes,44200,Silver,Actif,2018-09-16,2019-09-16,57,851,500,3,Berline,Professionnel,9,9316,0.86,0,0,Aucun,23,0
+ASS01441,Martin,Antoine,H,25,Retraité,21767,Nantes,44100,Silver,Actif,2024-06-17,2025-06-17,64,577,500,4,Berline,Loisirs,7,17414,0.89,0,0,Aucun,9,0
+ASS01442,David,Julien,H,44,Fonctionnaire,39214,Marseille,13008,Bronze,Actif,2014-10-24,2015-10-24,203,418,1000,1,Berline,Professionnel,10,10385,0.82,1,960,Vol,36,0
+ASS01443,Dupont,Julien,H,44,Employé,33116,Strasbourg,67200,Silver,Actif,2014-11-19,2015-11-19,185,813,500,3,Citadine,Loisirs,5,4932,1.13,1,870,Accident,22,0
+ASS01444,Bernard,Romain,H,51,Fonctionnaire,35409,Paris,75011,Silver,Actif,2024-08-23,2025-08-23,121,484,500,5,SUV,Domicile-Travail,13,28284,0.73,0,0,Aucun,0,0
+ASS01445,Garcia,Sarah,F,38,Technicien,32933,Bordeaux,33300,Silver,Actif,2019-02-21,2020-02-21,226,531,300,6,Berline,Domicile-Travail,7,25386,0.81,1,472,Dégât des eaux,18,0
+ASS01446,Girard,Marie,F,47,Technicien,31732,Paris,75015,Bronze,Actif,2018-02-20,2019-02-20,202,291,750,1,Berline,Professionnel,7,32163,0.72,0,0,Aucun,7,0
+ASS01447,Durand,Laurent,H,50,Cadre,65439,Lyon,69003,Platine,Actif,2023-12-21,2024-12-21,330,1579,0,9,Citadine,Loisirs,5,8883,1.19,1,790,Incendie,33,0
+ASS01448,Durand,Isabelle,F,45,Cadre,52586,Marseille,13013,Bronze,Résilié,2019-09-18,2020-09-18,216,460,500,3,Camion,Domicile-Travail,18,10173,0.87,1,722,Dégât des eaux,26,1
+ASS01449,Fontaine,Éric,H,64,Profession libérale,81691,Marseille,13008,Silver,Actif,2015-05-20,2016-05-20,43,974,750,4,Berline,Mixte,8,33801,0.68,0,0,Aucun,1,0
+ASS01450,Petit,David,H,50,Technicien,36700,Nice,6300,Gold,Actif,2023-10-15,2024-10-15,23,1467,500,6,Utilitaire,Domicile-Travail,8,15492,0.84,0,0,Aucun,7,0
+ASS01451,Fontaine,Christophe,H,22,Technicien,25298,Marseille,13008,Silver,Actif,2021-09-01,2022-09-01,27,393,500,3,Berline,Mixte,6,11142,0.8,0,0,Aucun,21,0
+ASS01452,Richard,Sarah,F,77,Profession libérale,85487,Marseille,13001,Bronze,Actif,2018-04-10,2019-04-10,186,490,500,3,Citadine,Mixte,10,17304,0.74,0,0,Aucun,19,0
+ASS01453,Richard,Valérie,F,78,Fonctionnaire,46897,Lyon,69009,Silver,Actif,2023-04-11,2024-04-11,249,977,300,5,Berline,Mixte,11,13401,0.64,0,0,Aucun,14,0
+ASS01454,Dubois,Julie,F,65,Cadre,71580,Marseille,13004,Silver,Actif,2023-10-08,2024-10-08,237,352,750,5,Berline,Professionnel,10,9264,0.57,0,0,Aucun,19,0
+ASS01455,Petit,Amélie,F,36,Ouvrier,19029,Lyon,69001,Bronze,Actif,2022-09-24,2023-09-24,37,419,1000,4,Moto,Domicile-Travail,6,10230,0.64,0,0,Aucun,13,0
+ASS01456,Fontaine,Julie,F,21,Cadre,47078,Paris,75018,Silver,Actif,2017-09-27,2018-09-27,6,485,500,3,SUV,Domicile-Travail,12,14674,0.77,0,0,Aucun,24,0
+ASS01457,Durand,Manon,F,52,Profession libérale,80594,Toulouse,31300,Silver,Actif,2024-10-28,2025-10-28,321,755,500,4,Berline,Professionnel,6,23279,0.61,0,0,Aucun,5,0
+ASS01458,Simon,Sophie,F,66,Ouvrier,26899,Nice,6300,Silver,Actif,2020-04-06,2021-04-06,22,927,750,4,Camion,Domicile-Travail,22,36645,0.67,0,0,Aucun,23,0
+ASS01459,Leroy,Manon,F,34,Entrepreneur,48525,Toulouse,31100,Gold,Actif,2015-11-18,2016-11-18,105,1100,150,6,Berline,Domicile-Travail,8,9286,0.65,0,0,Aucun,0,0
+ASS01460,David,Julie,F,61,Cadre,69106,Marseille,13001,Gold,Actif,2019-07-11,2020-07-11,88,1517,500,7,Camion,Professionnel,19,46815,0.81,0,0,Aucun,31,0
+ASS01461,David,Antoine,H,45,Cadre,57967,Marseille,13008,Gold,Actif,2018-01-08,2019-01-08,153,1496,150,8,Camion,Domicile-Travail,22,73208,0.85,0,0,Aucun,21,0
+ASS01462,Rousseau,Clara,F,47,Employé,32293,Montpellier,34000,Bronze,Actif,2024-09-28,2025-09-28,125,293,1000,4,Citadine,Mixte,5,6831,1.33,2,5843,Bris de glace,38,0
+ASS01463,Martin,Julie,F,46,Employé,25347,Bordeaux,33000,Gold,Actif,2016-01-10,2017-01-10,79,1256,300,7,Berline,Professionnel,8,22861,0.64,0,0,Aucun,16,0
+ASS01464,Leroy,Manon,F,63,Employé,30457,Marseille,13008,Gold,Actif,2016-09-23,2017-09-23,346,1043,150,7,Berline,Professionnel,11,14957,0.9,1,2613,Bris de glace,25,0
+ASS01465,Blanc,Sandrine,F,70,Retraité,29924,Paris,75018,Silver,Actif,2020-12-09,2021-12-09,51,744,500,5,SUV,Professionnel,11,27665,0.56,0,0,Aucun,14,0
+ASS01466,Petit,Amélie,F,23,Employé,22910,Lyon,69009,Silver,Actif,2021-09-13,2022-09-13,24,596,500,5,Berline,Mixte,11,17970,0.57,0,0,Aucun,16,0
+ASS01467,Garnier,Léa,F,52,Employé,32118,Marseille,13008,Gold,Actif,2017-12-05,2018-12-05,176,1280,500,5,Camion,Professionnel,11,30103,0.57,0,0,Aucun,17,0
+ASS01468,Thomas,Manon,F,77,Profession libérale,87729,Marseille,13013,Gold,Actif,2019-03-31,2020-03-31,358,1091,300,8,SUV,Loisirs,14,22603,0.55,0,0,Aucun,10,0
+ASS01469,Rousseau,Sarah,F,58,Technicien,45078,Toulouse,31100,Silver,Actif,2015-09-15,2016-09-15,253,757,500,6,Citadine,Domicile-Travail,11,2000,0.57,0,0,Aucun,0,0
+ASS01470,Richard,Camille,F,54,Fonctionnaire,47063,Bordeaux,33000,Gold,Actif,2024-06-21,2025-06-21,246,1098,500,5,Citadine,Mixte,11,10790,0.58,0,0,Aucun,0,0
+ASS01471,François,Chloé,F,41,Cadre,53039,Toulouse,31300,Gold,Actif,2021-08-15,2022-08-15,227,1007,150,8,SUV,Professionnel,13,17003,0.54,0,0,Aucun,7,0
+ASS01472,Martin,Marie,F,46,Technicien,36552,Nantes,44100,Silver,Actif,2014-10-25,2015-10-25,106,718,500,5,Citadine,Loisirs,7,25672,0.76,0,0,Aucun,5,0
+ASS01473,Rousseau,David,H,66,Cadre,64886,Strasbourg,67000,Silver,Actif,2016-12-11,2017-12-11,193,1082,500,4,Utilitaire,Domicile-Travail,11,7635,0.9,0,0,Aucun,0,0
+ASS01474,Robert,Maxime,H,63,Cadre,67742,Nice,6300,Silver,Actif,2021-08-12,2022-08-12,316,512,500,6,Berline,Loisirs,11,36768,0.9,1,3698,Incendie,20,0
+ASS01475,Garnier,Valérie,F,70,Retraité,26418,Lille,59160,Bronze,Actif,2022-05-07,2023-05-07,302,418,1000,2,Berline,Domicile-Travail,5,15326,0.52,0,0,Aucun,2,0
+ASS01476,Dupont,Marie,F,48,Cadre,56874,Paris,75015,Platine,Résilié,2014-10-31,2015-10-31,36,1685,0,8,Citadine,Mixte,7,13703,0.67,0,0,Aucun,8,1
+ASS01477,Martin,Éric,H,52,Technicien,40041,Paris,75001,Gold,Actif,2017-08-04,2018-08-04,204,1195,500,6,SUV,Mixte,12,32551,0.84,0,0,Aucun,0,0
+ASS01478,Blanc,Sandrine,F,77,Employé,34457,Paris,75020,Silver,Actif,2015-10-26,2016-10-26,267,993,300,6,Citadine,Domicile-Travail,5,10987,0.55,0,0,Aucun,3,0
+ASS01479,Thomas,Pierre,H,50,Employé,27591,Toulouse,31300,Bronze,Résilié,2022-01-25,2023-01-25,268,375,500,4,Utilitaire,Loisirs,4,7825,0.84,0,0,Aucun,5,1
+ASS01480,Bonnet,Maxime,H,69,Retraité,24245,Montpellier,34170,Bronze,Actif,2017-02-15,2018-02-15,170,369,750,2,Berline,Domicile-Travail,5,21256,0.74,0,0,Aucun,0,0
+ASS01481,Bernard,Alexandre,H,78,Cadre,73415,Lyon,69006,Platine,Résilié,2024-12-08,2025-12-08,39,3056,0,8,Utilitaire,Professionnel,8,15750,0.87,0,0,Aucun,17,1
+ASS01482,Simon,Nicolas,H,38,Ouvrier,25114,Montpellier,34080,Silver,Actif,2019-06-16,2020-06-16,199,710,500,3,SUV,Domicile-Travail,14,22853,0.85,0,0,Aucun,2,0
+ASS01483,Robert,David,H,49,Entrepreneur,56596,Paris,75020,Gold,Suspendu,2023-07-28,2024-07-28,139,1001,300,6,Citadine,Loisirs,6,7567,1.46,2,5000,Bris de glace,39,1
+ASS01484,Garnier,Julie,F,40,Technicien,21789,Lille,59000,Bronze,Actif,2021-10-09,2022-10-09,52,493,1000,3,Utilitaire,Domicile-Travail,7,14206,0.76,0,0,Aucun,0,0
+ASS01485,Simon,Maxime,H,50,Retraité,23272,Lyon,69001,Bronze,Actif,2021-05-18,2022-05-18,287,430,750,2,Citadine,Domicile-Travail,11,15546,0.59,0,0,Aucun,0,0
+ASS01486,Martin,Sophie,F,20,Cadre,44354,Paris,75011,Silver,Actif,2014-07-28,2015-07-28,1,550,750,4,Berline,Domicile-Travail,9,14560,1.23,1,2397,Dégât des eaux,38,0
+ASS01487,Bonnet,Sandrine,F,35,Employé,25162,Bordeaux,33300,Silver,Actif,2022-10-04,2023-10-04,141,511,500,6,Citadine,Domicile-Travail,7,16497,1.19,1,2623,Vol,16,0
+ASS01488,Richard,Éric,H,42,Employé,21655,Lyon,69009,Bronze,Actif,2017-08-09,2018-08-09,146,331,1000,1,Utilitaire,Loisirs,10,12440,1.18,1,4668,Incendie,16,0
+ASS01489,Michel,Romain,H,59,Profession libérale,73758,Lyon,69003,Gold,Actif,2015-06-03,2016-06-03,314,1438,150,5,Moto,Domicile-Travail,5,12656,0.84,1,0,Dégât des eaux,27,0
+ASS01490,David,Camille,F,48,Entrepreneur,61672,Lyon,69003,Gold,Actif,2023-01-07,2024-01-07,184,1119,300,8,SUV,Loisirs,13,26343,0.62,0,0,Aucun,7,0
+ASS01491,Thomas,François,H,71,Employé,31271,Strasbourg,67000,Gold,Actif,2019-10-26,2020-10-26,152,1587,300,6,Berline,Mixte,9,10084,0.84,0,0,Aucun,18,0
+ASS01492,Michel,François,H,75,Ouvrier,27853,Bordeaux,33000,Bronze,Actif,2014-12-04,2015-12-04,201,453,750,2,Utilitaire,Professionnel,11,6355,0.87,1,1718,Vol,41,0
+ASS01493,Lambert,Valérie,F,20,Employé,25200,Lyon,69006,Gold,Actif,2021-12-20,2022-12-20,23,940,300,8,Citadine,Mixte,11,17779,0.62,0,0,Aucun,6,0
+ASS01494,Leroy,Marie,F,57,Technicien,35445,Toulouse,31100,Bronze,Actif,2018-12-19,2019-12-19,253,313,750,2,Moto,Mixte,7,6970,0.67,0,0,Aucun,4,0
+ASS01495,Lambert,Alexandre,H,63,Technicien,46687,Nice,6300,Silver,Actif,2019-02-13,2020-02-13,266,748,300,6,Citadine,Domicile-Travail,9,20328,0.7,0,0,Aucun,2,0
+ASS01496,David,Léa,F,41,Entrepreneur,53091,Lyon,69003,Bronze,Actif,2024-09-26,2025-09-26,188,390,1000,2,Camion,Domicile-Travail,15,50654,0.57,0,0,Aucun,15,0
+ASS01497,Rousseau,David,H,67,Ouvrier,29612,Marseille,13004,Bronze,Actif,2024-06-07,2025-06-07,230,303,750,1,SUV,Loisirs,13,28043,0.89,0,0,Aucun,8,0
+ASS01498,Durand,Romain,H,49,Employé,32431,Paris,75020,Silver,Actif,2016-07-01,2017-07-01,271,884,500,3,Utilitaire,Mixte,4,14431,0.73,0,0,Aucun,0,0
+ASS01499,Robert,Christophe,H,64,Cadre,73777,Paris,75018,Silver,Actif,2023-03-01,2024-03-01,259,989,500,3,SUV,Mixte,9,29647,0.71,0,0,Aucun,7,0
